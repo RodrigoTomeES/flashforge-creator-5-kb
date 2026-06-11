@@ -5,11 +5,11 @@ source: https://wiki.flashforge.com/en/creator-series/creator-5-series/troublesh
 
 > Official wiki page: https://wiki.flashforge.com/en/creator-series/creator-5-series/troubleshooting-print-quality-problems
 
-## Preface
+## Preface [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/troubleshooting-print-quality-problems#preface)
 
 This guide summarizes the general solutions for the quality of C5 series printer models, highlighting the differences between multi-head and single-head. For the general quality defect guide, please refer to another article, "Guide to Solving Print Quality Material-Related Issues and Related Accessories".
 
-## Problem Classification and Solutions
+## Problem Classification and Solutions [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/troubleshooting-print-quality-problems#problem-classification-and-solutions)
 
 1.Multi-head offset calibration anomaly
 

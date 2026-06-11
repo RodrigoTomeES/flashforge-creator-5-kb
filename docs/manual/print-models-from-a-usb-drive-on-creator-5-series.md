@@ -8,7 +8,7 @@ source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/pr
 There are multiple ways to transfer print data, such as via USB drive or Flash Studio. This section outlines the procedure for printing via a USB drive.  
 Note: Ensure all preparations are complete before connecting a USB drive. If unsure of the required steps, refer to the "[Preparation before Printing](preparation-before-printing.md)" section.
 
-## Exporting print data from Flash Studio
+## Exporting print data from Flash Studio [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/print-models-from-a-usb-drive-on-creator-5-series#exporting-print-data-from-flash-studio)
 
 After slicing the model in Flash Studio, open the drop-down menu in the upper-right corner. You will see options such as \[Print plate\], \[Send\], \[Export plate sliced file\], and \[Export G-code file\].
 
@@ -26,7 +26,7 @@ You can also export files by navigating to File > Export. The difference between
 ② Export plate sliced file: Saves the model as a sliced .3mf file. This contains the sliced data and is ready for printing  
 To transfer files via a USB drive, select either \[Export plate sliced file\] or \[Export G-code file\].
 
-## Transferring Data to a USB Drive
+## Transferring Data to a USB Drive [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/print-models-from-a-usb-drive-on-creator-5-series#transferring-data-to-a-usb-drive)
 
 1.Insert a USB drive into a USB port on your computer.
 
@@ -40,7 +40,7 @@ To transfer files via a USB drive, select either \[Export plate sliced file\] or
 
 Note: Print files must be in sliced .3mf or .gcode format. Standard 3D geometry files, such as .stl, cannot be used for printing.
 
-## Printing via USB Drive
+## Printing via USB Drive [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/print-models-from-a-usb-drive-on-creator-5-series#printing-via-usb-drive)
 
 1.Insert the USB drive into the USB port on the right side of the screen. Once connected, a USB icon will appear in the Status Bar at the top of the screen.
 

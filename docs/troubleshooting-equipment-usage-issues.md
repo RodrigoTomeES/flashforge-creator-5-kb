@@ -5,7 +5,7 @@ source: https://wiki.flashforge.com/en/creator-series/creator-5-series/troublesh
 
 > Official wiki page: https://wiki.flashforge.com/en/creator-series/creator-5-series/troubleshooting-equipment-usage-issues
 
-## 1\. Filament Guide Tube Clogged.
+## 1\. Filament Guide Tube Clogged. [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/troubleshooting-equipment-usage-issues#h-1-filament-guide-tube-clogged)
 
 **Issue:** During filament change, the filament cannot pass through the filament guide tube.
 
@@ -17,7 +17,7 @@ source: https://wiki.flashforge.com/en/creator-series/creator-5-series/troublesh
 
 **Solution:** Remove the broken filament remained in the filament guide tube.
 
-## 2\. Filament Extrusion Issue.
+## 2\. Filament Extrusion Issue. [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/troubleshooting-equipment-usage-issues#h-2-filament-extrusion-issue)
 
 **Issue:** 1. Under-extrusion; 2. No filament extrusion.
 
@@ -43,13 +43,13 @@ Step 4: If the above steps don't work, replace the nozzle.
 
 Step 5: If the above steps still don't solve the problem, check for extruder blockage.
 
-## 3\. No Extrusion on the First Yayer.
+## 3\. No Extrusion on the First Yayer. [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/troubleshooting-equipment-usage-issues#h-3-no-extrusion-on-the-first-yayer)
 
 **Cause:** Distance too close.
 
 **Solution:** Re-level.
 
-## 4\. Model Not Sticking to the Build Plate.
+## 4\. Model Not Sticking to the Build Plate. [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/troubleshooting-equipment-usage-issues#h-4-model-not-sticking-to-the-build-plate)
 
 **Cause:**
 
@@ -81,7 +81,7 @@ Step 3: If the above steps don't work, manually raise the bed by 0.05-0.1mm duri
 
 Step 4: If the above steps still don't solve the problem, please copy logs to a USB flash drive and contact customer support.
 
-## 5\. Nozzle Scraping Against the Built Plate.
+## 5\. Nozzle Scraping Against the Built Plate. [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/troubleshooting-equipment-usage-issues#h-5-nozzle-scraping-against-the-built-plate)
 
 **Issues:** After automatic leveling, the extruder is too close to the bed when printing the first layer, causing the nozzle to scrape against the build plate.
 
@@ -97,7 +97,7 @@ Step 3: If the above steps don't work, consider checking for firmware updates. U
 
 Step 4: If the above steps still don't solve the problem, please copy logs to a USB flash drive and contact customer support.
 
-## 6.Nozzle Clogged
+## 6.Nozzle Clogged [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/troubleshooting-equipment-usage-issues#h-6nozzle-clogged)
 
 Issue: When printing, the nozzle fails to extrude filament properly.
 

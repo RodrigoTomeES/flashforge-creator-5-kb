@@ -5,13 +5,13 @@ source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/pr
 
 > Official wiki page: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/printing-on-the-build-plate
 
-## Textured PEI Plate
+## Textured PEI Plate [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/printing-on-the-build-plate#textured-pei-plate)
 
 The textured PEI Plate is made by coating a layer of PEI powder onto a stainless steel sheet. Its surface features a distinctive textured finish, which is also transferred to the bottom of your prints. It is compatible with a wide range of filaments and, in most cases, delivers excellent adhesion without the need for glue, making it extremely easy and convenient to use.
 
 ![14pei.png](https://wiki.flashforge.com/resource/pictures/creator5_en/14pei.png)
 
-## Features
+## Features [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/printing-on-the-build-plate#features)
 
 **1\. Strong Adhesion, Long-Term Durability, Easy Part Removal**  
 After optimizing the manufacturing process of the Textured PEI Plate, its adhesion and durability have been significantly improved. When printing with PLA, PETG, or TPU on this plate, no solid or liquid glue is needed.
@@ -26,7 +26,7 @@ The Textured PEI Plate can be used not only for common filaments such as PLA, TP
 
 > Note: Before printing high-temperature filaments such as ABS, ASA, PA, or PC, be sure to apply an even layer of glue to the build plate. Without sufficient adhesion, prints may warp or detach, potentially colliding with the extruder and causing print failure.
 
-## 纹理PEI板清洁
+## 纹理PEI板清洁 [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/printing-on-the-build-plate#纹理pei板清洁)
 
 The Textured PEI Plate is made by coating PEI powder onto a steel sheet. After extended use, you may notice reduced adhesion. Below are the recommended cleaning methods for the PEI plate.
 
@@ -56,7 +56,7 @@ lint-free paper
 
 ![18wiper\_clean.png](https://wiki.flashforge.com/resource/pictures/creator5_en/18wiper_clean.png)
 
-## Common Issues
+## Common Issues [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/printing-on-the-build-plate#common-issues)
 
 **Prints Detaching**  
 **Solutions:**

@@ -5,7 +5,7 @@ source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/pr
 
 > Official wiki page: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/printer-setup
 
-## Change Printer Name
+## Change Printer Name [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/printer-setup#change-printer-name)
 
 1.Tap the \[Settings\] icon ![en1.jpg](https://wiki.flashforge.com/resource/pictures/creator5_en/basic_setup/en1.jpg) in the Navigation Bar, then tap \[Basic Settings\].
 
@@ -19,7 +19,7 @@ source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/pr
 
 ![en5.jpg](https://wiki.flashforge.com/resource/pictures/creator5_en/basic_setup/en5.jpg)
 
-## Change Printer Location
+## Change Printer Location [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/printer-setup#change-printer-location)
 
 1.Tap the \[Settings\] icon ![en1.jpg](https://wiki.flashforge.com/resource/pictures/creator5_en/basic_setup/en1.jpg) in the Navigation Bar, then tap \[Basic Settings\].
 
@@ -33,7 +33,7 @@ source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/pr
 
 ![en7.jpg](https://wiki.flashforge.com/resource/pictures/creator5_en/basic_setup/en7.jpg)
 
-## Sound
+## Sound [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/printer-setup#sound)
 
 1.Tap the \[Settings\] icon ![en1.jpg](https://wiki.flashforge.com/resource/pictures/creator5_en/basic_setup/en1.jpg) in the Navigation Bar, then tap \[Basic Settings\].
 
@@ -43,7 +43,7 @@ source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/pr
 
 ![en8.jpg](https://wiki.flashforge.com/resource/pictures/creator5_en/basic_setup/en8.jpg)
 
-## Clog Detection
+## Clog Detection [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/printer-setup#clog-detection)
 
 1.Tap the \[Settings\] icon ![en1.jpg](https://wiki.flashforge.com/resource/pictures/creator5_en/basic_setup/en1.jpg) in the Navigation Bar, then tap \[Basic Settings\].
 
@@ -53,7 +53,7 @@ source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/pr
 
 ![en9.jpg](https://wiki.flashforge.com/resource/pictures/creator5_en/basic_setup/en9.jpg)
 
-## Language
+## Language [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/printer-setup#language)
 
 1.Tap the \[Settings\] icon ![en1.jpg](https://wiki.flashforge.com/resource/pictures/creator5_en/basic_setup/en1.jpg) in the Navigation Bar, then tap \[Basic Settings\].
 
@@ -67,7 +67,7 @@ source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/pr
 
 ![en11.jpg](https://wiki.flashforge.com/resource/pictures/creator5_en/basic_setup/en11.jpg)
 
-## Factory Reset
+## Factory Reset [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/printer-setup#factory-reset)
 
 1.Tap the \[Settings\] icon ![en1.jpg](https://wiki.flashforge.com/resource/pictures/creator5_en/basic_setup/en1.jpg) in the Navigation Bar, then tap \[Basic Settings\].
 

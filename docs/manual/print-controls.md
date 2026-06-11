@@ -29,19 +29,19 @@ Once a print task starts, the printer enters active mode, and the Home screen di
     Displays the remaining time and progress as a percentage.
     
 
-## Pause Print
+## Pause Print [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/print-controls#pause-print)
 
 Tap **Pause** to pause the print, and **Continue** to resume printing.
 
 ![print-controls-02.png](https://wiki.flashforge.com/resource/pictures/creator5_en/print-controls/print-controls-02.png)
 
-## End Print
+## End Print [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/print-controls#end-print)
 
 Tap **End** to cancel the print.
 
 ![print-controls-03.png](https://wiki.flashforge.com/resource/pictures/creator5_en/print-controls/print-controls-03.png)
 
-## View Print Details
+## View Print Details [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/print-controls#view-print-details)
 
 While a print task is running, tap the **View Info** icon to see details of the current print.
 
@@ -68,7 +68,7 @@ While a print task is running, tap the **View Info** icon to see details of the 
     Displays the current speed of the Auxiliary Cooling Fan as a percentage of its maximum speed.
     
 
-### Adjust Fan Speed
+### Adjust Fan Speed [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/print-controls#adjust-fan-speed)
 
 Model Cooling Fan and Auxiliary Cooling Fan speeds can be adjusted during printing.  
 Tap the **Edit** icon, use **+** and **\-** to adjust the speed, then tap ✔️ to apply.
@@ -77,7 +77,7 @@ Tap the **Edit** icon, use **+** and **\-** to adjust the speed, then tap ✔️
 
 ![print-controls-07.png](https://wiki.flashforge.com/resource/pictures/creator5_en/print-controls/print-controls-07.png)
 
-## Change Print Mode
+## Change Print Mode [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/print-controls#change-print-mode)
 
 Print mode adjusts the overall movement speed of the extruder without changing the original slicing settings.
 

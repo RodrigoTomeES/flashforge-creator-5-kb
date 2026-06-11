@@ -5,11 +5,11 @@ source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/lo
 
 > Official wiki page: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/loading-filament
 
-# Loading Filament
+# Loading Filament [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/loading-filament#loading-filament)
 
 Note: The following steps demonstrate the process for a single extruder. Repeat these steps for other extruders as needed.
 
-## Preparation
+## Preparation [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/loading-filament#preparation)
 
 1.Cut off the bent or deformed end of the filament at an angle.
 
@@ -19,7 +19,7 @@ Note: The following steps demonstrate the process for a single extruder. Repeat 
 
 ![](https://wiki.flashforge.com/resource/pictures/creator5_en/load_filament/12.png)
 
-## Loading Filament
+## Loading Filament [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/loading-filament#loading-filament-1)
 
 1.Select the slot where you just fed the filament, then tap **Edit** to set the filament Type and Color.
 

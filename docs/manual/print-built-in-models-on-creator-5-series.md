@@ -7,7 +7,7 @@ source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/pr
 
 Models printed from a USB drive or sent remotely via Flash Studio are automatically saved to the printer's internal storage.
 
-## Printing 3mf file from Internal Storage
+## Printing 3mf file from Internal Storage [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/print-built-in-models-on-creator-5-series#printing-3mf-file-from-internal-storage)
 
 1.Tap \[Print File\] on the Home Screen.
 
@@ -54,7 +54,7 @@ You can also adjust the speed of the Part Cooling Fan and the Auxiliary Cooling 
 
 Note: If the model warps or shifts during printing, simply remove the oil film and dirt from the PEI board surface with alcohol or a cleaning agent to restore adhesion. If you find that the PEI board still cannot stick to the model after cleaning, it is recommended to apply glue or replace the PEI board.
 
-## Printing gcode file from Internal Storage
+## Printing gcode file from Internal Storage [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/print-built-in-models-on-creator-5-series#printing-gcode-file-from-internal-storage)
 
 1.Click the "Print File" button on the main interface.
 

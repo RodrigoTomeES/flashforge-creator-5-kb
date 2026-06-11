@@ -5,7 +5,7 @@ source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/ch
 
 > Official wiki page: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/change-filament-on-creator-5-series
 
-# Unloading Filament
+# Unloading Filament [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/change-filament-on-creator-5-series#unloading-filament)
 
 1.Press the filament cutter lever to cut the filament. Then, firmly withdraw the filament until it is completely removed.After replacing the consumables, click [**loading filament**](loading-filament.md) to feed the filament if needed.
 

@@ -5,7 +5,7 @@ source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/pr
 
 > Official wiki page: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/printer-gui-instructions
 
-## Home
+## Home [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/printer-gui-instructions#home)
 
 ![printer-gui-home.png](https://wiki.flashforge.com/resource/pictures/creator5_en/printer-gui-instructions/printer-gui-home.png)
 
@@ -59,7 +59,7 @@ source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/pr
      For more details, see [Change Print Mode](print-controls.md#change-print-mode).
      
 
-## Filament Settings
+## Filament Settings [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/printer-gui-instructions#filament-settings)
 
 ![printer-gui-filament-edit.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/printer-gui-instructions/printer-gui-filament-edit.png)
 
@@ -76,9 +76,9 @@ source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/pr
     Displays instructions for manual filament unloading.
     
 
-## Move & Calibrate
+## Move & Calibrate [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/printer-gui-instructions#move-calibrate)
 
-### Move
+### Move [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/printer-gui-instructions#move)
 
 ![printer-gui-xyz-control.png](https://wiki.flashforge.com/resource/pictures/creator5_en/printer-gui-instructions/printer-gui-xyz-control.png)
 
@@ -105,13 +105,13 @@ source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/pr
     For more details, see [Motion Control](XYZ-E-movement-control.md).
     
 
-### Calibrate
+### Calibrate [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/printer-gui-instructions#calibrate)
 
 ![printer-gui-xyz-calibration.png](https://wiki.flashforge.com/resource/pictures/creator5_en/printer-gui-instructions/printer-gui-xyz-calibration.png)
 
 Manually perform Extruder Offset calibration, or run automatic calibrations such as bed leveling and vibration compensation.
 
-## Settings
+## Settings [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/printer-gui-instructions#settings)
 
 ![printer-gui-settings.png](https://wiki.flashforge.com/resource/pictures/creator5_en/printer-gui-instructions/printer-gui-settings.png)
 
@@ -140,7 +140,7 @@ Manually perform Extruder Offset calibration, or run automatic calibrations such
     Displays a QR code for the complete User Guide, customer support contact info, and the docking status of each extruder.
     
 
-### Basic Settings
+### Basic Settings [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/printer-gui-instructions#basic-settings)
 
 Tap the up/down arrows on the right side to view more options.
 

@@ -5,13 +5,13 @@ source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/un
 
 > Official wiki page: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5-pro
 
-## Step 1: Unboxing and Removal
+## Step 1: Unboxing and Removal [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5-pro#step-1-unboxing-and-removal)
 
 Open the box and remove the top foam and the Quick Start Guide.
 
 ![creator5p\_unboxing\_01.jpg](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/unbox/creator5p_unboxing_01.jpg)
 
-## Step 2: Remove the Printer
+## Step 2: Remove the Printer [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5-pro#step-2-remove-the-printer)
 
 Lift the printer out of the box along with its packaging, and place it on a level surface.
 
@@ -19,7 +19,7 @@ Lift the printer out of the box along with its packaging, and place it on a leve
 
 ![creator5p\_unboxing\_03.jpg](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/unbox/creator5p_unboxing_03.jpg)
 
-## Step 3: Remove the Foam and Accessories
+## Step 3: Remove the Foam and Accessories [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5-pro#step-3-remove-the-foam-and-accessories)
 
 Remove the packaging bag. Take out the top cover along with the protective foam inside the chamber.
 
@@ -39,7 +39,7 @@ Packaging list:
 
 ![2proboxlist.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/unbox/2proboxlist.png)
 
-## Step 4: Install the Display Screen
+## Step 4: Install the Display Screen [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5-pro#step-4-install-the-display-screen)
 
 1.  Align the slots on the back of the display screen with the mounting points on the printer. Then, attach the display screen as shown.  
     ![creator5p\_unboxing\_09.jpg](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/unbox/creator5p_unboxing_09.jpg)
@@ -48,7 +48,7 @@ Packaging list:
     ![creator5p\_unboxing\_10.jpg](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/unbox/creator5p_unboxing_10.jpg)
     
 
-## Step 5: Install the Extruder Module
+## Step 5: Install the Extruder Module [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5-pro#step-5-install-the-extruder-module)
 
 1.  Insert the four nozzle blockers into the slots of the extruder dock as shown.  
     ![creator5p\_unboxing\_11.jpg](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/unbox/creator5p_unboxing_11.jpg)  
@@ -67,13 +67,13 @@ Packaging list:
     ![creator5p\_unboxing\_16.jpg](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/unbox/creator5p_unboxing_16.jpg)
     
 
-## Step 6: Unlock the Print Bed
+## Step 6: Unlock the Print Bed [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5-pro#step-6-unlock-the-print-bed)
 
 Use a 2.0mm Allen wrench to remove the securing screws indicated by the arrows to unlock the print bed.
 
 ![creator5p\_unboxing\_17.jpg](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/unbox/creator5p_unboxing_17.jpg)
 
-## Step 7: Install the Top Cover
+## Step 7: Install the Top Cover [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5-pro#step-7-install-the-top-cover)
 
 1.  Slide each top cover panel into the grooves of the top cover pillars as shown. Make sure the sides with the clips are all facing the same direction during installation.  
     ![creator5p\_unboxing\_18.jpg](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/unbox/creator5p_unboxing_18.jpg)
@@ -88,7 +88,7 @@ Use a 2.0mm Allen wrench to remove the securing screws indicated by the arrows t
     ![creator5p\_unboxing\_23.jpg](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/unbox/creator5p_unboxing_23.jpg)
     
 
-## Step 8: Install the Spool Holder
+## Step 8: Install the Spool Holder [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5-pro#step-8-install-the-spool-holder)
 
 Remove the spool holder stickers. Insert a spool holder into the mounting hole on the right side of the printer as shown, and secure it with one M3×16 screw.
 
@@ -101,7 +101,7 @@ Repeat this process to install the remaining three spool holders.
 
 Unboxing is completed.
 
-## Unboxing Video
+## Unboxing Video [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5-pro#unboxing-video)
 
 View our full Unboxing Video for creator 5 Pro.  
 [▶ Video: https://www.youtube.com/watch?v=K4zkyfqSsig](https://www.youtube.com/watch?v=K4zkyfqSsig)

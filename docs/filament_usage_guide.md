@@ -5,11 +5,11 @@ source: https://wiki.flashforge.com/en/creator-series/creator-5-series/filament_
 
 > Official wiki page: https://wiki.flashforge.com/en/creator-series/creator-5-series/filament_usage_guide
 
-## Preface
+## Preface [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/filament_usage_guide#preface)
 
 The Wolverine 5 series of models support multi-material hybrid printing, offering advantages in both efficiency and material consumption compared to single-head multi-material printer models, while also giving rise to some new printing scenarios. This guide aims to help users reduce printing defects, improve printing success rates, and better leverage the advantages of multi-heads to complete each print job.
 
-## PLA and PETG support each other during printing
+## PLA and PETG support each other during printing [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/filament_usage_guide#pla-and-petg-support-each-other-during-printing)
 
 1、Filament Preparation  
 Drying  
@@ -32,7 +32,7 @@ In addition to platform and material extrusion temperature, modifying support pa
 3、Other suggestions  
 Since the mutual adhesion between support material and model material is not as good as that of using the same material, and using a single support material as the support body and contact surface will increase the number of head changes, it is generally recommended that only the raft layer/support interface layer use different materials for support.
 
-## Hybrid Printing of Soft and Hard Materials（Experimental Feature）
+## Hybrid Printing of Soft and Hard Materials（Experimental Feature） [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/filament_usage_guide#hybrid-printing-of-soft-and-hard-materialsexperimental-feature)
 
 1、Filament Preparation  
 Since soft materials usually absorb water easily, necessary drying and moisture-proof treatments are required. Using a material box with a drying function can maintain the dryness of the material during the printing process to the greatest extent.  
@@ -53,7 +53,7 @@ Open Path：Process--Multiaterial--Advanced--Use beam interlocking
 
 ![10filament.png](https://wiki.flashforge.com/resource/pictures/creator5_en/quality/10filament.png)
 
-## Special Support Material Printing
+## Special Support Material Printing [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/filament_usage_guide#special-support-material-printing)
 
 1、Filament Preparation  
 Support materials usually absorb water easily, so they must be pre-dried and kept dry throughout the printing process. It is recommended to use a drying hopper for printing to maintain optimal results.  
@@ -69,7 +69,7 @@ PVA or BVOH materials typically have poor interlayer adhesion, so it is recommen
 
 ![12filament.png](https://wiki.flashforge.com/resource/pictures/creator5_en/quality/12filament.png)
 
-## Mixed printing of other Filaments
+## Mixed printing of other Filaments [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/filament_usage_guide#mixed-printing-of-other-filaments)
 
 1、Filament Classification  
 High-temperature Filaments  

@@ -13,7 +13,7 @@ Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/error_cod
 
 > Error code list is the quick checklist for you to locate the possible issue on your Flashforge 3D printer. Please search for error code number or failure mode of the printer to locate causes and suggested actions.
 
-### E0001 Printer out of range. Please home again !
+### E0001 Printer out of range. Please home again ! [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0001-printer-out-of-range-please-home-again)
 
 Possible Causes and Solutions as bellow:
 
@@ -25,7 +25,7 @@ Possible Causes and Solutions as bellow:
 
 **Solution:** Re-slice the file.
 
-### E0002 Communication with MCU interrupted !
+### E0002 Communication with MCU interrupted ! [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0002-communication-with-mcu-interrupted)
 
 This issue typically occurs during printing, and the Possible Causes and Solutions as bellow:
 
@@ -41,7 +41,7 @@ This issue typically occurs during printing, and the Possible Causes and Solutio
 
 **Solution:** Replace the extruder board，please refer to the video.  [▶ Video: this video](https://youtu.be/bFT6mIpxazE).
 
-### E0003 X/Y/Z/E TMC error: GSTAT !
+### E0003 X/Y/Z/E TMC error: GSTAT ! [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0003-xyze-tmc-error-gstat)
 
 Possible Causes and Solutions as bellow:
 
@@ -53,7 +53,7 @@ Possible Causes and Solutions as bellow:
 
 **Solution:** first restart the printer.if the printer can't work, replace the extruder board if the extruder motor is abnormal.refer to the video. [▶ Video: this video](https://youtu.be/bFT6mIpxazE)
 
-### E0004 X/Y/Z/E motor TMC chip communication error !
+### E0004 X/Y/Z/E motor TMC chip communication error ! [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0004-xyze-motor-tmc-chip-communication-error)
 
 Possible Causes and Solutions as bellow:
 
@@ -65,7 +65,7 @@ Possible Causes and Solutions as bellow:
 
 **Solution:** first restart the printer.if the printer can't work,replace [the extruder board](https://wiki.flashforge.com/en/ad5x/maintenance/replacement_of_extruder_board) if the extruder motor is abnormal. If replacing the extruder board doesn't resolve the issue, it is recommended to replace [the extruder board communication cable](https://wiki.flashforge.com/en/ad5x/maintenance/replacement_of_extruder_bus) and [the mainboard](https://wiki.flashforge.com/en/ad5x/maintenance/replacement_of_motherboard_and_wi-fi_antenna) in order.
 
-### E0005 MCU: Unable to connect !
+### E0005 MCU: Unable to connect ! [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0005-mcu-unable-to-connect)
 
 After powering on, the extruder and bed temperatures are zero, and XYZ coordinates are zero. Possible causes as bellow:
 
@@ -81,7 +81,7 @@ After powering on, the extruder and bed temperatures are zero, and XYZ coordinat
 
 **Solution:** Replace the mainboard,please refer to the video. [▶ Video: this video](https://youtu.be/5h_mIf8kq_M).
 
-### E0006 Nozzle temperature below minimum temperature!
+### E0006 Nozzle temperature below minimum temperature! [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0006-nozzle-temperature-below-minimum-temperature)
 
 **Cause1：** Nozzle thermocouple cable is open circuit.
 
@@ -99,7 +99,7 @@ After powering on, the extruder and bed temperatures are zero, and XYZ coordinat
 
 **Solution:** Replace the mainboard,please refer to the video. [▶ Video: this video.](https://youtu.be/5h_mIf8kq_M)
 
-### E0007 Extruder T0 not heating as expected！
+### E0007 Extruder T0 not heating as expected！ [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0007-extruder-t0-not-heating-as-expected)
 
 **Cause1:**  Missing the Silicone thermal cover.
 
@@ -125,7 +125,7 @@ After powering on, the extruder and bed temperatures are zero, and XYZ coordinat
 
 **Solution:** Replace the mainboard,please refer to the video. [▶ Video: this video.](https://youtu.be/5h_mIf8kq_M)
 
-### E0008 Extruder T1 not heating as expected！
+### E0008 Extruder T1 not heating as expected！ [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0008-extruder-t1-not-heating-as-expected)
 
 \*\*Cause1：\*\*Damaged nozzle heater wire.
 
@@ -143,7 +143,7 @@ After powering on, the extruder and bed temperatures are zero, and XYZ coordinat
 
 **Solution:** Replace the mainboard
 
-### E0009 Heated bed not heating as expected！
+### E0009 Heated bed not heating as expected！ [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0009-heated-bed-not-heating-as-expected)
 
 This issue occurs when heating cannot reach the target temperature, and the possible causes are:
 
@@ -159,7 +159,7 @@ This issue occurs when heating cannot reach the target temperature, and the poss
 
 **Solution:** Replace the mainboard，please refer to the video. [▶ Video: this video.](https://youtu.be/5h_mIf8kq_M)
 
-### E0010 Chamber not heating as expected !
+### E0010 Chamber not heating as expected ! [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0010-chamber-not-heating-as-expected)
 
 This issue occurs when heating cannot reach the target temperature, and the possible causes are:
 
@@ -175,7 +175,7 @@ This issue occurs when heating cannot reach the target temperature, and the poss
 
 **Solution:**  Replace the mainboard.
 
-### E0011 Host error. Please restart!
+### E0011 Host error. Please restart! [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0011-host-error-please-restart)
 
 This issue typically occurs during printing when communication is suddenly interrupted, causing the system to enter protection mode, and the possible causes are:
 
@@ -187,7 +187,7 @@ This issue typically occurs during printing when communication is suddenly inter
 
 **Solution:** Replace the extruder board.refer to the video. [▶ Video: this video](https://youtu.be/bFT6mIpxazE)
 
-### E0012 X-axis homing error. X-axis sensor not triggered！
+### E0012 X-axis homing error. X-axis sensor not triggered！ [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0012-x-axis-homing-error-x-axis-sensor-not-triggered)
 
 the possible causes are：
 
@@ -199,7 +199,7 @@ the possible causes are：
 
 **Solution:** Replace the extruder board.refer to the video. [▶ Video: this video](https://youtu.be/bFT6mIpxazE)
 
-### E0013 Y-axis homing error. Y-axis sensor not triggered!
+### E0013 Y-axis homing error. Y-axis sensor not triggered! [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0013-y-axis-homing-error-y-axis-sensor-not-triggered)
 
 the possible causes are：
 
@@ -219,7 +219,7 @@ the possible causes are：
 
 **Solution:** Replace the homing sensor.refer to the video. [▶ Video: this video](https://youtu.be/hQooGmwCIAA)
 
-### E0014 Z-axis homing error. Z-axis sensor not triggered!
+### E0014 Z-axis homing error. Z-axis sensor not triggered! [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0014-z-axis-homing-error-z-axis-sensor-not-triggered)
 
 the possible causes are：
 
@@ -239,7 +239,7 @@ the possible causes are：
 
 **Solution:** Replace the homing sensor.refer to the video. [▶ Video: this video](https://youtu.be/m_87nULNxUc)
 
-### E0015 Extruder temperature < -10!
+### E0015 Extruder temperature < -10! [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0015-extruder-temperature-10)
 
 This issue occurs when resuming printing after a power outage, and the system detects the temperature.the possible causes are:
 
@@ -251,7 +251,7 @@ This issue occurs when resuming printing after a power outage, and the system de
 
 **Solution:** Reconnect Thermocouple cable
 
-### E0016 Heated bed temperature < -10!
+### E0016 Heated bed temperature < -10! [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0016-heated-bed-temperature-10)
 
 This issue occurs when resuming printing after a power outage, and the system detects the temperature.the possible causes are:
 
@@ -263,7 +263,7 @@ This issue occurs when resuming printing after a power outage, and the system de
 
 **Solution:** Reconnect print bed cable .
 
-### E0017 Command exceeds queue limit!
+### E0017 Command exceeds queue limit! [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0017-command-exceeds-queue-limit)
 
 The rootcause is the print speed is too fast, causing a buffer overflow.the solutions are:
 
@@ -271,7 +271,7 @@ The rootcause is the print speed is too fast, causing a buffer overflow.the solu
 
 2\. Reduce the resolution when slicing.
 
-### E0018 Language initialization failed. Please retry!
+### E0018 Language initialization failed. Please retry! [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0018-language-initialization-failed-please-retry)
 
 the possible causes are:
 
@@ -283,7 +283,7 @@ the possible causes are:
 
 2\. Re-select the language in the device settings.
 
-### E0019 USB flash drive read error!
+### E0019 USB flash drive read error! [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0019-usb-flash-drive-read-error)
 
 the possible causes are:
 
@@ -303,7 +303,7 @@ the possible causes are:
 
 **Solution:** Replace the mainboard,please refer to the video. [▶ Video: this video.](https://youtu.be/5h_mIf8kq_M)
 
-### E0020 Real-time video service failure！
+### E0020 Real-time video service failure！ [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0020-real-time-video-service-failure)
 
 Possible Causes are:
 
@@ -313,7 +313,7 @@ Possible Causes are:
 
 \*\*Cause3：\*\*Camera is faulty.
 
-### E0021 Failed to enable the camera. Please check!
+### E0021 Failed to enable the camera. Please check! [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0021-failed-to-enable-the-camera-please-check)
 
 Possible Causes are:
 
@@ -337,7 +337,7 @@ Possible Causes are:
 
 **Solution:** Replace the mainboard,please refer to the video. [▶ Video: this video.](https://youtu.be/5h_mIf8kq_M)
 
-### E0022 Insufficient storage space!
+### E0022 Insufficient storage space! [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0022-insufficient-storage-space)
 
 Possible Causes are:
 
@@ -349,7 +349,7 @@ Possible Causes are:
 
 2\. If space is not freed after deleting internal photos and models, please contact customer support.
 
-### E0028 File copy error!
+### E0028 File copy error! [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0028-file-copy-error)
 
 Possible Causes are:
 
@@ -361,7 +361,7 @@ Possible Causes are:
 
 **Solution:** Clean up space on the printer or USB flash drive.
 
-### E0029 Model download failed!
+### E0029 Model download failed! [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0029-model-download-failed)
 
 Possible Causes are:
 
@@ -373,7 +373,7 @@ Possible Causes are:
 
 **Solution:** Ensure stable network communication and resend the file.
 
-### E0041 Leveling sensor data cannot be cleared. Please check!
+### E0041 Leveling sensor data cannot be cleared. Please check! [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0041-leveling-sensor-data-cannot-be-cleared-please-check)
 
 Possible Causes are:
 
@@ -389,7 +389,7 @@ Possible Causes are:
 
 **Solution:** Replace the mainboard.please refer to the video. [▶ Video: this video.](https://youtu.be/5h_mIf8kq_M)
 
-### E0042 Leveling sensor not triggered. Please check!
+### E0042 Leveling sensor not triggered. Please check! [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0042-leveling-sensor-not-triggered-please-check)
 
 Possible Causes are:
 
@@ -409,7 +409,7 @@ Possible Causes are:
 
 **Solution:** Check if the extruder is missing or if the bed nuts are too tight. It's fine to loosen all four nuts by 1-2 turns.
 
-### E0043 Leveling sensor triggered early. Please check!
+### E0043 Leveling sensor triggered early. Please check! [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0043-leveling-sensor-triggered-early-please-check)
 
 Possible Causes are:
 
@@ -425,7 +425,7 @@ Possible Causes are:
 
 **Solution:** Replace the leveling PCB.please refer to the video. [▶ Video: this video.](https://youtu.be/g7aEL7tKleQ)
 
-### E0046 Heated bed temperature control error!
+### E0046 Heated bed temperature control error! [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0046-heated-bed-temperature-control-error)
 
 Possible Causes are:
 
@@ -441,7 +441,7 @@ Possible Causes are:
 
 **Solution:** Replace the mainboard.please refer to the video. [▶ Video: this video.](https://youtu.be/5h_mIf8kq_M)
 
-### E0047 Heated bed heating timeout！
+### E0047 Heated bed heating timeout！ [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0047-heated-bed-heating-timeout)
 
 Possible Causes are:
 
@@ -457,7 +457,7 @@ Possible Causes are:
 
 **Solution:** Replace the mainboard.please refer to the video. [▶ Video: this video.](https://youtu.be/5h_mIf8kq_M)
 
-### E0048 Extruder temperature control error!
+### E0048 Extruder temperature control error! [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0048-extruder-temperature-control-error)
 
 Possible Causes are:
 
@@ -469,7 +469,7 @@ Possible Causes are:
 
 **Solution:** Replace the hotend heating assembly.please refer to the video. [▶ Video: this video.](https://youtu.be/aTIdw30e2g4)
 
-### E0075 Nozzle too low！
+### E0075 Nozzle too low！ [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0075-nozzle-too-low)
 
 Possible Causes is:
 
@@ -477,7 +477,7 @@ Possible Causes is:
 
 **Solution:**  Check if the extruder is properly installed and reinstall it.
 
-### E0076 Nozzle too high！
+### E0076 Nozzle too high！ [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0076-nozzle-too-high)
 
 Possible Causes is:
 
@@ -485,7 +485,7 @@ Possible Causes is:
 
 **Solution:**  Check if the extruder is properly installed and reinstall it.
 
-### E0077 Chamber heating timeout!
+### E0077 Chamber heating timeout! [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0077-chamber-heating-timeout)
 
 Possible Causes are:
 
@@ -505,7 +505,7 @@ Possible Causes are:
 
 **Solution:**  Replace the mainboard.
 
-### E0078 Chamber heating failed. Left heating fan speed too low!
+### E0078 Chamber heating failed. Left heating fan speed too low! [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0078-chamber-heating-failed-left-heating-fan-speed-too-low)
 
 Possible Causes are:
 
@@ -521,7 +521,7 @@ Possible Causes are:
 
 **Solution:**  Replace the mainboard.
 
-### E0079 Chamber heating failed. Right heating fan speed too low!
+### E0079 Chamber heating failed. Right heating fan speed too low! [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0079-chamber-heating-failed-right-heating-fan-speed-too-low)
 
 Possible Causes are:
 
@@ -537,7 +537,7 @@ Possible Causes are:
 
 **Solution:**  Replace the mainboard.
 
-### E0080 Abnormal chamber temperature. Air outlet temperature sensor may be damaged!
+### E0080 Abnormal chamber temperature. Air outlet temperature sensor may be damaged! [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0080-abnormal-chamber-temperature-air-outlet-temperature-sensor-may-be-damaged)
 
 Possible Causes are:
 
@@ -553,7 +553,7 @@ Possible Causes are:
 
 **Solution:**  Replace the mainboard.
 
-### E0083 Air filter fan speed too low or stopped!
+### E0083 Air filter fan speed too low or stopped! [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0083-air-filter-fan-speed-too-low-or-stopped)
 
 Possible Causes are:
 
@@ -569,7 +569,7 @@ Possible Causes are:
 
 **Solution:**  Replace the mainboard.
 
-### E0088 The detection indicates that the official PEI have not been used,Might not be able to ensure the quality of print!
+### E0088 The detection indicates that the official PEI have not been used,Might not be able to ensure the quality of print! [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0088-the-detection-indicates-that-the-official-pei-have-not-been-usedmight-not-be-able-to-ensure-the-quality-of-print)
 
 Possible Causes is:
 
@@ -581,7 +581,7 @@ Possible Causes is:
 
 **Solution:**  Replace with official steel plates for this machine model.
 
-### E0089 Laser radar has detected first-layer defects. Please review the defects and determine if printing can proceed!
+### E0089 Laser radar has detected first-layer defects. Please review the defects and determine if printing can proceed! [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0089-laser-radar-has-detected-first-layer-defects-please-review-the-defects-and-determine-if-printing-can-proceed)
 
 Possible Causes are:
 
@@ -593,7 +593,7 @@ Possible Causes are:
 
 **Solution:**  clean the nozzle.
 
-### E0100 Channel 1 feeding timeout！
+### E0100 Channel 1 feeding timeout！ [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0100-channel-1-feeding-timeout)
 
 Possible Causes are:
 
@@ -617,7 +617,7 @@ Possible Causes are:
 
 **Solution:**   Repair the IFS module or contact our after-sales support team. Repair the IFS module refer to the video.[▶ Video: this video](https://youtu.be/pKcQT98wHyg)
 
-### E0101 Channel 2 feeding timeout！
+### E0101 Channel 2 feeding timeout！ [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0101-channel-2-feeding-timeout)
 
 Possible Causes are:
 
@@ -641,7 +641,7 @@ Possible Causes are:
 
 **Solution:**   Repair the IFS module or contact our after-sales support team. Repair the IFS module refer to the video.[▶ Video: this video](https://youtu.be/pKcQT98wHyg)
 
-### E0102 Channel 3 feeding timeout！
+### E0102 Channel 3 feeding timeout！ [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0102-channel-3-feeding-timeout)
 
 Possible Causes are:
 
@@ -665,7 +665,7 @@ Possible Causes are:
 
 **Solution:**   Repair the IFS module or contact our after-sales support team. Repair the IFS module refer to the video.[▶ Video: this video](https://youtu.be/pKcQT98wHyg)
 
-### E0103 Channel 4 feeding timeout！
+### E0103 Channel 4 feeding timeout！ [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0103-channel-4-feeding-timeout)
 
 Possible Causes are:
 
@@ -689,7 +689,7 @@ Possible Causes are:
 
 **Solution:**   Repair the IFS module or contact our after-sales support team. Repair the IFS module refer to the video.[▶ Video: this video](https://youtu.be/pKcQT98wHyg)
 
-### E0104 Channel 1 retracting timeout!
+### E0104 Channel 1 retracting timeout! [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0104-channel-1-retracting-timeout)
 
 Possible Causes are:
 
@@ -709,7 +709,7 @@ Possible Causes are:
 
 **Solution:**  Repair the IFS module or contact our after-sales support team. Repair the IFS module refer to the video.[▶ Video: this video](https://youtu.be/pKcQT98wHyg)
 
-### E0105 Channel 2 retracting timeout!
+### E0105 Channel 2 retracting timeout! [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0105-channel-2-retracting-timeout)
 
 Possible Causes are:
 
@@ -729,7 +729,7 @@ Possible Causes are:
 
 **Solution:**  Repair the IFS module or contact our after-sales support team. Repair the IFS module refer to the video.[▶ Video: this video](https://youtu.be/pKcQT98wHyg)
 
-### E0106 Channel 3 retracting timeout!
+### E0106 Channel 3 retracting timeout! [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0106-channel-3-retracting-timeout)
 
 Possible Causes are:
 
@@ -749,7 +749,7 @@ Possible Causes are:
 
 **Solution:**  Repair the IFS module or contact our after-sales support team. Repair the IFS module refer to the video.[▶ Video: this video](https://youtu.be/pKcQT98wHyg)
 
-### E0107 Channel 4 retracting timeout!
+### E0107 Channel 4 retracting timeout! [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0107-channel-4-retracting-timeout)
 
 Possible Causes are:
 
@@ -769,7 +769,7 @@ Possible Causes are:
 
 **Solution:**  Repair the IFS module or contact our after-sales support team. Repair the IFS module refer to the video.[▶ Video: this video](https://youtu.be/pKcQT98wHyg)
 
-### E0108 Failed to feed filament to the extruder！
+### E0108 Failed to feed filament to the extruder！ [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0108-failed-to-feed-filament-to-the-extruder)
 
 Possible Causes are:
 
@@ -781,7 +781,7 @@ Possible Causes are:
 
 **Solution:**   Cancel printing, and replace the filament sensor. refer to the video.[▶ Video: this video](https://youtu.be/fAcLue2rjXc)
 
-### E0109 IFS odometer roller 1/2/3/4 not moving！
+### E0109 IFS odometer roller 1/2/3/4 not moving！ [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0109-ifs-odometer-roller-1234-not-moving)
 
 Possible Causes are:
 
@@ -799,7 +799,7 @@ Or stop printing and unclog the nozzle,refer to the video.[▶ Video: this video
 
 **Solution:**   Replace the sensor of odometer roller，refer to the video.[▶ Video: this video](https://youtu.be/pKcQT98wHyg)
 
-### E0110 Filament type mismatch!
+### E0110 Filament type mismatch! [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0110-filament-type-mismatch)
 
 Possible Causes is:
 
@@ -807,7 +807,7 @@ Possible Causes is:
 
 **Solution:**   Set the filament type on the material station to match the slicing settings, or switch to the corresponding filament channel.
 
-### E0111 Abnormal leveling data！
+### E0111 Abnormal leveling data！ [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0111-abnormal-leveling-data)
 
 Possible Causes are:
 
@@ -819,7 +819,7 @@ Possible Causes are:
 
 **Solution:**   Copy logs and send them to Customer Support.
 
-### E0112 Z-axis print height less than 220mm!!
+### E0112 Z-axis print height less than 220mm!! [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0112-z-axis-print-height-less-than-220mm)
 
 This error occurs when the Z-axis coordinate is greater than 0.5mm during triggering, and the possible causes are:
 
@@ -835,7 +835,7 @@ This error occurs when the Z-axis coordinate is greater than 0.5mm during trigge
 
 **Solution:**  Tighten the four nuts according to the support team's instructions.
 
-### E0113 Filament is detected in the extruder. Please check the feeding position and clean it manually or check the condition of the nozzle sensor!
+### E0113 Filament is detected in the extruder. Please check the feeding position and clean it manually or check the condition of the nozzle sensor! [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0113-filament-is-detected-in-the-extruder-please-check-the-feeding-position-and-clean-it-manually-or-check-the-condition-of-the-nozzle-sensor)
 
 The reasons are as follows:
 
@@ -855,7 +855,7 @@ The reasons are as follows:
 
 **Solution**: Remove the two screws of the Hall sensor, keep away from the trigger plate. Check the trigger status of the sensor in the status bar. If the sensor is consistently in the triggered state, it indicates that the Hall sensor is damaged. Please replace it。
 
-### E0114 IFS homing error!
+### E0114 IFS homing error! [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0114-ifs-homing-error)
 
 The reasons are as follows：
 
@@ -875,11 +875,11 @@ The reasons are as follows：
 
 **Solution**：Replace the clutch lever bearing。
 
-### E0115 The laser radar has failed to focus. Please check the laser radar!
+### E0115 The laser radar has failed to focus. Please check the laser radar! [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0115-the-laser-radar-has-failed-to-focus-please-check-the-laser-radar)
 
 To be perfected......
 
-### E0116 Exception in priming\_handler, please copy the logs!
+### E0116 Exception in priming\_handler, please copy the logs! [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0116-exception-in-priming_handler-please-copy-the-logs)
 
 **Cause 1**: Unstable hardware connection.
 
@@ -890,7 +890,7 @@ To be perfected......
 **Solution**: Try disabling this function in the slicing software, re-slice the model and print it to see if the issue is resolved.  
 If the above methods do not work, please provide the logs and the print model to Customer Support.
 
-### E0117 Exception in flush\_handler, please copy the logs!
+### E0117 Exception in flush\_handler, please copy the logs! [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0117-exception-in-flush_handler-please-copy-the-logs)
 
 **Cause 1**: Unstable hardware connection.
 
@@ -901,13 +901,13 @@ If the above methods do not work, please provide the logs and the print model to
 **Solution**: Try disabling this function in the slicing software, re-slice the model and print it to see if the issue is resolved.  
 If the above methods do not work, please provide the logs and the print model to Customer Support.
 
-### E0118 Internal error on command, please copy the logs!
+### E0118 Internal error on command, please copy the logs! [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0118-internal-error-on-command-please-copy-the-logs)
 
 **Cause**: The model file contains command errors.
 
 **Solution**: Delete the model from the printer and copy it again, or replace the model if internal commands are corrupted.
 
-### E0119 Timing error, please copy the logs!
+### E0119 Timing error, please copy the logs! [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0119-timing-error-please-copy-the-logs)
 
 **Cause 1**: Unstable hardware connection.
 
@@ -918,13 +918,13 @@ If the above methods do not work, please provide the logs and the print model to
 **Solution**: Try disabling this function in the slicing software, re-slice the model and print it to see if the issue is resolved.  
 If the above methods do not work, please provide the logs and the print model to Customer Support.
 
-### E0120 System restarted, please copy the logs!
+### E0120 System restarted, please copy the logs! [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0120-system-restarted-please-copy-the-logs)
 
 **Cause**: The device's configuration file is corrupted.
 
 **Solution**: Contact Customer Support for a configuration file update or firmware upgrade.
 
-### E0121 The "spi\_transfer\_response" cannot be obtained.!
+### E0121 The "spi\_transfer\_response" cannot be obtained.! [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0121-the-spi_transfer_response-cannot-be-obtained)
 
 **Cause1**：Vibration compensation data cannot be obtained；
 
@@ -934,7 +934,7 @@ If the above methods do not work, please provide the logs and the print model to
 
 **Solution**：Replace the nozzle board。
 
-### E0122 Extruder temperature error!
+### E0122 Extruder temperature error! [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0122-extruder-temperature-error)
 
 **Cause1**：The heating component is not properly plugged in；
 
@@ -944,7 +944,7 @@ If the above methods do not work, please provide the logs and the print model to
 
 **Solution**：Replace the heating component。
 
-### E0123 platform temperature error!
+### E0123 platform temperature error! [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0123-platform-temperature-error)
 
 **Cause1**：The NTC line on the platform is not properly plugged in or is damaged；
 
@@ -954,7 +954,7 @@ If the above methods do not work, please provide the logs and the print model to
 
 **Solution**：Replace the heating bed。
 
-### E0124 Extruder Carriage MCU Communication Timeout
+### E0124 Extruder Carriage MCU Communication Timeout [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0124-extruder-carriage-mcu-communication-timeout)
 
 **Cause1**：Damaged or loose harness.
 
@@ -968,7 +968,7 @@ If the above methods do not work, please provide the logs and the print model to
 
 **Solution**：Replace with a new Carriage PCB.
 
-### E0125 Heatbed MCU Communication Error
+### E0125 Heatbed MCU Communication Error [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0125-heatbed-mcu-communication-error)
 
 **Cause1**：Loose or damaged heatbed harness.
 
@@ -982,7 +982,7 @@ If the above methods do not work, please provide the logs and the print model to
 
 **Solution**：Replace with a new heatbed PCB.
 
-### E0126 Leveling Board MCU Communication Error
+### E0126 Leveling Board MCU Communication Error [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0126-leveling-board-mcu-communication-error)
 
 **Cause1**：Loose or damaged leveling board harness.
 
@@ -996,7 +996,7 @@ If the above methods do not work, please provide the logs and the print model to
 
 **Solution**：Replace with a new leveling board PCB.
 
-### E0127 T1 Not in Dock: Unable to Engage
+### E0127 T1 Not in Dock: Unable to Engage [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0127-t1-not-in-dock-unable-to-engage)
 
 **Cause1**：Faulty Extruder PCB (Dock detection failed).
 
@@ -1006,7 +1006,7 @@ If the above methods do not work, please provide the logs and the print model to
 
 **Solution**：Place the Extruder back into the Extruder Dock.
 
-### E0128 T2 Not in Dock: Unable to Engage
+### E0128 T2 Not in Dock: Unable to Engage [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0128-t2-not-in-dock-unable-to-engage)
 
 **Cause1**：Faulty Extruder PCB (Dock detection failed).
 
@@ -1016,7 +1016,7 @@ If the above methods do not work, please provide the logs and the print model to
 
 **Solution**：Place the Extruder back into the Extruder Dock.
 
-### E0129 T3 Not in Dock: Unable to Engage
+### E0129 T3 Not in Dock: Unable to Engage [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0129-t3-not-in-dock-unable-to-engage)
 
 **Cause1**：Faulty Extruder PCB (Dock detection failed).
 
@@ -1026,7 +1026,7 @@ If the above methods do not work, please provide the logs and the print model to
 
 **Solution**：Place the Extruder back into the Extruder Dock.
 
-### E0130 T4 Not in Dock: Unable to Engage
+### E0130 T4 Not in Dock: Unable to Engage [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0130-t4-not-in-dock-unable-to-engage)
 
 **Cause1**：Faulty Extruder PCB (Dock detection failed).
 
@@ -1036,31 +1036,31 @@ If the above methods do not work, please provide the logs and the print model to
 
 **Solution**：Place the Extruder back into the Extruder Dock.
 
-### E0131 T1 Slot Occupied: Unable to Disengage
+### E0131 T1 Slot Occupied: Unable to Disengage [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0131-t1-slot-occupied-unable-to-disengage)
 
 **Cause1**：Another extruder is already in T1 Slot.
 
 **Solution**：Ensure each extruder is in its correct slot.
 
-### E0132 T2 Slot Occupied: Unable to Disengage
+### E0132 T2 Slot Occupied: Unable to Disengage [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0132-t2-slot-occupied-unable-to-disengage)
 
 **Cause1**：Another extruder is already in T2 Slot.
 
 **Solution**：Ensure each extruder is in its correct slot.
 
-### E0133 T3 Slot Occupied: Unable to Disengage
+### E0133 T3 Slot Occupied: Unable to Disengage [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0133-t3-slot-occupied-unable-to-disengage)
 
 **Cause1**：Another extruder is already in T3 Slot.
 
 **Solution**：Ensure each extruder is in its correct slot.
 
-### E0134 T4 Slot Occupied: Unable to Disengage
+### E0134 T4 Slot Occupied: Unable to Disengage [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0134-t4-slot-occupied-unable-to-disengage)
 
 **Cause1**：Another extruder is already in T4 Slot.
 
 **Solution**：Ensure each extruder is in its correct slot.
 
-### E0135 T1 Disengage Failed
+### E0135 T1 Disengage Failed [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0135-t1-disengage-failed)
 
 **Cause1**：Faulty extruder locking motor or motor harness.
 
@@ -1074,7 +1074,7 @@ If the above methods do not work, please provide the logs and the print model to
 
 **Solution**：Replace with a new extruder harness.
 
-### E0136 T2 Disengage Failed
+### E0136 T2 Disengage Failed [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0136-t2-disengage-failed)
 
 **Cause1**：Faulty extruder locking motor or motor harness.
 
@@ -1088,7 +1088,7 @@ If the above methods do not work, please provide the logs and the print model to
 
 **Solution**：Replace with a new extruder harness.
 
-### E0137 T3 Disengage Failed
+### E0137 T3 Disengage Failed [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0137-t3-disengage-failed)
 
 **Cause1**：Faulty extruder locking motor or motor harness.
 
@@ -1102,7 +1102,7 @@ If the above methods do not work, please provide the logs and the print model to
 
 **Solution**：Replace with a new extruder harness.
 
-### E0138 T4 Disengage Failed
+### E0138 T4 Disengage Failed [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0138-t4-disengage-failed)
 
 **Cause1**：Faulty extruder locking motor or motor harness.
 
@@ -1116,7 +1116,7 @@ If the above methods do not work, please provide the logs and the print model to
 
 **Solution**：Replace with a new extruder harness.
 
-### E0139 Extruder Carriage Sensor Not Triggered
+### E0139 Extruder Carriage Sensor Not Triggered [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0139-extruder-carriage-sensor-not-triggered)
 
 **Cause1**：Faulty locking motor (failed to engage).
 
@@ -1134,7 +1134,7 @@ If the above methods do not work, please provide the logs and the print model to
 
 **Solution**：Replace with a new extruder harness.
 
-### E0140 Dock Slot Sensor Not Triggered
+### E0140 Dock Slot Sensor Not Triggered [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0140-dock-slot-sensor-not-triggered)
 
 **Cause1**：Faulty locking motor (failed to disengage).
 
@@ -1152,7 +1152,7 @@ If the above methods do not work, please provide the logs and the print model to
 
 **Solution**：Replace with a new extruder harness.
 
-### E0141 Carriage Sensor Still Triggered
+### E0141 Carriage Sensor Still Triggered [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0141-carriage-sensor-still-triggered)
 
 **Cause1**： Faulty locking motor (failed to disengage).
 
@@ -1166,7 +1166,7 @@ If the above methods do not work, please provide the logs and the print model to
 
 **Solution**：Replace with a new extruder harness.
 
-### E0142 Dock Slot Sensor Still Triggered
+### E0142 Dock Slot Sensor Still Triggered [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0142-dock-slot-sensor-still-triggered)
 
 **Cause1**： Pickup failed: The extruder was not successfully removed from the slot.
 
@@ -1184,7 +1184,7 @@ If the above methods do not work, please provide the logs and the print model to
 
 **Solution**：Replace with a new extruder harness.
 
-### E0143 Invalid Status After Pickup
+### E0143 Invalid Status After Pickup [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0143-invalid-status-after-pickup)
 
 **Cause1**： Pickup failed: The extruder was not successfully removed from the slot.
 
@@ -1210,7 +1210,7 @@ If the above methods do not work, please provide the logs and the print model to
 
 **Solution**：Check if Dock magnet is installed; install if missing.
 
-### E0144 Invalid Status After Disengage
+### E0144 Invalid Status After Disengage [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0144-invalid-status-after-disengage)
 
 **Cause1**： Faulty locking motor (failed to disengage).
 
@@ -1228,7 +1228,7 @@ If the above methods do not work, please provide the logs and the print model to
 
 **Solution**：Replace with a new extruder harness.
 
-### E0146 Disengage Sensor Not Triggered
+### E0146 Disengage Sensor Not Triggered [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0146-disengage-sensor-not-triggered)
 
 **Cause1**： Faulty optical sensor PCB.
 
@@ -1242,19 +1242,19 @@ If the above methods do not work, please provide the logs and the print model to
 
 **Solution**：Replace with a new optical flag switch.
 
-### E0147 PEI Steel Sheet Not Removed
+### E0147 PEI Steel Sheet Not Removed [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0147-pei-steel-sheet-not-removed)
 
 **Cause1**： The PEI steel sheet was detected during XYZ Offset Calibration.
 
 **Solution**：Remove the PEI steel sheet.
 
-### E0148 Z-Offset Variance Out of Range
+### E0148 Z-Offset Variance Out of Range [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0148-z-offset-variance-out-of-range)
 
 **Cause1**： The difference between the maximum and minimum points in multi-point leveling exceeds the limit.
 
 **Solution**：Re-level the heatbed by adjusting the leveling knobs to minimize the gap between the nozzle and the heatbed.
 
-### E0149 Eddy-current Sensor Not Triggered at Max Travel
+### E0149 Eddy-current Sensor Not Triggered at Max Travel [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0149-eddy-current-sensor-not-triggered-at-max-travel)
 
 **Cause1**： Faulty eddy-current sensor.
 
@@ -1264,13 +1264,13 @@ If the above methods do not work, please provide the logs and the print model to
 
 **Solution**：Replace the eddy-current sensor harness.
 
-### E0150 Homing Timeout
+### E0150 Homing Timeout [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0150-homing-timeout)
 
 **Cause1**： Homing error.
 
 **Solution**：Restart the printer and home again.
 
-### E0151 Eddy-current Sensor Already Triggered Before Movement
+### E0151 Eddy-current Sensor Already Triggered Before Movement [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0151-eddy-current-sensor-already-triggered-before-movement)
 
 **Cause1**： Faulty eddy-current sensor.
 
@@ -1280,7 +1280,7 @@ If the above methods do not work, please provide the logs and the print model to
 
 **Solution**：Replace the eddy-current sensor harness.
 
-### E0152 Leveling Height Out of Range
+### E0152 Leveling Height Out of Range [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0152-leveling-height-out-of-range)
 
 **Cause1**： Faulty eddy-current sensor.
 
@@ -1294,7 +1294,7 @@ If the above methods do not work, please provide the logs and the print model to
 
 **Solution**：Check or replace the eddy-current trigger.
 
-### E0153 Nozzle Calibration Value Out of Range
+### E0153 Nozzle Calibration Value Out of Range [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0153-nozzle-calibration-value-out-of-range)
 
 **Cause1**： Faulty eddy-current sensor in heatbed.
 
@@ -1308,13 +1308,13 @@ If the above methods do not work, please provide the logs and the print model to
 
 **Solution**：Reinstall the eddy-current sensor bracket.
 
-### E0154 Motor Overheating
+### E0154 Motor Overheating [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0154-motor-overheating)
 
 **Cause1**： Faulty PCB cooling fan.
 
 **Solution**：Replace the PCB cooling fan.
 
-### E0155 X-Axis Sensor Still Triggered After Retraction
+### E0155 X-Axis Sensor Still Triggered After Retraction [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0155-x-axis-sensor-still-triggered-after-retraction)
 
 **Cause1**： Faulty X-axis sensor PCB.
 
@@ -1324,7 +1324,7 @@ If the above methods do not work, please provide the logs and the print model to
 
 **Solution**：Replace the X-axis sensor harness.
 
-### E0156 Y-Axis Sensor Still Triggered After Retraction
+### E0156 Y-Axis Sensor Still Triggered After Retraction [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0156-y-axis-sensor-still-triggered-after-retraction)
 
 **Cause1**： Faulty Y-axis sensor PCB.
 
@@ -1334,7 +1334,7 @@ If the above methods do not work, please provide the logs and the print model to
 
 **Solution**：Replace the Y-axis sensor harness.
 
-### E0157 Z-Axis Sensor Still Triggered After Retraction
+### E0157 Z-Axis Sensor Still Triggered After Retraction [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0157-z-axis-sensor-still-triggered-after-retraction)
 
 **Cause1**： Faulty Z-axis sensor PCB.
 
@@ -1344,7 +1344,7 @@ If the above methods do not work, please provide the logs and the print model to
 
 **Solution**：Replace the Z-axis sensor harness.
 
-### E0158 Eddy-current Sensor Abnormal
+### E0158 Eddy-current Sensor Abnormal [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0158-eddy-current-sensor-abnormal)
 
 **Cause1**： Faulty extruder carriage eddy-current sensor.
 
@@ -1358,7 +1358,7 @@ If the above methods do not work, please provide the logs and the print model to
 
 **Solution**：Replace the heatbed eddy-current sensor.
 
-### E0159 Homing Error
+### E0159 Homing Error [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5#e0159-homing-error)
 
 **Cause1**： Faulty sensor PCB or harness on the X, Y, or Z axis.
 

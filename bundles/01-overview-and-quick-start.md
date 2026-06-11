@@ -11,7 +11,7 @@
 
 Source: https://wiki.flashforge.com/en/creator-series/creator-5-series
 
-## Introduction to Creator 5/Creator 5 Pro
+## Introduction to Creator 5/Creator 5 Pro [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series#introduction-to-creator-5creator-5-pro)
 
 > _**The creator 5 series is a new generation of high-speed multi-head desktop 3D printers, taking your creativity, efficiency, and cost savings to unprecedented heights.**_
 
@@ -26,7 +26,7 @@ Read more about the products on our official website below:
 | ![cover\_c5.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/cover/cover_c51.png) |  | ![cover\_c5pro2.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/cover/cover_c5pro2.png) |
 | Read more on our [Official Website](https://www.sz3dp.com/products) |  | Read more on our[Official Website](https://www.sz3dp.com/product) |
 
-## Quick Start
+## Quick Start [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series#quick-start)
 
 -   [Unboxing your creator 5](#unboxing-your-creator-5)
 -   [Unboxing your creator 5 pro](#unboxing-your-creator-5-pro)
@@ -36,16 +36,16 @@ Read more about the products on our official website below:
 -   [User guide for your Creator 5](#user-guide-for-your-creator-5)
 -   [User guide for your Creator 5 Pro](#user-guide-for-your-creator-5-pro)
 
-## User Manual
+## User Manual [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series#user-manual)
 
 You can find more detailed instructions in [user manual page](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual).
 
-## FAQ
+## FAQ [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series#faq)
 
 -   [FAQ for Creator 5 pro](https://wiki.flashforge.com/en/creator-series/creator-5-series/faq_c5p)
 -   [FAQ for Creator 5](https://wiki.flashforge.com/en/creator-series/creator-5-series/faq_c5)
 
-## Troubleshooting
+## Troubleshooting [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series#troubleshooting)
 
 We organize the troubleshooting methods based on the symptoms of the failure. Below are the common troubleshooting subtopics for creator 5 series:
 
@@ -59,18 +59,18 @@ You may also browse by the error code for creator 5M series to locate the issue 
 
 -   [Error code list for creator 5 series](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5)
 
-## Maintenance
+## Maintenance [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series#maintenance)
 
 Detailed step-to-step instructions can be found in [maintenance page](https://wiki.flashforge.com/en/creator-series/creator-5-series/maintenance).
 
-## Firmware Update
+## Firmware Update [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series#firmware-update)
 
 -   [How to perform firmware update to your creator 5/creator 5 pro](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/firmware-upgrade)
 -   [Firmware release notes](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/firmware-release-history)
 
-## Creator 5 In Action
+## Creator 5 In Action [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series#creator-5-in-action)
 
-## Learn More
+## Learn More [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series#learn-more)
 
 Learn more about creator 5 series from the exciting release trailer on Youtube:  
 [▶ Video: https://youtu.be/TPEPWDk5q8c](https://youtu.be/TPEPWDk5q8c)
@@ -97,11 +97,11 @@ For User guide for your Creator 5 Pro，please load:[260511-c5p\_user\_guide-sta
 
 Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/filament_usage_guide
 
-### Preface
+### Preface [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/filament_usage_guide#preface)
 
 The Wolverine 5 series of models support multi-material hybrid printing, offering advantages in both efficiency and material consumption compared to single-head multi-material printer models, while also giving rise to some new printing scenarios. This guide aims to help users reduce printing defects, improve printing success rates, and better leverage the advantages of multi-heads to complete each print job.
 
-### PLA and PETG support each other during printing
+### PLA and PETG support each other during printing [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/filament_usage_guide#pla-and-petg-support-each-other-during-printing)
 
 1、Filament Preparation  
 Drying  
@@ -124,7 +124,7 @@ In addition to platform and material extrusion temperature, modifying support pa
 3、Other suggestions  
 Since the mutual adhesion between support material and model material is not as good as that of using the same material, and using a single support material as the support body and contact surface will increase the number of head changes, it is generally recommended that only the raft layer/support interface layer use different materials for support.
 
-### Hybrid Printing of Soft and Hard Materials（Experimental Feature）
+### Hybrid Printing of Soft and Hard Materials（Experimental Feature） [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/filament_usage_guide#hybrid-printing-of-soft-and-hard-materialsexperimental-feature)
 
 1、Filament Preparation  
 Since soft materials usually absorb water easily, necessary drying and moisture-proof treatments are required. Using a material box with a drying function can maintain the dryness of the material during the printing process to the greatest extent.  
@@ -145,7 +145,7 @@ Open Path：Process--Multiaterial--Advanced--Use beam interlocking
 
 ![10filament.png](https://wiki.flashforge.com/resource/pictures/creator5_en/quality/10filament.png)
 
-### Special Support Material Printing
+### Special Support Material Printing [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/filament_usage_guide#special-support-material-printing)
 
 1、Filament Preparation  
 Support materials usually absorb water easily, so they must be pre-dried and kept dry throughout the printing process. It is recommended to use a drying hopper for printing to maintain optimal results.  
@@ -161,7 +161,7 @@ PVA or BVOH materials typically have poor interlayer adhesion, so it is recommen
 
 ![12filament.png](https://wiki.flashforge.com/resource/pictures/creator5_en/quality/12filament.png)
 
-### Mixed printing of other Filaments
+### Mixed printing of other Filaments [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/filament_usage_guide#mixed-printing-of-other-filaments)
 
 1、Filament Classification  
 High-temperature Filaments  
@@ -196,13 +196,13 @@ Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/in
 
 This page provides a basic overview of the mechanical structure and electrical components of the Creator 5 series for you to have a good grasp of this series of 3D printers.
 
-### **Working Principle of Creator 5 Series**
+### **Working Principle of Creator 5 Series** [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/intro-creator-5#working-principle-of-creator-5-series)
 
 Working Principle of Creator 5 Series:  
 The Creator 5 series prints 3D objects by melting plastic filament, extruding it through a nozzle, and depositing it layer by layer according to system instructions.  
 he most common 3D model file formats are STL and 3MF, which can be converted into a format recognized by 3D printers (like G-code or 3MF) using slicing software such as Orca-Flashforge or Orca Slicer. These files contain precise instructions for controlling movement, speed, path, and parameters like temperature and flow rate.
 
-### **CoreXY Structure**
+### **CoreXY Structure** [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/intro-creator-5#corexy-structure)
 
 ![19pic.png](https://wiki.flashforge.com/resource/pictures/creator5_en/19pic.png)
 
@@ -220,13 +220,13 @@ Enhanced stability and reliability: The crossed drive belts balance tension in b
 
 For more details on the CoreXY motion system, please visit[链接](https://corexy.com/index.html)。
 
-### Printer Components
+### Printer Components [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/intro-creator-5#printer-components)
 
 ![20pic.png](https://wiki.flashforge.com/resource/pictures/creator5_en/20pic.png)
 
 ![21pic.png](https://wiki.flashforge.com/resource/pictures/creator5_en/21pic.png)
 
-### Extruder Mount Assembly
+### Extruder Mount Assembly [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/intro-creator-5#extruder-mount-assembly)
 
 ![22pic.png](https://wiki.flashforge.com/resource/pictures/creator5_en/22pic.png)
 
@@ -268,7 +268,7 @@ This 12 planetary gear reduction stepper motor powers locking and release of the
 
 ![29pic.png](https://wiki.flashforge.com/resource/pictures/creator5_en/29pic.png)
 
-### Extruder Assembly
+### Extruder Assembly [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/intro-creator-5#extruder-assembly)
 
 ![30.png](https://wiki.flashforge.com/resource/pictures/creator5_en/30.png)
 
@@ -310,7 +310,7 @@ The feed gear meshes with the reduction gear to feed filament into the hotend an
 
 The reduction gear assembly works together with the feed gear to provide driving force, pushing filament into the hotend and out through the nozzle. The locking coupler and extruder positioning plate are key components that ensure the extruder is correctly positioned and securely fastened to the extruder mount.
 
-### Extruder Dock Assembly
+### Extruder Dock Assembly [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/intro-creator-5#extruder-dock-assembly)
 
 ![37pic.png](https://wiki.flashforge.com/resource/pictures/creator5_en/37pic.png)
 
@@ -334,13 +334,13 @@ On the Creator 5 Pro, an additional Hall sensor detects whether the top cover is
 
 The Creator 5 Pro (**the Creator 5 does not have this component**) also has a Hall sensor that detects the opening and closing of the upper cover. When the upper cover is opened, the device will pause and pop up a prompt dialog box, providing safety assurance for the device.
 
-### Display Screen
+### Display Screen [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/intro-creator-5#display-screen)
 
 ![41pic.png](https://wiki.flashforge.com/resource/pictures/creator5_en/41pic.png)
 
 The Creator 5 series is equipped with a 4-inch 800\*480 full-color touchscreen, which feels smoother to touch. Additionally, the screen connection has been redesigned into a quick plug-and-play interface, enabling fast plugging and unplugging, making installation and replacement more convenient than the original device.
 
-### Z-axis
+### Z-axis [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/intro-creator-5#z-axis)
 
 ![42pic.png](https://wiki.flashforge.com/resource/pictures/creator5_en/42pic.png)
 
@@ -350,7 +350,7 @@ The Z-axis of the Creator 5 series consists of three ball screws connected to Z-
 
 The Z-axis consists of lead screws and optical rods, distributed at the front left, rear left, and middle right of the heated bed. The three lead screws are connected to the same Z stepper motor via a belt and are driven to rotate uniformly by the motor, thereby driving the heated bed to rise and fall synchronously and achieving vertical movement of the heated bed. The optical rods provide precise positioning, effectively suppressing the shaking caused by the rotation of the lead screws and ensuring the stable operation of the heated bed.
 
-### Print Bed
+### Print Bed [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/intro-creator-5#print-bed)
 
 ![44pic.png](https://wiki.flashforge.com/resource/pictures/creator5_en/44pic.png)
 
@@ -361,7 +361,7 @@ The heated bed is used to heat the printing surface, allowing the printed object
 During the printing process, Wolverine 5 adjusts the heating temperature of the hotbed according to the type of material used, with a maximum temperature of up to 120°C. For example, when using PLA or silk filaments, setting the hotbed temperature to 45-55°C during printing can effectively prevent warping. For materials such as ABS and ASA, to prevent warping, the hotbed temperature needs to be set between 100-110°C for printing.  
 The maximum printing area of the hotbed surface of the Creator 5 series is 256\*256mm².
 
-### Electrical Components
+### Electrical Components [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/intro-creator-5#electrical-components)
 
 ![46pic.png](https://wiki.flashforge.com/resource/pictures/creator5_en/46pic.png)
 
@@ -371,7 +371,7 @@ The firmware supports advanced features such as pressure advance, automatic bed 
 
 The Creator 5 series uses eddy current sensors for platform leveling. When the eddy current sensors come into contact with the platform, the output signal of the sensors changes, thereby enabling data acquisition at each point. Then, the algorithm of the mesh bed is used to achieve a beautiful first layer print.
 
-### Filtration System
+### Filtration System [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/intro-creator-5#filtration-system)
 
 ![47pic.png](https://wiki.flashforge.com/resource/pictures/creator5_en/47pic.png)
 
@@ -379,7 +379,7 @@ During operation, 3D printers emit ultrafine particles (UFPs) and volatile organ
 
 Creator 5 Pro employs a dual-stage filtration system consisting of a HEPA13 filter and activated carbon. This system can filter up to 99% of particles and VOCs, ensuring a safer working environment.
 
-### Camera
+### Camera [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/intro-creator-5#camera)
 
 ![48pic.png](https://wiki.flashforge.com/resource/pictures/creator5_en/48pic.png)
 
@@ -391,19 +391,19 @@ The Creator 5 series is equipped with a 1280\*720， 30 fps high-definition came
 
 Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/notice
 
-## NOTICE
+## NOTICE [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/notice#notice)
 
 > SAFETY NOTICE: PLEASE CAREFULLY READ AND STRICTLY FOLLOW ALL THE SAFETY WARNINGS AND NOTICES BELOW ALL THE TIME.
 
 Note: Each 3D printer undergoes printing tests before leaving the factory. Filament residue on the nozzle or slight scratches on the build plate are normal and do  not affect usage.
 
-### WORK ENVIRONMENT SAFETY
+### WORK ENVIRONMENT SAFETY [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/notice#work-environment-safety)
 
 -   Please keep the workspace clean and tidy.
 -   Please ensure the equipment operates away from combustible gases, liquids, and dust. High temperatures generated during operation may react with combustible gases, liquids, or airborne dust, potentially causing fires.
 -   Children and untrained individuals should not operate the equipment alone.
 
-### ELECTRICAL SAFETY
+### ELECTRICAL SAFETY [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/notice#electrical-safety)
 
 -   Please properly ground the equipment. Do not modify the plug. Ungrounded equipment/improperly grounded equipment/modified plug will inevitably increase the risk of electric leakage.
 -   Avoid exposing the equipment to damp or direct sunlight environments. Humidity will increase the risk of electric leakage. Exposure to sunlight will accelerate the aging of plastic parts.
@@ -411,7 +411,7 @@ Note: Each 3D printer undergoes printing tests before leaving the factory. Filam
 -   Do not use the equipment during thunderstorms.
 -   Please turn off the equipment and unplug it if it is not in use for a long time.
 
-### PERSONAL SAFETY
+### PERSONAL SAFETY [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/notice#personal-safety)
 
 -   Do not touch the extruder, build plate, etc., during printing.
 -   Do not touch the extruder and build plate after finishing printing to avoid high temperature burns or mechanical damage.
@@ -420,7 +420,7 @@ Note: Each 3D printer undergoes printing tests before leaving the factory. Filam
 
 ![](https://wiki.flashforge.com/resource/adventurer_series_manual/warning_mark_en.png)
 
-### CAUTIONS
+### CAUTIONS [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/notice#cautions)
 
 -   Keep the inside of the equipment clean. Do not drop metal objects into the grooves at the bottom of the build plate.
 -   Please clean up filament debris in time. It is recommended to operate this outside the equipment.
@@ -431,23 +431,23 @@ Note: Each 3D printer undergoes printing tests before leaving the factory. Filam
 -   Do not use the equipment to make food storage containers.
 -   Do not place printed models into your mouth.
 
-### EQUIPMENT ENVIRONMENT REQUIREMENTS
+### EQUIPMENT ENVIRONMENT REQUIREMENTS [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/notice#equipment-environment-requirements)
 
 -   Room temperature: 15-30℃; Humidity: 20-70RH%
 
-### EQUIPMENT PLACEMENT REQUIREMENTS
+### EQUIPMENT PLACEMENT REQUIREMENTS [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/notice#equipment-placement-requirements)
 
 -   The equipment must be placed in a dry and well-ventilated environment. A distance of at least 20cm must be reserved around the front, back, left and right sides of the equipment. Recommended storage temperature: 0-40°C.
 
-### COMPATIBLE FILAMENT REQUIREMENTS
+### COMPATIBLE FILAMENT REQUIREMENTS [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/notice#compatible-filament-requirements)
 
 -   When using this equipment, it's recommended to use Flashforge's filaments. If non-Flashforge filaments are used, there will be certain differences in material properties, and print parameters may need adjustments.
 
-### FILAMENT STORAGE REQUIREMENTS
+### FILAMENT STORAGE REQUIREMENTS [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/notice#filament-storage-requirements)
 
 -   Please store filaments in a dry and dust-free environment after unpacking. It is recommended to use the matching filament dry box for storage.
 
-### **LEGAL STATEMENT**
+### **LEGAL STATEMENT** [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/notice#legal-statement)
 
 -   Users are not authorized to make any modifications to this User Guide.
 -   **Flashforge shall not be held responsible for any safety incidents resulting from the disassembly or modification of the equipment by the customer. No one is allowed to modify or translate this Guide without Flashforge's permission. This Guide is protected by copyright, and Flashforge reserves the right of the final interpretation of this Guide.**
@@ -459,7 +459,7 @@ Note: Each 3D printer undergoes printing tests before leaving the factory. Filam
 
 Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/printer-setup
 
-### Change Printer Name
+### Change Printer Name [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/printer-setup#change-printer-name)
 
 1.Tap the \[Settings\] icon ![en1.jpg](https://wiki.flashforge.com/resource/pictures/creator5_en/basic_setup/en1.jpg) in the Navigation Bar, then tap \[Basic Settings\].
 
@@ -473,7 +473,7 @@ Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/pr
 
 ![en5.jpg](https://wiki.flashforge.com/resource/pictures/creator5_en/basic_setup/en5.jpg)
 
-### Change Printer Location
+### Change Printer Location [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/printer-setup#change-printer-location)
 
 1.Tap the \[Settings\] icon ![en1.jpg](https://wiki.flashforge.com/resource/pictures/creator5_en/basic_setup/en1.jpg) in the Navigation Bar, then tap \[Basic Settings\].
 
@@ -487,7 +487,7 @@ Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/pr
 
 ![en7.jpg](https://wiki.flashforge.com/resource/pictures/creator5_en/basic_setup/en7.jpg)
 
-### Sound
+### Sound [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/printer-setup#sound)
 
 1.Tap the \[Settings\] icon ![en1.jpg](https://wiki.flashforge.com/resource/pictures/creator5_en/basic_setup/en1.jpg) in the Navigation Bar, then tap \[Basic Settings\].
 
@@ -497,7 +497,7 @@ Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/pr
 
 ![en8.jpg](https://wiki.flashforge.com/resource/pictures/creator5_en/basic_setup/en8.jpg)
 
-### Clog Detection
+### Clog Detection [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/printer-setup#clog-detection)
 
 1.Tap the \[Settings\] icon ![en1.jpg](https://wiki.flashforge.com/resource/pictures/creator5_en/basic_setup/en1.jpg) in the Navigation Bar, then tap \[Basic Settings\].
 
@@ -507,7 +507,7 @@ Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/pr
 
 ![en9.jpg](https://wiki.flashforge.com/resource/pictures/creator5_en/basic_setup/en9.jpg)
 
-### Language
+### Language [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/printer-setup#language)
 
 1.Tap the \[Settings\] icon ![en1.jpg](https://wiki.flashforge.com/resource/pictures/creator5_en/basic_setup/en1.jpg) in the Navigation Bar, then tap \[Basic Settings\].
 
@@ -521,7 +521,7 @@ Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/pr
 
 ![en11.jpg](https://wiki.flashforge.com/resource/pictures/creator5_en/basic_setup/en11.jpg)
 
-### Factory Reset
+### Factory Reset [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/printer-setup#factory-reset)
 
 1.Tap the \[Settings\] icon ![en1.jpg](https://wiki.flashforge.com/resource/pictures/creator5_en/basic_setup/en1.jpg) in the Navigation Bar, then tap \[Basic Settings\].
 
@@ -539,7 +539,7 @@ Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/pr
 
 Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/quick-start-guide-for-your-creator-5-pro
 
-### Initial Printer Setup
+### Initial Printer Setup [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/quick-start-guide-for-your-creator-5-pro#initial-printer-setup)
 
 Now that you have unboxed your Creator 5 printer,follow these steps to set up the printer for the first time.
 
@@ -602,7 +602,7 @@ Before unpacking the printer, please download the attached Quick Guide and read 
 
 Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/quick-start-guide-for-your-creator5
 
-### Initial Printer Setup
+### Initial Printer Setup [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/quick-start-guide-for-your-creator5#initial-printer-setup)
 
 Now that you have unboxed your Creator 5 printer,follow these steps to set up the printer for the first time.
 
@@ -663,7 +663,7 @@ For more detailed steps, please download and read the[creator\_5\_quick\_start\_
 
 Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5
 
-### Step 1: Unboxing and Removal
+### Step 1: Unboxing and Removal [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5#step-1-unboxing-and-removal)
 
 Open the box and remove the top foam and the Quick Start Guide.
 
@@ -671,7 +671,7 @@ Open the box and remove the top foam and the Quick Start Guide.
 
 ![creator5\_unboxing\_02.jpg](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/unbox/creator5_unboxing_02.jpg)
 
-### Step 2: Remove the Printer
+### Step 2: Remove the Printer [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5#step-2-remove-the-printer)
 
 Lift the printer out of the box along with its packaging, and place it on a level surface.
 
@@ -679,7 +679,7 @@ Lift the printer out of the box along with its packaging, and place it on a leve
 
 ![creator5\_unboxing\_04.jpg](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/unbox/creator5_unboxing_04.jpg)
 
-### Step 3: Remove the Foam and Accessories
+### Step 3: Remove the Foam and Accessories [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5#step-3-remove-the-foam-and-accessories)
 
 Remove the packaging bag and take out the protective foam from inside the chamber.
 
@@ -697,7 +697,7 @@ Packaging list:
 
 ![1boxlist.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/faq/1boxlist.png)
 
-### Step 4: Install the Display Screen
+### Step 4: Install the Display Screen [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5#step-4-install-the-display-screen)
 
 1.  Align the slots on the back of the display screen with the mounting points on the printer. Then, attach the display screen as shown.  
     ![creator5\_unboxing\_09.jpg](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/unbox/creator5_unboxing_09.jpg)
@@ -706,7 +706,7 @@ Packaging list:
     ![creator5\_unboxing\_10.jpg](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/unbox/creator5_unboxing_10.jpg)
     
 
-### Step 5: Install the Extruder Module
+### Step 5: Install the Extruder Module [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5#step-5-install-the-extruder-module)
 
 1.  Insert the four nozzle blockers into the slots of the extruder dock as shown.  
     ![creator5\_unboxing\_11.jpg](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/unbox/creator5_unboxing_11.jpg)  
@@ -725,13 +725,13 @@ Packaging list:
     ![creator5\_unboxing\_16.jpg](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/unbox/creator5_unboxing_16.jpg)
     
 
-### Step 6: Unlock the Print Bed
+### Step 6: Unlock the Print Bed [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5#step-6-unlock-the-print-bed)
 
 Use a 2.0mm Allen wrench to remove the securing screws indicated by the arrows to unlock the print bed.
 
 ![creator5\_unboxing\_17.jpg](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/unbox/creator5_unboxing_17.jpg)
 
-### Step 7: Install the Spool Holder
+### Step 7: Install the Spool Holder [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5#step-7-install-the-spool-holder)
 
 Remove the spool holder stickers. Insert a spool holder into the mounting hole on the right side of the printer as shown, and secure it with one M3×16 screw.
 
@@ -745,7 +745,7 @@ Repeat this process to install the remaining three spool holders.
 
 Unboxing is completed.
 
-### Unboxing Video
+### Unboxing Video [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5#unboxing-video)
 
 View our full Unboxing Video for creator 5.  
 [▶ Video: https://www.youtube.com/watch?v=q9KYrzE6R2o](https://www.youtube.com/watch?v=q9KYrzE6R2o)
@@ -756,13 +756,13 @@ View our full Unboxing Video for creator 5.
 
 Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5-pro
 
-### Step 1: Unboxing and Removal
+### Step 1: Unboxing and Removal [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5-pro#step-1-unboxing-and-removal)
 
 Open the box and remove the top foam and the Quick Start Guide.
 
 ![creator5p\_unboxing\_01.jpg](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/unbox/creator5p_unboxing_01.jpg)
 
-### Step 2: Remove the Printer
+### Step 2: Remove the Printer [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5-pro#step-2-remove-the-printer)
 
 Lift the printer out of the box along with its packaging, and place it on a level surface.
 
@@ -770,7 +770,7 @@ Lift the printer out of the box along with its packaging, and place it on a leve
 
 ![creator5p\_unboxing\_03.jpg](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/unbox/creator5p_unboxing_03.jpg)
 
-### Step 3: Remove the Foam and Accessories
+### Step 3: Remove the Foam and Accessories [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5-pro#step-3-remove-the-foam-and-accessories)
 
 Remove the packaging bag. Take out the top cover along with the protective foam inside the chamber.
 
@@ -790,7 +790,7 @@ Packaging list:
 
 ![2proboxlist.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/unbox/2proboxlist.png)
 
-### Step 4: Install the Display Screen
+### Step 4: Install the Display Screen [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5-pro#step-4-install-the-display-screen)
 
 1.  Align the slots on the back of the display screen with the mounting points on the printer. Then, attach the display screen as shown.  
     ![creator5p\_unboxing\_09.jpg](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/unbox/creator5p_unboxing_09.jpg)
@@ -799,7 +799,7 @@ Packaging list:
     ![creator5p\_unboxing\_10.jpg](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/unbox/creator5p_unboxing_10.jpg)
     
 
-### Step 5: Install the Extruder Module
+### Step 5: Install the Extruder Module [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5-pro#step-5-install-the-extruder-module)
 
 1.  Insert the four nozzle blockers into the slots of the extruder dock as shown.  
     ![creator5p\_unboxing\_11.jpg](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/unbox/creator5p_unboxing_11.jpg)  
@@ -818,13 +818,13 @@ Packaging list:
     ![creator5p\_unboxing\_16.jpg](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/unbox/creator5p_unboxing_16.jpg)
     
 
-### Step 6: Unlock the Print Bed
+### Step 6: Unlock the Print Bed [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5-pro#step-6-unlock-the-print-bed)
 
 Use a 2.0mm Allen wrench to remove the securing screws indicated by the arrows to unlock the print bed.
 
 ![creator5p\_unboxing\_17.jpg](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/unbox/creator5p_unboxing_17.jpg)
 
-### Step 7: Install the Top Cover
+### Step 7: Install the Top Cover [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5-pro#step-7-install-the-top-cover)
 
 1.  Slide each top cover panel into the grooves of the top cover pillars as shown. Make sure the sides with the clips are all facing the same direction during installation.  
     ![creator5p\_unboxing\_18.jpg](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/unbox/creator5p_unboxing_18.jpg)
@@ -839,7 +839,7 @@ Use a 2.0mm Allen wrench to remove the securing screws indicated by the arrows t
     ![creator5p\_unboxing\_23.jpg](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/unbox/creator5p_unboxing_23.jpg)
     
 
-### Step 8: Install the Spool Holder
+### Step 8: Install the Spool Holder [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5-pro#step-8-install-the-spool-holder)
 
 Remove the spool holder stickers. Insert a spool holder into the mounting hole on the right side of the printer as shown, and secure it with one M3×16 screw.
 
@@ -852,7 +852,7 @@ Repeat this process to install the remaining three spool holders.
 
 Unboxing is completed.
 
-### Unboxing Video
+### Unboxing Video [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5-pro#unboxing-video)
 
 View our full Unboxing Video for creator 5 Pro.  
 [▶ Video: https://www.youtube.com/watch?v=K4zkyfqSsig](https://www.youtube.com/watch?v=K4zkyfqSsig)

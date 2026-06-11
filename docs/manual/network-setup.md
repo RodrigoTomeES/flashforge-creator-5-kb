@@ -7,7 +7,7 @@ source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/ne
 
 The printer supports Wi-Fi and LAN connections. From the Home screen, go to ⚙️ > **Network** to open the Network Settings screen.
 
-## Connect to a Wi-Fi Network
+## Connect to a Wi-Fi Network [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/network-setup#connect-to-a-wi-fi-network)
 
 Follow these steps to connect to a Wi-Fi network:
 
@@ -23,7 +23,7 @@ Follow these steps to connect to a Wi-Fi network:
 
 > Switching to a new network clears the previous Wi-Fi password.
 
-## Manual IP Configuration
+## Manual IP Configuration [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/network-setup#manual-ip-configuration)
 
 The printer supports manually configuring a static IPv4 address to maintain a fixed network identity on the LAN, preventing connection drops caused by automatic IP address changes.
 
@@ -42,7 +42,7 @@ Follow these steps to configure a static IP:
 
 > Toggling off "Configure IPv4" switches the printer to automatic DHCP mode. Saved static IP settings are retained and can be reused when toggled back on.
 
-## LAN Only Mode
+## LAN Only Mode [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/network-setup#lan-only-mode)
 
 LAN Only Mode limits printer discovery, access, and control to your local network. Internet connectivity and cloud services are disabled, and print files transfer exclusively over the LAN to ensure data privacy.
 

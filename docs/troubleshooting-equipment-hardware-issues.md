@@ -5,7 +5,7 @@ source: https://wiki.flashforge.com/en/creator-series/creator-5-series/troublesh
 
 > Official wiki page: https://wiki.flashforge.com/en/creator-series/creator-5-series/troubleshooting-equipment-hardware-issues
 
-## 1.The nozzle temperature shows a negative number
+## 1.The nozzle temperature shows a negative number [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/troubleshooting-equipment-hardware-issues#h-1the-nozzle-temperature-shows-a-negative-number)
 
 Cause：Temperature sensor is damaged or wiring harness has poor contact.
 
@@ -28,7 +28,7 @@ Solutions：
 
 If the above steps still fail to resolve the issue, please copy the logs to a USB drive and contact customer support.
 
-## 2.When go home, the Z-axis keeps moving downward or fails to stop when it touches the eddy current rod
+## 2.When go home, the Z-axis keeps moving downward or fails to stop when it touches the eddy current rod [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/troubleshooting-equipment-hardware-issues#h-2when-go-home-the-z-axis-keeps-moving-downward-or-fails-to-stop-when-it-touches-the-eddy-current-rod)
 
 Cause：Eddy current rod is not fixed or eddy current coil is abnormal.
 
@@ -36,7 +36,7 @@ Solutions：
 ① Check if the eddy current rod is loose; if it is not tightened properly, please re-tighten it.  
 ② If the above steps cannot resolve the issue, please contact customer support to replace the eddy current coil;
 
-## 3.The display screen shows a mosaic phenomenon
+## 3.The display screen shows a mosaic phenomenon [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/troubleshooting-equipment-hardware-issues#h-3the-display-screen-shows-a-mosaic-phenomenon)
 
 Cause：Loose contact of connector.
 

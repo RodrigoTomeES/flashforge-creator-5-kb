@@ -11,12 +11,12 @@
 
 Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual
 
-## Introduction To Creator 5 Series
+## Introduction To Creator 5 Series [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual#introduction-to-creator-5-series)
 
 -   [Introduction to Creator 5/5 Pro](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/intro-creator-5)
 -   [Introduction to Flash Studio](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/intro_flash-studio)
 
-## Printer
+## Printer [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual#printer)
 
 -   [Unboxing your Creator 5](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5)
 -   [Unboxing your Creator 5 Pro](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5-pro)
@@ -26,7 +26,7 @@ Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual
 -   [Printer User Interface](#printer-user-interface)
 -   [Query Printer serial Number](#query-printer-serial-number)
 
-## Printing
+## Printing [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual#printing)
 
 -   [Calibration for printer](#calibration-for-printer)
 -   [Preparation before printing](#preparation-before-printing)
@@ -39,7 +39,7 @@ Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual
 -   [Refill\_printing](#refill-printing)
 -   [Multi-color printing](#multi-color-printing)
 
-## Basic Functions
+## Basic Functions [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual#basic-functions)
 
 -   [Basic setup](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/printer-setup)
 -   [Motion Control](#motion-control)
@@ -47,7 +47,7 @@ Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual
 -   [Monitoring & Timelapse](#monitoring-timelapse)
 -   [Connect a USB Drive](#connect-a-usb-drive)
 
-## Firmware Update
+## Firmware Update [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual#firmware-update)
 
 -   [How to perform a firmware update](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/firmware-upgrade)
 -   [Firmware release note](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/firmware-release-history)
@@ -66,7 +66,7 @@ waiting please
 
 Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/change-filament-on-creator-5-series
 
-## Unloading Filament
+## Unloading Filament [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/change-filament-on-creator-5-series#unloading-filament)
 
 1.Press the filament cutter lever to cut the filament. Then, firmly withdraw the filament until it is completely removed.After replacing the consumables, click [**loading filament**](#loading-filament) to feed the filament if needed.
 
@@ -86,13 +86,13 @@ Insert a USB drive into the USB port to import sliced files and start printing d
 
 You can also export timelapse videos or device logs to the USB drive.
 
-### Requirements
+### Requirements [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/connect-usb-drive#requirements)
 
 -   **File System**: FAT32 only. exFAT, NTFS, and encrypted partitions are not supported.
 -   **Storage Protocol**: USB 2.0 or higher (minimum 10 MB/s write speed).
 -   **Capacity**: Max capacity depends on formatting OS. Windows: up to 32 GB; Linux/macOS: up to 2 TB.
 
-### Note
+### Note [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/connect-usb-drive#note)
 
 -   Only one USB drive can be mounted at a time. Multiple storage devices connected via a hub or dock are not supported.
 
@@ -102,11 +102,11 @@ You can also export timelapse videos or device logs to the USB drive.
 
 Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/loading-filament
 
-## Loading Filament
+## Loading Filament [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/loading-filament#loading-filament)
 
 Note: The following steps demonstrate the process for a single extruder. Repeat these steps for other extruders as needed.
 
-### Preparation
+### Preparation [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/loading-filament#preparation)
 
 1.Cut off the bent or deformed end of the filament at an angle.
 
@@ -116,7 +116,7 @@ Note: The following steps demonstrate the process for a single extruder. Repeat 
 
 ![](https://wiki.flashforge.com/resource/pictures/creator5_en/load_filament/12.png)
 
-### Loading Filament
+### Loading Filament [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/loading-filament#loading-filament-1)
 
 1.Select the slot where you just fed the filament, then tap **Edit** to set the filament Type and Color.
 
@@ -146,14 +146,14 @@ Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/mo
 
 The printer features a built-in camera for real-time monitoring and timelapse recording.
 
-### Monitoring
+### Monitoring [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/monitoring-and-timelapse#monitoring)
 
 1.  In Flash Studio Desktop, go to **Device** > **Device List** and select your printer to open its status screen.  
     ![flash-studio-chamber-monitoring-01.png](https://wiki.flashforge.com/resource/pictures/creator5_en/monitoring-and-timelapse/flash-studio-chamber-monitoring-01.png)
 2.  Click the **Camera** icon under **Info & Control** to view the live feed.  
     ![flash-studio-chamber-monitoring-02.png](https://wiki.flashforge.com/resource/pictures/creator5_en/monitoring-and-timelapse/flash-studio-chamber-monitoring-02.png)
 
-### Timelapse
+### Timelapse [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/monitoring-and-timelapse#timelapse)
 
 The timelapse feature captures a single frame as each layer completes. Once the print completes, these frames are automatically compiled into a video recording the entire build from start to finish.
 
@@ -163,7 +163,7 @@ When starting a print, enable **Timelapse** in the **Print Settings** screen.
 
 ![enable-timelapse.png](https://wiki.flashforge.com/resource/pictures/creator5_en/monitoring-and-timelapse/enable-timelapse.png)
 
-#### Export Video File
+#### Export Video File [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/monitoring-and-timelapse#export-video-file)
 
 Once the print completes, the printer saves the timelapse video to its internal storage. To export the video to a USB drive:
 
@@ -197,7 +197,7 @@ Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/ne
 
 The printer supports Wi-Fi and LAN connections. From the Home screen, go to ⚙️ > **Network** to open the Network Settings screen.
 
-### Connect to a Wi-Fi Network
+### Connect to a Wi-Fi Network [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/network-setup#connect-to-a-wi-fi-network)
 
 Follow these steps to connect to a Wi-Fi network:
 
@@ -213,7 +213,7 @@ Follow these steps to connect to a Wi-Fi network:
 
 > Switching to a new network clears the previous Wi-Fi password.
 
-### Manual IP Configuration
+### Manual IP Configuration [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/network-setup#manual-ip-configuration)
 
 The printer supports manually configuring a static IPv4 address to maintain a fixed network identity on the LAN, preventing connection drops caused by automatic IP address changes.
 
@@ -232,7 +232,7 @@ Follow these steps to configure a static IP:
 
 > Toggling off "Configure IPv4" switches the printer to automatic DHCP mode. Saved static IP settings are retained and can be reused when toggled back on.
 
-### LAN Only Mode
+### LAN Only Mode [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/network-setup#lan-only-mode)
 
 LAN Only Mode limits printer discovery, access, and control to your local network. Internet connectivity and cloud services are disabled, and print files transfer exclusively over the LAN to ensure data privacy.
 
@@ -317,7 +317,7 @@ Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/pr
 
 Models printed from a USB drive or sent remotely via Flash Studio are automatically saved to the printer's internal storage.
 
-### Printing 3mf file from Internal Storage
+### Printing 3mf file from Internal Storage [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/print-built-in-models-on-creator-5-series#printing-3mf-file-from-internal-storage)
 
 1.Tap \[Print File\] on the Home Screen.
 
@@ -364,7 +364,7 @@ You can also adjust the speed of the Part Cooling Fan and the Auxiliary Cooling 
 
 Note: If the model warps or shifts during printing, simply remove the oil film and dirt from the PEI board surface with alcohol or a cleaning agent to restore adhesion. If you find that the PEI board still cannot stick to the model after cleaning, it is recommended to apply glue or replace the PEI board.
 
-### Printing gcode file from Internal Storage
+### Printing gcode file from Internal Storage [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/print-built-in-models-on-creator-5-series#printing-gcode-file-from-internal-storage)
 
 1.Click the "Print File" button on the main interface.
 
@@ -410,19 +410,19 @@ Once a print task starts, the printer enters active mode, and the Home screen di
     Displays the remaining time and progress as a percentage.
     
 
-### Pause Print
+### Pause Print [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/print-controls#pause-print)
 
 Tap **Pause** to pause the print, and **Continue** to resume printing.
 
 ![print-controls-02.png](https://wiki.flashforge.com/resource/pictures/creator5_en/print-controls/print-controls-02.png)
 
-### End Print
+### End Print [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/print-controls#end-print)
 
 Tap **End** to cancel the print.
 
 ![print-controls-03.png](https://wiki.flashforge.com/resource/pictures/creator5_en/print-controls/print-controls-03.png)
 
-### View Print Details
+### View Print Details [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/print-controls#view-print-details)
 
 While a print task is running, tap the **View Info** icon to see details of the current print.
 
@@ -449,7 +449,7 @@ While a print task is running, tap the **View Info** icon to see details of the 
     Displays the current speed of the Auxiliary Cooling Fan as a percentage of its maximum speed.
     
 
-#### Adjust Fan Speed
+#### Adjust Fan Speed [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/print-controls#adjust-fan-speed)
 
 Model Cooling Fan and Auxiliary Cooling Fan speeds can be adjusted during printing.  
 Tap the **Edit** icon, use **+** and **\-** to adjust the speed, then tap ✔️ to apply.
@@ -458,7 +458,7 @@ Tap the **Edit** icon, use **+** and **\-** to adjust the speed, then tap ✔️
 
 ![print-controls-07.png](https://wiki.flashforge.com/resource/pictures/creator5_en/print-controls/print-controls-07.png)
 
-### Change Print Mode
+### Change Print Mode [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/print-controls#change-print-mode)
 
 Print mode adjusts the overall movement speed of the extruder without changing the original slicing settings.
 
@@ -486,7 +486,7 @@ Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/pr
 There are multiple ways to transfer print data, such as via USB drive or Flash Studio. This section outlines the procedure for printing via a USB drive.  
 Note: Ensure all preparations are complete before connecting a USB drive. If unsure of the required steps, refer to the "[Preparation before Printing](#preparation-before-printing)" section.
 
-### Exporting print data from Flash Studio
+### Exporting print data from Flash Studio [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/print-models-from-a-usb-drive-on-creator-5-series#exporting-print-data-from-flash-studio)
 
 After slicing the model in Flash Studio, open the drop-down menu in the upper-right corner. You will see options such as \[Print plate\], \[Send\], \[Export plate sliced file\], and \[Export G-code file\].
 
@@ -504,7 +504,7 @@ You can also export files by navigating to File > Export. The difference between
 ② Export plate sliced file: Saves the model as a sliced .3mf file. This contains the sliced data and is ready for printing  
 To transfer files via a USB drive, select either \[Export plate sliced file\] or \[Export G-code file\].
 
-### Transferring Data to a USB Drive
+### Transferring Data to a USB Drive [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/print-models-from-a-usb-drive-on-creator-5-series#transferring-data-to-a-usb-drive)
 
 1.Insert a USB drive into a USB port on your computer.
 
@@ -518,7 +518,7 @@ To transfer files via a USB drive, select either \[Export plate sliced file\] or
 
 Note: Print files must be in sliced .3mf or .gcode format. Standard 3D geometry files, such as .stl, cannot be used for printing.
 
-### Printing via USB Drive
+### Printing via USB Drive [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/print-models-from-a-usb-drive-on-creator-5-series#printing-via-usb-drive)
 
 1.Insert the USB drive into the USB port on the right side of the screen. Once connected, a USB icon will appear in the Status Bar at the top of the screen.
 
@@ -544,7 +544,7 @@ Note: Print files must be in sliced .3mf or .gcode format. Standard 3D geometry 
 
 Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/printer-gui-instructions
 
-### Home
+### Home [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/printer-gui-instructions#home)
 
 ![printer-gui-home.png](https://wiki.flashforge.com/resource/pictures/creator5_en/printer-gui-instructions/printer-gui-home.png)
 
@@ -598,7 +598,7 @@ Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/pr
      For more details, see [Change Print Mode](#print-control).
      
 
-### Filament Settings
+### Filament Settings [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/printer-gui-instructions#filament-settings)
 
 ![printer-gui-filament-edit.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/printer-gui-instructions/printer-gui-filament-edit.png)
 
@@ -615,9 +615,9 @@ Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/pr
     Displays instructions for manual filament unloading.
     
 
-### Move & Calibrate
+### Move & Calibrate [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/printer-gui-instructions#move-calibrate)
 
-#### Move
+#### Move [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/printer-gui-instructions#move)
 
 ![printer-gui-xyz-control.png](https://wiki.flashforge.com/resource/pictures/creator5_en/printer-gui-instructions/printer-gui-xyz-control.png)
 
@@ -644,13 +644,13 @@ Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/pr
     For more details, see [Motion Control](#motion-control).
     
 
-#### Calibrate
+#### Calibrate [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/printer-gui-instructions#calibrate)
 
 ![printer-gui-xyz-calibration.png](https://wiki.flashforge.com/resource/pictures/creator5_en/printer-gui-instructions/printer-gui-xyz-calibration.png)
 
 Manually perform Extruder Offset calibration, or run automatic calibrations such as bed leveling and vibration compensation.
 
-### Settings
+### Settings [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/printer-gui-instructions#settings)
 
 ![printer-gui-settings.png](https://wiki.flashforge.com/resource/pictures/creator5_en/printer-gui-instructions/printer-gui-settings.png)
 
@@ -679,7 +679,7 @@ Manually perform Extruder Offset calibration, or run automatic calibrations such
     Displays a QR code for the complete User Guide, customer support contact info, and the docking status of each extruder.
     
 
-#### Basic Settings
+#### Basic Settings [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/printer-gui-instructions#basic-settings)
 
 Tap the up/down arrows on the right side to view more options.
 
@@ -727,13 +727,13 @@ Tap the up/down arrows on the right side to view more options.
 
 Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/printing-on-the-build-plate
 
-### Textured PEI Plate
+### Textured PEI Plate [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/printing-on-the-build-plate#textured-pei-plate)
 
 The textured PEI Plate is made by coating a layer of PEI powder onto a stainless steel sheet. Its surface features a distinctive textured finish, which is also transferred to the bottom of your prints. It is compatible with a wide range of filaments and, in most cases, delivers excellent adhesion without the need for glue, making it extremely easy and convenient to use.
 
 ![14pei.png](https://wiki.flashforge.com/resource/pictures/creator5_en/14pei.png)
 
-### Features
+### Features [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/printing-on-the-build-plate#features)
 
 **1\. Strong Adhesion, Long-Term Durability, Easy Part Removal**  
 After optimizing the manufacturing process of the Textured PEI Plate, its adhesion and durability have been significantly improved. When printing with PLA, PETG, or TPU on this plate, no solid or liquid glue is needed.
@@ -748,7 +748,7 @@ The Textured PEI Plate can be used not only for common filaments such as PLA, TP
 
 > Note: Before printing high-temperature filaments such as ABS, ASA, PA, or PC, be sure to apply an even layer of glue to the build plate. Without sufficient adhesion, prints may warp or detach, potentially colliding with the extruder and causing print failure.
 
-### 纹理PEI板清洁
+### 纹理PEI板清洁 [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/printing-on-the-build-plate#纹理pei板清洁)
 
 The Textured PEI Plate is made by coating PEI powder onto a steel sheet. After extended use, you may notice reduced adhesion. Below are the recommended cleaning methods for the PEI plate.
 
@@ -778,7 +778,7 @@ lint-free paper
 
 ![18wiper\_clean.png](https://wiki.flashforge.com/resource/pictures/creator5_en/18wiper_clean.png)
 
-### Common Issues
+### Common Issues [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/printing-on-the-build-plate#common-issues)
 
 **Prints Detaching**  
 **Solutions:**
@@ -813,7 +813,7 @@ Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/sn
 
 > During the after-sales process, after-sales staff will ask users for the device's serial number to determine the device's production, shipping, and other statuses. This section introduces the ways to query the device's serial number.
 
-### Query device serial number within the printer
+### Query device serial number within the printer [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/sn#query-device-serial-number-within-the-printer)
 
 Step 1: In the standby state of the device, click the 【file】 icon marked by the blue box on the main interface;
 
@@ -823,7 +823,7 @@ Step 2. Enter the machine equipment information interface, where you can query i
 
 ![sn2.png](https://wiki.flashforge.com/resource/pictures/creator5_en/flash_studio/sn2.png)
 
-### Nameplate Label Query
+### Nameplate Label Query [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/sn#nameplate-label-query)
 
 There is a nameplate label affixed to the lower right corner of the right cover plate of the device, and the string of alphanumeric characters printed below the barcode is the device's serial number.
 
@@ -839,19 +839,19 @@ From the Home screen, tap the **Move & Calibrate** icon to open the Move screen.
 
 ![movement-control\_main\_interface.png](https://wiki.flashforge.com/resource/pictures/creator5_en/xyz-e-movement-control/movement-control_main_interface.png)
 
-### Safety Precautions
+### Safety Precautions [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/XYZ-E-movement-control#safety-precautions)
 
 -   Keep hands away from the nozzle and moving parts to avoid burns or pinching injuries.
 -   Before moving the axes, make sure the print area is clear of obstacles to prevent collisions.
 -   When moving the Z axis, monitor the clearance between the nozzle and the heatbed to avoid crushing.
 -   Always [unlock the motors](#motion-control) before moving components by hand. Do not force movement, as this may damage the mechanical structure and the motors.
 
-### XYZ-Axis Control
+### XYZ-Axis Control [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/XYZ-E-movement-control#xyz-axis-control)
 
 -   XY-Axis Control: Moves the extruder mount left/right and front/back along the horizontal plane.
 -   Z-Axis Control: Moves the heatbed up and down vertically.
 
-#### Operating Steps
+#### Operating Steps [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/XYZ-E-movement-control#operating-steps)
 
 1.  Tap the **Home** icon to return the heatbed and extruder mount to their mechanical home positions, ensuring accurate coordinate referencing.  
     ![xyz-movement-01.png](https://wiki.flashforge.com/resource/pictures/creator5_en/xyz-e-movement-control/xyz-movement-01.png)
@@ -867,7 +867,7 @@ From the Home screen, tap the **Move & Calibrate** icon to open the Move screen.
     ![xyz-movement-05.png](https://wiki.flashforge.com/resource/pictures/creator5_en/xyz-e-movement-control/xyz-movement-05.png)
     
 
-#### Load an Extruder
+#### Load an Extruder [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/XYZ-E-movement-control#load-an-extruder)
 
 To load an extruder:
 
@@ -877,7 +877,7 @@ To load an extruder:
 
 ![xyz-movement-06.png](https://wiki.flashforge.com/resource/pictures/creator5_en/xyz-e-movement-control/xyz-movement-06.png)
 
-#### Unlock Motors
+#### Unlock Motors [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/XYZ-E-movement-control#unlock-motors)
 
 Tap 🔓 to unlock the motors.
 
@@ -889,13 +889,13 @@ Once unlocked, you can manually move the extruder mount, or pull the Z-axis belt
 
 Home all axes to restore automatic control and reset their positions.
 
-### Extruder Motor Control
+### Extruder Motor Control [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/XYZ-E-movement-control#extruder-motor-control)
 
 You can manually control the extruder motor to extrude or retract filament. Common use cases include manual loading/unloading, nozzle cleaning, and test-extruding.
 
 > Before extruding, ensure at least 50 mm of clearance between the nozzle and the heatbed to prevent filament buildup and nozzle clogs.
 
-#### Operating Steps
+#### Operating Steps [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/XYZ-E-movement-control#operating-steps-1)
 
 1.  Select and load the desired extruder.
 2.  Control the extruder motor using the arrows:  

@@ -5,11 +5,11 @@ source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/fi
 
 > Official wiki page: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/firmware-upgrade
 
-# Firmware Update
+# Firmware Update [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/firmware-upgrade#firmware-update)
 
 For Creator 5, there will be ongoing firmware updates released from time to time. To update the firmware, simply connect the printer to Wi-Fi or Ethernet. For details, please refer to the following instructions:
 
-## Firmware Update via OTA
+## Firmware Update via OTA [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/firmware-upgrade#firmware-update-via-ota)
 
 1\. When the printer is first connected to Wi-Fi or Ethernet, it will check the server for new firmware and prompt updates through OTA.
 
@@ -25,7 +25,7 @@ For Creator 5, there will be ongoing firmware updates released from time to time
 
 ![](https://wiki.flashforge.com/resource/pictures/creator5_en/update_en/en3.png)
 
-## Manual Update Check
+## Manual Update Check [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/firmware-upgrade#manual-update-check)
 
 1\. You can also manually check for the latest firmware by navigating to the Tools menu, and tap Firmware.
 

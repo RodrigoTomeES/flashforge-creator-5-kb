@@ -11,7 +11,7 @@
 
 Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/troubleshooting-equipment-hardware-issues
 
-### 1.The nozzle temperature shows a negative number
+### 1.The nozzle temperature shows a negative number [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/troubleshooting-equipment-hardware-issues#h-1the-nozzle-temperature-shows-a-negative-number)
 
 Cause：Temperature sensor is damaged or wiring harness has poor contact.
 
@@ -34,7 +34,7 @@ Solutions：
 
 If the above steps still fail to resolve the issue, please copy the logs to a USB drive and contact customer support.
 
-### 2.When go home, the Z-axis keeps moving downward or fails to stop when it touches the eddy current rod
+### 2.When go home, the Z-axis keeps moving downward or fails to stop when it touches the eddy current rod [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/troubleshooting-equipment-hardware-issues#h-2when-go-home-the-z-axis-keeps-moving-downward-or-fails-to-stop-when-it-touches-the-eddy-current-rod)
 
 Cause：Eddy current rod is not fixed or eddy current coil is abnormal.
 
@@ -42,7 +42,7 @@ Solutions：
 ① Check if the eddy current rod is loose; if it is not tightened properly, please re-tighten it.  
 ② If the above steps cannot resolve the issue, please contact customer support to replace the eddy current coil;
 
-### 3.The display screen shows a mosaic phenomenon
+### 3.The display screen shows a mosaic phenomenon [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/troubleshooting-equipment-hardware-issues#h-3the-display-screen-shows-a-mosaic-phenomenon)
 
 Cause：Loose contact of connector.
 
@@ -58,7 +58,7 @@ Solutions：First, turn off the printer, then use a wrench to remove the screws,
 
 Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/troubleshooting-equipment-usage-issues
 
-### 1\. Filament Guide Tube Clogged.
+### 1\. Filament Guide Tube Clogged. [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/troubleshooting-equipment-usage-issues#h-1-filament-guide-tube-clogged)
 
 **Issue:** During filament change, the filament cannot pass through the filament guide tube.
 
@@ -70,7 +70,7 @@ Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/troublesh
 
 **Solution:** Remove the broken filament remained in the filament guide tube.
 
-### 2\. Filament Extrusion Issue.
+### 2\. Filament Extrusion Issue. [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/troubleshooting-equipment-usage-issues#h-2-filament-extrusion-issue)
 
 **Issue:** 1. Under-extrusion; 2. No filament extrusion.
 
@@ -96,13 +96,13 @@ Step 4: If the above steps don't work, replace the nozzle.
 
 Step 5: If the above steps still don't solve the problem, check for extruder blockage.
 
-### 3\. No Extrusion on the First Yayer.
+### 3\. No Extrusion on the First Yayer. [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/troubleshooting-equipment-usage-issues#h-3-no-extrusion-on-the-first-yayer)
 
 **Cause:** Distance too close.
 
 **Solution:** Re-level.
 
-### 4\. Model Not Sticking to the Build Plate.
+### 4\. Model Not Sticking to the Build Plate. [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/troubleshooting-equipment-usage-issues#h-4-model-not-sticking-to-the-build-plate)
 
 **Cause:**
 
@@ -134,7 +134,7 @@ Step 3: If the above steps don't work, manually raise the bed by 0.05-0.1mm duri
 
 Step 4: If the above steps still don't solve the problem, please copy logs to a USB flash drive and contact customer support.
 
-### 5\. Nozzle Scraping Against the Built Plate.
+### 5\. Nozzle Scraping Against the Built Plate. [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/troubleshooting-equipment-usage-issues#h-5-nozzle-scraping-against-the-built-plate)
 
 **Issues:** After automatic leveling, the extruder is too close to the bed when printing the first layer, causing the nozzle to scrape against the build plate.
 
@@ -150,7 +150,7 @@ Step 3: If the above steps don't work, consider checking for firmware updates. U
 
 Step 4: If the above steps still don't solve the problem, please copy logs to a USB flash drive and contact customer support.
 
-### 6.Nozzle Clogged
+### 6.Nozzle Clogged [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/troubleshooting-equipment-usage-issues#h-6nozzle-clogged)
 
 Issue: When printing, the nozzle fails to extrude filament properly.
 
@@ -181,11 +181,11 @@ waiting
 
 Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/troubleshooting-print-quality-problems
 
-### Preface
+### Preface [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/troubleshooting-print-quality-problems#preface)
 
 This guide summarizes the general solutions for the quality of C5 series printer models, highlighting the differences between multi-head and single-head. For the general quality defect guide, please refer to another article, "Guide to Solving Print Quality Material-Related Issues and Related Accessories".
 
-### Problem Classification and Solutions
+### Problem Classification and Solutions [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/troubleshooting-print-quality-problems#problem-classification-and-solutions)
 
 1.Multi-head offset calibration anomaly
 
@@ -237,7 +237,7 @@ Fully dry the consumables, keep the platform clean, level it before starting pri
 
 Source: https://wiki.flashforge.com/en/creator-series/creator-5m-series/troubleshooting-network-related-issues
 
-### 1\. No Registration Code Displayed on the FlashCloud Interface
+### 1\. No Registration Code Displayed on the FlashCloud Interface [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5m-series/troubleshooting-network-related-issues#h-1-no-registration-code-displayed-on-the-flashcloud-interface)
 
 ![](https://wiki.flashforge.com/resource/pictures/ad_series_troubleshooting/36.36.no_registration_code_displayed.jpeg)
 

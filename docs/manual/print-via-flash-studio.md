@@ -7,7 +7,7 @@ source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/pr
 
 This section provides instructions on printing from Flash Studio.
 
-## Flash Studio directly sends multi-color models for printing
+## Flash Studio directly sends multi-color models for printing [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/print-via-flash-studio#flash-studio-directly-sends-multi-color-models-for-printing)
 
 After slicing the multi-color model, click Print plate to send the file directly to the printer.
 

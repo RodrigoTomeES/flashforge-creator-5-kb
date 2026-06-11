@@ -11,12 +11,12 @@ Insert a USB drive into the USB port to import sliced files and start printing d
 
 You can also export timelapse videos or device logs to the USB drive.
 
-## Requirements
+## Requirements [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/connect-usb-drive#requirements)
 
 -   **File System**: FAT32 only. exFAT, NTFS, and encrypted partitions are not supported.
 -   **Storage Protocol**: USB 2.0 or higher (minimum 10 MB/s write speed).
 -   **Capacity**: Max capacity depends on formatting OS. Windows: up to 32 GB; Linux/macOS: up to 2 TB.
 
-## Note
+## Note [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/connect-usb-drive#note)
 
 -   Only one USB drive can be mounted at a time. Multiple storage devices connected via a hub or dock are not supported.

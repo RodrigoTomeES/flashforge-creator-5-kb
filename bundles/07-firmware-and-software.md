@@ -39,11 +39,11 @@ Creator5-1.7.3-1.1.5-20260411
 
 Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/firmware-upgrade
 
-## Firmware Update
+## Firmware Update [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/firmware-upgrade#firmware-update)
 
 For Creator 5, there will be ongoing firmware updates released from time to time. To update the firmware, simply connect the printer to Wi-Fi or Ethernet. For details, please refer to the following instructions:
 
-### Firmware Update via OTA
+### Firmware Update via OTA [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/firmware-upgrade#firmware-update-via-ota)
 
 1\. When the printer is first connected to Wi-Fi or Ethernet, it will check the server for new firmware and prompt updates through OTA.
 
@@ -59,7 +59,7 @@ For Creator 5, there will be ongoing firmware updates released from time to time
 
 ![](https://wiki.flashforge.com/resource/pictures/creator5_en/update_en/en3.png)
 
-### Manual Update Check
+### Manual Update Check [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/firmware-upgrade#manual-update-check)
 
 1\. You can also manually check for the latest firmware by navigating to the Tools menu, and tap Firmware.
 
@@ -91,11 +91,11 @@ Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/in
 
 > Welcome to Flash Studio, your control center for the Creator 5 series printers. This guide will walk you through the basics of getting started with Flash Studio.
 
-### What is Flash Studio?
+### What is Flash Studio? [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/intro_flash-studio#what-is-flash-studio)
 
 Flash Studio is a slicing software developed on OrcaSlicer, specifically optimized for Creator 5 series and related printer series. It offers rich features, seamless connectivity, optimized slicing algorithms, and an intuitive user interface, delivering a smooth and efficient printing experience.
 
-### System Requirements
+### System Requirements [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/intro_flash-studio#system-requirements)
 
 -   Windows 10 or later
 -   macOS V10.15 or later
@@ -103,7 +103,7 @@ Flash Studio is a slicing software developed on OrcaSlicer, specifically optimiz
 -   RAM: 8GB or more
 -   Storage: 80GB or more
 
-### Download & Installation
+### Download & Installation [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/intro_flash-studio#download-installation)
 
 1.  Download Flash Studio.
 2.  Follow the steps below to complete the installation.  
@@ -202,20 +202,20 @@ View and adjust the extruder and bed temperatures in real time
 Extruder & Filament  
 Display the extruder information along with the corresponding filament type and color.
 
-### Printing
+### Printing [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/intro_flash-studio#printing)
 
 There are two ways to print files:
 
 1.  Remote printing
 2.  Printing from a USB flash drive
 
-### Create a New Project
+### Create a New Project [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/intro_flash-studio#create-a-new-project)
 
 To start slicing a model, click \[New Project\].
 
 ![flashstudio18.png](https://wiki.flashforge.com/resource/pictures/creator5_en/flash_studio/flashstudio18.png)
 
-### Load a File
+### Load a File [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/intro_flash-studio#load-a-file)
 
 On the top menu bar of the Prepare interface, click【![con3.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/flash_studio/con3.png)】to load a model；
 
@@ -269,7 +269,7 @@ Print Method 2: Export to a USB Flash Drive
 
 ![flashstudio27.png](https://wiki.flashforge.com/resource/pictures/creator5_en/flash_studio/flashstudio27.png)
 
-### Slice Parameters
+### Slice Parameters [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/intro_flash-studio#slice-parameters)
 
 Good parameter configuration helps improve printing success rate and print quality.Click to learn more details！[orca Official Website](https://github.com/OrcaSlicer/OrcaSlicer/wiki/quality_settings_precision#slice-gap-closing-radius%23slice-gap-closing-radius)
 
@@ -281,7 +281,7 @@ Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/pr
 
 This section provides instructions on printing from Flash Studio.
 
-### Flash Studio directly sends multi-color models for printing
+### Flash Studio directly sends multi-color models for printing [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/print-via-flash-studio#flash-studio-directly-sends-multi-color-models-for-printing)
 
 After slicing the multi-color model, click Print plate to send the file directly to the printer.
 

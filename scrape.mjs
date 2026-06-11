@@ -107,8 +107,16 @@ function pageToMarkdown(html, wikiPath, localPaths, td) {
   if (!extracted) return null;
   const { $, $content } = extracted;
 
-  // Strip Wiki.js chrome: ¶ anchors inside headings.
-  $content.find('a.toc-anchor').remove();
+  const pageUrl = `${BASE}/en/${wikiPath}`;
+
+  // Replace the ¶ anchors inside headings with a trailing [wiki §] link to
+  // the exact section on the wiki, so the assistant can cite sections deeply.
+  $content.find('h1, h2, h3, h4, h5, h6').each((_, el) => {
+    const $h = $(el);
+    $h.find('a.toc-anchor').remove();
+    const id = $h.attr('id');
+    if (id) $h.append(` <a href="${pageUrl}#${id}">[wiki §]</a>`);
+  });
 
   // Rewrite links.
   $content.find('a[href]').each((_, el) => {
@@ -122,7 +130,12 @@ function pageToMarkdown(html, wikiPath, localPaths, td) {
       return;
     }
 
-    if (href.startsWith('#')) return; // same-page anchor
+    // Same-page anchors → absolute wiki section URL (local markdown slugs
+    // don't match Wiki.js heading ids, and citations should hit the wiki).
+    if (href.startsWith('#')) {
+      $a.attr('href', `${pageUrl}${href}`);
+      return;
+    }
 
     if (href.startsWith('/')) {
       const [purePath, fragment] = href.split('#');

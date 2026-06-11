@@ -7,13 +7,13 @@ source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/in
 
 This page provides a basic overview of the mechanical structure and electrical components of the Creator 5 series for you to have a good grasp of this series of 3D printers.
 
-## **Working Principle of Creator 5 Series**
+## **Working Principle of Creator 5 Series** [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/intro-creator-5#working-principle-of-creator-5-series)
 
 Working Principle of Creator 5 Series:  
 The Creator 5 series prints 3D objects by melting plastic filament, extruding it through a nozzle, and depositing it layer by layer according to system instructions.  
 he most common 3D model file formats are STL and 3MF, which can be converted into a format recognized by 3D printers (like G-code or 3MF) using slicing software such as Orca-Flashforge or Orca Slicer. These files contain precise instructions for controlling movement, speed, path, and parameters like temperature and flow rate.
 
-## **CoreXY Structure**
+## **CoreXY Structure** [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/intro-creator-5#corexy-structure)
 
 ![19pic.png](https://wiki.flashforge.com/resource/pictures/creator5_en/19pic.png)
 
@@ -31,13 +31,13 @@ Enhanced stability and reliability: The crossed drive belts balance tension in b
 
 For more details on the CoreXY motion system, please visit[链接](https://corexy.com/index.html)。
 
-## Printer Components
+## Printer Components [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/intro-creator-5#printer-components)
 
 ![20pic.png](https://wiki.flashforge.com/resource/pictures/creator5_en/20pic.png)
 
 ![21pic.png](https://wiki.flashforge.com/resource/pictures/creator5_en/21pic.png)
 
-## Extruder Mount Assembly
+## Extruder Mount Assembly [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/intro-creator-5#extruder-mount-assembly)
 
 ![22pic.png](https://wiki.flashforge.com/resource/pictures/creator5_en/22pic.png)
 
@@ -79,7 +79,7 @@ This 12 planetary gear reduction stepper motor powers locking and release of the
 
 ![29pic.png](https://wiki.flashforge.com/resource/pictures/creator5_en/29pic.png)
 
-## Extruder Assembly
+## Extruder Assembly [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/intro-creator-5#extruder-assembly)
 
 ![30.png](https://wiki.flashforge.com/resource/pictures/creator5_en/30.png)
 
@@ -121,7 +121,7 @@ The feed gear meshes with the reduction gear to feed filament into the hotend an
 
 The reduction gear assembly works together with the feed gear to provide driving force, pushing filament into the hotend and out through the nozzle. The locking coupler and extruder positioning plate are key components that ensure the extruder is correctly positioned and securely fastened to the extruder mount.
 
-## Extruder Dock Assembly
+## Extruder Dock Assembly [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/intro-creator-5#extruder-dock-assembly)
 
 ![37pic.png](https://wiki.flashforge.com/resource/pictures/creator5_en/37pic.png)
 
@@ -145,13 +145,13 @@ On the Creator 5 Pro, an additional Hall sensor detects whether the top cover is
 
 The Creator 5 Pro (**the Creator 5 does not have this component**) also has a Hall sensor that detects the opening and closing of the upper cover. When the upper cover is opened, the device will pause and pop up a prompt dialog box, providing safety assurance for the device.
 
-## Display Screen
+## Display Screen [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/intro-creator-5#display-screen)
 
 ![41pic.png](https://wiki.flashforge.com/resource/pictures/creator5_en/41pic.png)
 
 The Creator 5 series is equipped with a 4-inch 800\*480 full-color touchscreen, which feels smoother to touch. Additionally, the screen connection has been redesigned into a quick plug-and-play interface, enabling fast plugging and unplugging, making installation and replacement more convenient than the original device.
 
-## Z-axis
+## Z-axis [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/intro-creator-5#z-axis)
 
 ![42pic.png](https://wiki.flashforge.com/resource/pictures/creator5_en/42pic.png)
 
@@ -161,7 +161,7 @@ The Z-axis of the Creator 5 series consists of three ball screws connected to Z-
 
 The Z-axis consists of lead screws and optical rods, distributed at the front left, rear left, and middle right of the heated bed. The three lead screws are connected to the same Z stepper motor via a belt and are driven to rotate uniformly by the motor, thereby driving the heated bed to rise and fall synchronously and achieving vertical movement of the heated bed. The optical rods provide precise positioning, effectively suppressing the shaking caused by the rotation of the lead screws and ensuring the stable operation of the heated bed.
 
-## Print Bed
+## Print Bed [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/intro-creator-5#print-bed)
 
 ![44pic.png](https://wiki.flashforge.com/resource/pictures/creator5_en/44pic.png)
 
@@ -172,7 +172,7 @@ The heated bed is used to heat the printing surface, allowing the printed object
 During the printing process, Wolverine 5 adjusts the heating temperature of the hotbed according to the type of material used, with a maximum temperature of up to 120°C. For example, when using PLA or silk filaments, setting the hotbed temperature to 45-55°C during printing can effectively prevent warping. For materials such as ABS and ASA, to prevent warping, the hotbed temperature needs to be set between 100-110°C for printing.  
 The maximum printing area of the hotbed surface of the Creator 5 series is 256\*256mm².
 
-## Electrical Components
+## Electrical Components [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/intro-creator-5#electrical-components)
 
 ![46pic.png](https://wiki.flashforge.com/resource/pictures/creator5_en/46pic.png)
 
@@ -182,7 +182,7 @@ The firmware supports advanced features such as pressure advance, automatic bed 
 
 The Creator 5 series uses eddy current sensors for platform leveling. When the eddy current sensors come into contact with the platform, the output signal of the sensors changes, thereby enabling data acquisition at each point. Then, the algorithm of the mesh bed is used to achieve a beautiful first layer print.
 
-## Filtration System
+## Filtration System [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/intro-creator-5#filtration-system)
 
 ![47pic.png](https://wiki.flashforge.com/resource/pictures/creator5_en/47pic.png)
 
@@ -190,7 +190,7 @@ During operation, 3D printers emit ultrafine particles (UFPs) and volatile organ
 
 Creator 5 Pro employs a dual-stage filtration system consisting of a HEPA13 filter and activated carbon. This system can filter up to 99% of particles and VOCs, ensuring a safer working environment.
 
-## Camera
+## Camera [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/intro-creator-5#camera)
 
 ![48pic.png](https://wiki.flashforge.com/resource/pictures/creator5_en/48pic.png)
 

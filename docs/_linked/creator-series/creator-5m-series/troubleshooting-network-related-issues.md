@@ -5,7 +5,7 @@ source: https://wiki.flashforge.com/en/creator-series/creator-5m-series/troubles
 
 > Official wiki page: https://wiki.flashforge.com/en/creator-series/creator-5m-series/troubleshooting-network-related-issues
 
-## 1\. No Registration Code Displayed on the FlashCloud Interface
+## 1\. No Registration Code Displayed on the FlashCloud Interface [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5m-series/troubleshooting-network-related-issues#h-1-no-registration-code-displayed-on-the-flashcloud-interface)
 
 ![](https://wiki.flashforge.com/resource/pictures/ad_series_troubleshooting/36.36.no_registration_code_displayed.jpeg)
 

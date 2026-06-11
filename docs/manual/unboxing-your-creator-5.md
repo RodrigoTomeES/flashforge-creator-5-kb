@@ -5,7 +5,7 @@ source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/un
 
 > Official wiki page: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5
 
-## Step 1: Unboxing and Removal
+## Step 1: Unboxing and Removal [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5#step-1-unboxing-and-removal)
 
 Open the box and remove the top foam and the Quick Start Guide.
 
@@ -13,7 +13,7 @@ Open the box and remove the top foam and the Quick Start Guide.
 
 ![creator5\_unboxing\_02.jpg](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/unbox/creator5_unboxing_02.jpg)
 
-## Step 2: Remove the Printer
+## Step 2: Remove the Printer [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5#step-2-remove-the-printer)
 
 Lift the printer out of the box along with its packaging, and place it on a level surface.
 
@@ -21,7 +21,7 @@ Lift the printer out of the box along with its packaging, and place it on a leve
 
 ![creator5\_unboxing\_04.jpg](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/unbox/creator5_unboxing_04.jpg)
 
-## Step 3: Remove the Foam and Accessories
+## Step 3: Remove the Foam and Accessories [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5#step-3-remove-the-foam-and-accessories)
 
 Remove the packaging bag and take out the protective foam from inside the chamber.
 
@@ -39,7 +39,7 @@ Packaging list:
 
 ![1boxlist.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/faq/1boxlist.png)
 
-## Step 4: Install the Display Screen
+## Step 4: Install the Display Screen [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5#step-4-install-the-display-screen)
 
 1.  Align the slots on the back of the display screen with the mounting points on the printer. Then, attach the display screen as shown.  
     ![creator5\_unboxing\_09.jpg](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/unbox/creator5_unboxing_09.jpg)
@@ -48,7 +48,7 @@ Packaging list:
     ![creator5\_unboxing\_10.jpg](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/unbox/creator5_unboxing_10.jpg)
     
 
-## Step 5: Install the Extruder Module
+## Step 5: Install the Extruder Module [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5#step-5-install-the-extruder-module)
 
 1.  Insert the four nozzle blockers into the slots of the extruder dock as shown.  
     ![creator5\_unboxing\_11.jpg](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/unbox/creator5_unboxing_11.jpg)  
@@ -67,13 +67,13 @@ Packaging list:
     ![creator5\_unboxing\_16.jpg](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/unbox/creator5_unboxing_16.jpg)
     
 
-## Step 6: Unlock the Print Bed
+## Step 6: Unlock the Print Bed [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5#step-6-unlock-the-print-bed)
 
 Use a 2.0mm Allen wrench to remove the securing screws indicated by the arrows to unlock the print bed.
 
 ![creator5\_unboxing\_17.jpg](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/unbox/creator5_unboxing_17.jpg)
 
-## Step 7: Install the Spool Holder
+## Step 7: Install the Spool Holder [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5#step-7-install-the-spool-holder)
 
 Remove the spool holder stickers. Insert a spool holder into the mounting hole on the right side of the printer as shown, and secure it with one M3×16 screw.
 
@@ -87,7 +87,7 @@ Repeat this process to install the remaining three spool holders.
 
 Unboxing is completed.
 
-## Unboxing Video
+## Unboxing Video [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5#unboxing-video)
 
 View our full Unboxing Video for creator 5.  
 [▶ Video: https://www.youtube.com/watch?v=q9KYrzE6R2o](https://www.youtube.com/watch?v=q9KYrzE6R2o)

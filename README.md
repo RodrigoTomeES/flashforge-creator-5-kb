@@ -32,6 +32,9 @@ One markdown file per wiki page, mirroring the wiki's URL structure:
 
 - Frontmatter with `title:` and `source:` (the canonical wiki URL), plus a
   visible "Official wiki page:" line.
+- Every heading ends with a `[wiki §]` link to the **exact section** on the
+  wiki (e.g. `…/error_code_creator_5#e0002-communication-with-mcu-interrupted`),
+  so the assistant can cite sections, not just pages.
 - Internal links rewritten as **relative deep links** between the `.md` files.
 - Images and videos kept as **absolute URLs** to the wiki / YouTube
   (video links are marked `▶ Video:`).

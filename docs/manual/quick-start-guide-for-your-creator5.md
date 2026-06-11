@@ -5,7 +5,7 @@ source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/qu
 
 > Official wiki page: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/quick-start-guide-for-your-creator5
 
-## Initial Printer Setup
+## Initial Printer Setup [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/quick-start-guide-for-your-creator5#initial-printer-setup)
 
 Now that you have unboxed your Creator 5 printer,follow these steps to set up the printer for the first time.
 

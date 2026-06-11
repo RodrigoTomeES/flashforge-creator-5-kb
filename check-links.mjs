@@ -26,7 +26,9 @@ for await (const file of mdFiles(DOCS)) {
   const text = await readFile(file, 'utf8');
   for (const [, target] of text.matchAll(LINK_RX)) {
     if (/^https?:\/\//.test(target)) {
-      urls.add(target);
+      // Strip #fragment: fetch ignores it, and section anchors would flood
+      // the sample with duplicates of the same page.
+      urls.add(target.split('#')[0]);
       continue;
     }
     if (target.startsWith('#')) continue;
