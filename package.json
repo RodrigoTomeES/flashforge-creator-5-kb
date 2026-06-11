@@ -1,0 +1,16 @@
+{
+  "name": "flashforge-wiki-kb",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "FlashForge Creator 5 / 5 Pro wiki scraper → markdown knowledge base for a custom GPT / Gemini Gem",
+  "scripts": {
+    "scrape": "node scrape.mjs",
+    "check": "node check-links.mjs"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "turndown": "^7.2.0",
+    "turndown-plugin-gfm": "^1.0.2"
+  }
+}
