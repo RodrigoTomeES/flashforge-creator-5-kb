@@ -1,6 +1,6 @@
 # FlashForge Creator 5 Series — Wiki Mirror Index
 
-Mirrored from the official FlashForge wiki on 2026-06-11.
+Mirrored from the official FlashForge wiki on 2026-06-12.
 Root page: https://wiki.flashforge.com/en/creator-series/creator-5-series
 
 | Page | Local file | Original wiki URL |
