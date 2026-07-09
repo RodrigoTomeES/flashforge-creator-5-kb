@@ -6,11 +6,14 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 A scraper that mirrors the FlashForge Creator 5 / 5 Pro section of the official wiki (https://wiki.flashforge.com/en/creator-series/creator-5-series) into markdown files used as the knowledge base for a Gemini Gem / custom GPT. `docs/` and `bundles/` are **generated output** — never hand-edit them; change `scrape.mjs` and re-run.
 
+`community/` is the exception: hand-authored, git-tracked source (not generated) for **unofficial** community guides. `build-community.mjs` folds them into `bundles/08-community.md` (a standalone bundle, no wiki scrape needed); `scrape.mjs` imports and calls `buildCommunityBundle()` so the weekly refresh keeps it current. Required frontmatter per file: `title`, `created`, `updated` (YYYY-MM-DD).
+
 ## Commands
 
 ```bash
 npm run scrape   # full re-scrape: deletes nothing, but regenerate cleanly with: rm -rf docs bundles && npm run scrape
 npm run check    # validates all relative .md links resolve + samples remote wiki URLs (HEAD requests); exits 1 on failure
+npm run community # rebuild bundles/08-community.md from community/*.md (validates required frontmatter; exits 1 on error)
 ```
 
 There are no tests or linters; `npm run check` after a scrape is the verification step.

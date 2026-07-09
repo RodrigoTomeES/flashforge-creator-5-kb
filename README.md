@@ -54,6 +54,7 @@ also consolidated into 7 topic files:
 | `05-error-codes.md` | Error code list (E0001…) with causes and solutions |
 | `06-maintenance.md` | Cleaning, lubrication, part replacement |
 | `07-firmware-and-software.md` | Firmware updates, release notes, Flash Studio |
+| `08-community.md` | **Unofficial** community-contributed guides (see below) |
 
 Each section inside a bundle starts with its `Source:` URL. Links between
 pages in the same bundle become in-document anchors; links across bundles fall
@@ -66,6 +67,16 @@ back to the original wiki URL, so each file works standalone.
    [`bundles/system-prompt.md`](bundles/system-prompt.md) into the
    Gem/GPT instructions — it tells the assistant to always cite the official
    wiki URL, share video/image links, and distinguish Creator 5 vs 5 Pro.
+
+## Contributing
+
+`docs/` and `bundles/` are generated from the official wiki — don't edit them.
+But you can add your **own guides** (things not covered officially) under
+`community/`. They're hand-authored Markdown that the scraper never touches, and
+they're folded into a separate **unofficial** bundle (`bundles/08-community.md`).
+
+Start from `community/_template.md`, run `bun run community` to build the bundle,
+and open a PR. See [`CONTRIBUTING.md`](CONTRIBUTING.md) for the full guide.
 
 ## Updating
 

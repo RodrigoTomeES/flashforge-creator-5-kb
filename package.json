@@ -6,7 +6,8 @@
   "description": "FlashForge Creator 5 / 5 Pro wiki scraper → markdown knowledge base for a custom GPT / Gemini Gem",
   "scripts": {
     "scrape": "node scrape.mjs",
-    "check": "node check-links.mjs"
+    "check": "node check-links.mjs",
+    "community": "node build-community.mjs"
   },
   "dependencies": {
     "cheerio": "^1.0.0",

@@ -14,6 +14,7 @@ import TurndownService from 'turndown';
 import { gfm } from 'turndown-plugin-gfm';
 import { mkdir, writeFile } from 'node:fs/promises';
 import path from 'node:path';
+import { buildCommunityBundle } from './build-community.mjs';
 
 const BASE = 'https://wiki.flashforge.com';
 const SECTION_PREFIX = 'creator-series/creator-5-series';
@@ -362,6 +363,9 @@ for (const bundle of BUNDLES) {
   console.log(`Wrote bundles/${bundle.file} (${members.length} pages).`);
 }
 
+// ---------------------------------------------------- community bundle (08)
+await buildCommunityBundle();
+
 // ------------------------------------------- suggested assistant instructions
 
 const systemPrompt = `# Suggested instructions for your Gem / custom GPT
@@ -405,6 +409,10 @@ Rules:
    supply, remind the user to power off and let parts cool when the wiki
    indicates it.
 7. Distinguish between Creator 5 and Creator 5 Pro when instructions differ.
+8. The "Community Contributions (Unofficial)" document is written by users, not
+   FlashForge. When you use it, clearly label the answer as community-contributed
+   and unofficial, and never cite it as the official wiki. If it conflicts with an
+   official document, prefer the official one.
 `;
 await writeFile(path.join(OUT_BUNDLES, 'system-prompt.md'), systemPrompt);
 console.log('Wrote bundles/system-prompt.md.');
