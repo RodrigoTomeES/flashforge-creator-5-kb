@@ -113,3 +113,47 @@ Solution2：Replace with a new hot end.
 ②Use a wrench to remove the two screws securing the hot end；  
 ③Pull out the hot end downward, install a new hot end, and secure the screws；  
 ④Reperform XYZ calibration.
+
+## 7.Troubleshooting Guide for the Extruder Mount Cable Pressing Against the T4 Cable [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/troubleshooting-equipment-usage-issues#h-7troubleshooting-guide-for-the-extruder-mount-cable-pressing-against-the-t4-cable)
+
+**Issue Description:**  
+During Creator 5/Creator 5 Pro print setup, when the extruder mount moves to the front-left position of the printer, the extruder mount cable is highly likely to press against the T4 extruder cable, causing tension on the extruder mount cable during movement. Below is an image showing the issue:  
+![t4交叉.jpg](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/quality/t4%E4%BA%A4%E5%8F%89.jpg)  
+**Cause：**  
+The movement paths of the extruder mount cable and the T4 extruder cable intersect, resulting in cable pressing.  
+**Solution:**  
+Download the "Extruder Mount Cable Clip" file[喷头座线包壳.3mf](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/quality/%E5%96%B7%E5%A4%B4%E5%BA%A7%E7%BA%BF%E5%8C%85%E5%A3%B3.3mf) and print it using PLA or PETG. Install it as shown in the image below. Note: After placing the printed part onto the cable, fit it properly, then push it downward until it is fully seated.
+
+![包线壳.jpg](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/quality/%E5%8C%85%E7%BA%BF%E5%A3%B3.jpg)  
+Improved result:  
+![改善后图片.jpg](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/quality/%E6%94%B9%E5%96%84%E5%90%8E%E5%9B%BE%E7%89%871.jpg)
+
+## 8.Creator 5: Filament Spool Rotation Noise [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/troubleshooting-equipment-usage-issues#h-8creator-5-filament-spool-rotation-noise)
+
+**Issue Description:**  
+When third-party filament spools are used for printing, abnormal noise occurs during spool rotation, and grooves are worn into the spool holder. See below for reference:
+
+[Video1.mp4](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/quality/%E9%A3%9E%E4%B9%A620260526-150814.mp4)
+
+[Video2.mp4](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/quality/%E9%A3%9E%E4%B9%A620260526-150804.mp4)
+
+Worn-out spool holde：
+
+![20260526-150819.jpg](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/quality/20260526-150819.jpg)
+
+**Cause:**  
+Some third-party filament spools have sharp edges or protrusions inside the spool. As the spool rotates, these protrusions rub against the spool holder, causing abnormal noise.
+
+**Solution:**
+
+1.  Print two copies of the following part using any filament.
+
+[part1.step](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/quality/%E9%9B%B6%E4%BB%B61.step)
+
+2.  Install the two printed parts on the left and right sides of the spool as shown：
+
+![20260701-131042.jpg](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/quality/20260701-131042.jpg)
+
+![20260701-131049.jpg](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/quality/20260701-131049.jpg)
+
+3.  Mount the spool onto the spool holder and print as usual. This will help improve the issue.

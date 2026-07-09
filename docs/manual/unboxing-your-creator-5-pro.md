@@ -37,7 +37,7 @@ Take out the accessories stored inside the protective foam.
 
 Packaging list:
 
-![2proboxlist.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/unbox/2proboxlist.png)
+![c5p-parts\_list.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/faq/c5p-parts_list.png)
 
 ## Step 4: Install the Display Screen [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5-pro#step-4-install-the-display-screen)
 
@@ -69,7 +69,7 @@ Packaging list:
 
 ## Step 6: Unlock the Print Bed [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5-pro#step-6-unlock-the-print-bed)
 
-Use a 2.0mm Allen wrench to remove the securing screws indicated by the arrows to unlock the print bed.
+Use a 2.5mm Allen wrench to remove the securing screws indicated by the arrows to unlock the print bed.
 
 ![creator5p\_unboxing\_17.jpg](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/unbox/creator5p_unboxing_17.jpg)
 
@@ -78,7 +78,7 @@ Use a 2.0mm Allen wrench to remove the securing screws indicated by the arrows t
 1.  Slide each top cover panel into the grooves of the top cover pillars as shown. Make sure the sides with the clips are all facing the same direction during installation.  
     ![creator5p\_unboxing\_18.jpg](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/unbox/creator5p_unboxing_18.jpg)
     
-2.  Align the top cover lid with the clips and press down until it snaps into place. Secure the lid using four M3×6 screws.  
+2.  Align the top cover lid with the clips and press down until it snaps into place. Secure the lid using four ST2.9×9.5 screws.  
     ![creator5p\_unboxing\_19.jpg](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/unbox/creator5p_unboxing_19.jpg)  
     ![creator5p\_unboxing\_20.jpg](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/unbox/creator5p_unboxing_20.jpg)  
     ![creator5p\_unboxing\_21.jpg](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/unbox/creator5p_unboxing_21.jpg)
@@ -104,4 +104,4 @@ Unboxing is completed.
 ## Unboxing Video [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5-pro#unboxing-video)
 
 View our full Unboxing Video for creator 5 Pro.  
-[▶ Video: https://www.youtube.com/watch?v=K4zkyfqSsig](https://www.youtube.com/watch?v=K4zkyfqSsig)
+[▶ Video: https://www.youtube.com/watch?v=q9KYrzE6R2o](https://www.youtube.com/watch?v=q9KYrzE6R2o)

@@ -9,7 +9,9 @@ source: https://wiki.flashforge.com/en/creator-series/creator-5-series/maintenan
 
 **1、Maintenance Cycle**
 
-It is recommended to perform a cleaning, lubrication, and maintenance once every 1500 hours of printing;
+High-frequency usage (average daily printing time ≥ 5 hours): Perform a full cleaning and lubrication of the X axis once a month.  
+Regular usage (average daily printing time 1–5 hours): Perform maintenance of the X axis once every 2 months.  
+Low-frequency usage (average daily printing time < 1 hour): Perform maintenance of the X axis once every 3 months.
 
 **2、Maintenance Tools**
 

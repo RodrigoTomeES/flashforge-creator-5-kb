@@ -37,7 +37,7 @@ Take out the accessories stored inside the protective foam.
 
 Packaging list:
 
-![1boxlist.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/faq/1boxlist.png)
+![c5-parts\_list.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/faq/c5-parts_list.png)
 
 ## Step 4: Install the Display Screen [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5#step-4-install-the-display-screen)
 
@@ -69,7 +69,7 @@ Packaging list:
 
 ## Step 6: Unlock the Print Bed [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5#step-6-unlock-the-print-bed)
 
-Use a 2.0mm Allen wrench to remove the securing screws indicated by the arrows to unlock the print bed.
+Use a 2.5mm Allen wrench to remove the securing screws indicated by the arrows to unlock the print bed.
 
 ![creator5\_unboxing\_17.jpg](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/unbox/creator5_unboxing_17.jpg)
 
@@ -90,4 +90,4 @@ Unboxing is completed.
 ## Unboxing Video [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5#unboxing-video)
 
 View our full Unboxing Video for creator 5.  
-[▶ Video: https://www.youtube.com/watch?v=q9KYrzE6R2o](https://www.youtube.com/watch?v=q9KYrzE6R2o)
+[▶ Video: https://www.youtube.com/watch?v=K4zkyfqSsig](https://www.youtube.com/watch?v=K4zkyfqSsig)

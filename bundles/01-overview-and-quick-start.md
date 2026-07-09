@@ -11,6 +11,10 @@
 
 Source: https://wiki.flashforge.com/en/creator-series/creator-5-series
 
+> **NOTICE：**  
+> Now, the firmware of the Creator 5 and Creator 5 pro has undergone comprehensive optimization and upgrade. When users replace the following 3 types of PCB boards, they need to upgrade the firmware via USB drive.  
+> The associated PCB boards are: **Extruder mount PCB**, **Extruder dock board** and **Calibration board**. To update the firmware, please download it from the official website or contact after-sales for assistance.
+
 ## Introduction to Creator 5/Creator 5 Pro [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series#introduction-to-creator-5creator-5-pro)
 
 > _**The creator 5 series is a new generation of high-speed multi-head desktop 3D printers, taking your creativity, efficiency, and cost savings to unprecedented heights.**_
@@ -24,7 +28,7 @@ Read more about the products on our official website below:
 | **Creator 5** |  | **Creator 5 Pro** |
 | --- | --- | --- |
 | ![cover\_c5.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/cover/cover_c51.png) |  | ![cover\_c5pro2.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/cover/cover_c5pro2.png) |
-| Read more on our [Official Website](https://www.sz3dp.com/products) |  | Read more on our[Official Website](https://www.sz3dp.com/product) |
+| Read more on our [Official Website](https://www.flashforge.com/products/flashforge-creator-5) |  | Read more on our[Official Website](https://www.flashforge.com/products/flashforge-creator-5-pro) |
 
 ## Quick Start [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series#quick-start)
 
@@ -81,7 +85,7 @@ Learn more about creator 5 series from the exciting release trailer on Youtube:
 
 Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/c5-user-guide
 
-For User guide for your Creator 5，please load:[260511-c5\_user\_guide-standard\_edition-lm-cqy.pdf](https://wiki.flashforge.com/resource/pictures/creator5_en/quick_start_guide/260511-c5_user_guide-standard_edition-lm-cqy.pdf)
+For User guide for your Creator 5，please load:[260617-user\_guide\_for\_c5-standard\_edition-lm-cqy.pdf](https://wiki.flashforge.com/resource/pictures/creator5_en/quick_start_guide/260617-user_guide_for_c5-standard_edition-lm-cqy.pdf)
 
 ---
 
@@ -89,7 +93,7 @@ For User guide for your Creator 5，please load:[260511-c5\_user\_guide-standard
 
 Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/c5p-user-guide
 
-For User guide for your Creator 5 Pro，please load:[260511-c5p\_user\_guide-standard\_edition-lm-cqy.pdf](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/quick_start_guide/260601-c5p%E8%AF%B4%E6%98%8E%E4%B9%A6-%E6%A0%87%E5%87%86%E7%89%88-lm-cqy.pdf)
+For User guide for your Creator 5 Pro，please load:[260617-user\_guide\_for\_c5p-standard\_edition-lm-cqy.pdf](https://wiki.flashforge.com/resource/pictures/creator5_en/quick_start_guide/260617-user_guide_for_c5p-standard_edition-lm-cqy.pdf)
 
 ---
 
@@ -594,7 +598,7 @@ Now that you have unboxed your Creator 5 printer,follow these steps to set up th
 ![c5p\_en13.jpg](https://wiki.flashforge.com/resource/pictures/creator5_en/quick_start_guide/c5p_en13.jpg)
 
 Before unpacking the printer, please download the attached Quick Guide and read it carefully：  
-[creator\_5\_pro\_quick\_start\_guide-pdf](https://wiki.flashforge.com/resource/pictures/creator5_en/quick_start_guide/creator_5_pro_quick_start_guide-en-260123.pdf)
+[creator\_5\_pro\_quick\_start\_guide-pdf](https://wiki.flashforge.com/resource/pictures/creator5_en/quick_start_guide/260617-user_guide_for_c5p-standard_edition-lm-cqy.pdf)
 
 ---
 
@@ -655,7 +659,7 @@ Now that you have unboxed your Creator 5 printer,follow these steps to set up th
 
 ![c5\_en13.jpg](https://wiki.flashforge.com/resource/pictures/creator5_en/quick_start_guide/c5_en13.jpg)
 
-For more detailed steps, please download and read the[creator\_5\_quick\_start\_guide-pdf](https://wiki.flashforge.com/resource/pictures/creator5_en/quick_start_guide/creator_5_quick_start_guide-en-260123.pdf)
+For more detailed steps, please download and read the [creator\_5\_quick\_start\_guide-pdf](https://wiki.flashforge.com/resource/pictures/creator5_en/quick_start_guide/260617-_quick_start_guide_for_c5-standard_edition-fx.pdf)
 
 ---
 
@@ -695,7 +699,7 @@ Take out the accessories stored inside the protective foam.
 
 Packaging list:
 
-![1boxlist.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/faq/1boxlist.png)
+![c5-parts\_list.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/faq/c5-parts_list.png)
 
 ### Step 4: Install the Display Screen [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5#step-4-install-the-display-screen)
 
@@ -727,7 +731,7 @@ Packaging list:
 
 ### Step 6: Unlock the Print Bed [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5#step-6-unlock-the-print-bed)
 
-Use a 2.0mm Allen wrench to remove the securing screws indicated by the arrows to unlock the print bed.
+Use a 2.5mm Allen wrench to remove the securing screws indicated by the arrows to unlock the print bed.
 
 ![creator5\_unboxing\_17.jpg](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/unbox/creator5_unboxing_17.jpg)
 
@@ -748,7 +752,7 @@ Unboxing is completed.
 ### Unboxing Video [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5#unboxing-video)
 
 View our full Unboxing Video for creator 5.  
-[▶ Video: https://www.youtube.com/watch?v=q9KYrzE6R2o](https://www.youtube.com/watch?v=q9KYrzE6R2o)
+[▶ Video: https://www.youtube.com/watch?v=K4zkyfqSsig](https://www.youtube.com/watch?v=K4zkyfqSsig)
 
 ---
 
@@ -788,7 +792,7 @@ Take out the accessories stored inside the protective foam.
 
 Packaging list:
 
-![2proboxlist.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/unbox/2proboxlist.png)
+![c5p-parts\_list.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/faq/c5p-parts_list.png)
 
 ### Step 4: Install the Display Screen [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5-pro#step-4-install-the-display-screen)
 
@@ -820,7 +824,7 @@ Packaging list:
 
 ### Step 6: Unlock the Print Bed [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5-pro#step-6-unlock-the-print-bed)
 
-Use a 2.0mm Allen wrench to remove the securing screws indicated by the arrows to unlock the print bed.
+Use a 2.5mm Allen wrench to remove the securing screws indicated by the arrows to unlock the print bed.
 
 ![creator5p\_unboxing\_17.jpg](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/unbox/creator5p_unboxing_17.jpg)
 
@@ -829,7 +833,7 @@ Use a 2.0mm Allen wrench to remove the securing screws indicated by the arrows t
 1.  Slide each top cover panel into the grooves of the top cover pillars as shown. Make sure the sides with the clips are all facing the same direction during installation.  
     ![creator5p\_unboxing\_18.jpg](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/unbox/creator5p_unboxing_18.jpg)
     
-2.  Align the top cover lid with the clips and press down until it snaps into place. Secure the lid using four M3×6 screws.  
+2.  Align the top cover lid with the clips and press down until it snaps into place. Secure the lid using four ST2.9×9.5 screws.  
     ![creator5p\_unboxing\_19.jpg](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/unbox/creator5p_unboxing_19.jpg)  
     ![creator5p\_unboxing\_20.jpg](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/unbox/creator5p_unboxing_20.jpg)  
     ![creator5p\_unboxing\_21.jpg](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/unbox/creator5p_unboxing_21.jpg)
@@ -855,6 +859,6 @@ Unboxing is completed.
 ### Unboxing Video [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5-pro#unboxing-video)
 
 View our full Unboxing Video for creator 5 Pro.  
-[▶ Video: https://www.youtube.com/watch?v=K4zkyfqSsig](https://www.youtube.com/watch?v=K4zkyfqSsig)
+[▶ Video: https://www.youtube.com/watch?v=q9KYrzE6R2o](https://www.youtube.com/watch?v=q9KYrzE6R2o)
 
 ---

@@ -58,4 +58,4 @@ Now that you have unboxed your Creator 5 printer,follow these steps to set up th
 
 ![c5\_en13.jpg](https://wiki.flashforge.com/resource/pictures/creator5_en/quick_start_guide/c5_en13.jpg)
 
-For more detailed steps, please download and read the[creator\_5\_quick\_start\_guide-pdf](https://wiki.flashforge.com/resource/pictures/creator5_en/quick_start_guide/creator_5_quick_start_guide-en-260123.pdf)
+For more detailed steps, please download and read the [creator\_5\_quick\_start\_guide-pdf](https://wiki.flashforge.com/resource/pictures/creator5_en/quick_start_guide/260617-_quick_start_guide_for_c5-standard_edition-fx.pdf)

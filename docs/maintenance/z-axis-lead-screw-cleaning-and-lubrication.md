@@ -9,7 +9,11 @@ source: https://wiki.flashforge.com/en/creator-series/creator-5-series/maintenan
 
 **1、Maintenance Cycle**
 
-After the printer is activated, it is recommended to perform a cleaning, lubrication, and maintenance once every 3 months;
+Depending on the usage frequency, we recommend the following maintenance intervals:
+
+High-frequency usage (average daily printing time ≥ 5 hours): perform deep maintenance of the Z axis once every 3 months.  
+Regular usage (average daily printing time 1–5 hours):perform maintenance of the Z axis once every 4 months.  
+Low-frequency usage (average daily printing time < 1 hour): perform maintenance of the Z axis once every 5 months.
 
 **2、Maintenance Tools**
 

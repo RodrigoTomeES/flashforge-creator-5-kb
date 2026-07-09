@@ -82,25 +82,25 @@ Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/maintenan
 -   Update Firmware via USB  
     [▶ Video: Update Firmware via USB](https://youtu.be/F8--FQOZyMs)
 -   Replace the Extruder Mount Assembly  
-    [▶ Video: Replace the Extruder Mount Assembly](https://youtu.be/5gC34Rl0TJM)
+    [▶ Video: Replace the Extruder Mount Assembly](https://youtu.be/eiXGD6ieeXM)
 -   Disassemble and Assemble the Extruder Mount Assembly  
-    [▶ Video: Disassemble and Assemble the Extruder Mount Assembly](https://youtu.be/qBt5_4et1lM)
+    [▶ Video: Disassemble and Assemble the Extruder Mount Assembly](https://youtu.be/WVKbHFexBk8)
 -   Replace the Extruder Mount Feed Motor Assembly  
-    [▶ Video: Replace the Extruder Mount Feed Motor Assembly](https://youtu.be/5hHhJTYVnmM)
+    [▶ Video: Replace the Extruder Mount Feed Motor Assembly](https://youtu.be/2pyYbgiN6gM)
 -   Replace the Small Motor Optical Sensor Board Assembly  
-    [▶ Video: Replace the Small Motor Optical Sensor Board Assembly](https://youtu.be/I3W7RO5fqhw)
+    [▶ Video: Replace the Small Motor Optical Sensor Board Assembly](https://youtu.be/L4k8J4bZp-U)
 -   Replace the Geared Stepper Motor Assembly  
-    [▶ Video: Replace the Geared Stepper Motor Assembly](https://youtu.be/fN3ER-LlK6E)
+    [▶ Video: Replace the Geared Stepper Motor Assembly](https://youtu.be/ajFOfBhX0B0)
 -   Replace the Iron-Embedded Gear Ring Assembly  
-    [▶ Video: Replace the Iron-Embedded Gear Ring Assembly](https://youtu.be/KJMqVZPbi_k)
+    [▶ Video: Replace the Iron-Embedded Gear Ring Assembly](https://youtu.be/ieuU-YL5lT0)
 -   Replace the Extruder Mount Board  
-    [▶ Video: Replace the Extruder Mount Board](https://youtu.be/pLXgy3iSGRY)
+    [▶ Video: Replace the Extruder Mount Board](https://youtu.be/vISGslgU0ts)
 -   Replace the Y-Axis Sensor Board and Cable  
-    [▶ Video: Replace the Y-Axis Sensor Board and Cable](https://youtu.be/YwqW-xkJaTw)
+    [▶ Video: Replace the Y-Axis Sensor Board and Cable](https://youtu.be/ZNhihuPMUP8)
 -   Replace the Extruder Mount Eddy Current Sensor  
-    [▶ Video: Replace the Extruder Mount Eddy Current Sensor](https://youtu.be/5ynTS4pPErc)
+    [▶ Video: Replace the Extruder Mount Eddy Current Sensor](https://youtu.be/ZCzku-kmwmc)
 -   Replace the Model Cooling Fan Assembly  
-    [▶ Video: Replace the Model Cooling Fan Assembly](https://youtu.be/tpJkcACZDMw)
+    [▶ Video: Replace the Model Cooling Fan Assembly](https://youtu.be/K2kvBpXmFlg)
 -   Replace the Extruder Mount Bus Cable  
     [▶ Video: Replace the Extruder Mount Bus Cable](https://youtu.be/unH7J5mL52s)
 -   Replace the Extruder Assembly  
@@ -140,7 +140,7 @@ Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/maintenan
 -   Replace the Bed Bus Cable  
     [▶ Video: Replace the Bed Bus Cable](https://youtu.be/ckspUDRa4RE)
 -   Replace the Bed Heater Plate  
-    [▶ Video: Replace the Bed Heater Plate](https://youtu.be/0ClLtGZ8ATU)
+    [▶ Video: Replace the Bed Heater Plate](https://youtu.be/BpRQseiC9oc)
 -   Replace the X-axis Sensor and Sensor Cable  
     [▶ Video: Replace the X-axis Sensor and Sensor Cable](https://youtu.be/mczT4n4smK8)
 -   Replace the Wi-Fi Antenna  
@@ -209,7 +209,9 @@ Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/maintenan
 
 **1、Maintenance Cycle**
 
-It is recommended to perform a cleaning, lubrication, and maintenance once every 1500 hours of printing;
+High-frequency usage (average daily printing time ≥ 5 hours): Perform a full cleaning and lubrication of the X axis once a month.  
+Regular usage (average daily printing time 1–5 hours): Perform maintenance of the X axis once every 2 months.  
+Low-frequency usage (average daily printing time < 1 hour): Perform maintenance of the X axis once every 3 months.
 
 **2、Maintenance Tools**
 
@@ -233,11 +235,15 @@ Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/maintenan
 
 **1、Maintenance Cycle**
 
-t is recommended to perform a cleaning, lubrication, and maintenance once every 1500 hours of printing;
+Depending on the usage frequency, we recommend the following maintenance intervals:
+
+High-frequency usage (average daily printing time ≥ 5 hours): Perform a full cleaning and lubrication of the Y axis once a month.  
+Regular usage (average daily printing time 1–5 hours): Perform maintenance of the Y axis once every 2 months.  
+Low-frequency usage (average daily printing time < 1 hour): Perform maintenance of the Y axis once every 3 months.
 
 **2、Maintenance Tools**
 
-WD-40 High-Efficiency Silicone Lubricant
+Grease
 
 Cleanroom paper/Cleanroom cloth
 
@@ -490,7 +496,11 @@ Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/maintenan
 
 **1、Maintenance Cycle**
 
-After the printer is activated, it is recommended to perform a cleaning, lubrication, and maintenance once every 3 months;
+Depending on the usage frequency, we recommend the following maintenance intervals:
+
+High-frequency usage (average daily printing time ≥ 5 hours): perform deep maintenance of the Z axis once every 3 months.  
+Regular usage (average daily printing time 1–5 hours):perform maintenance of the Z axis once every 4 months.  
+Low-frequency usage (average daily printing time < 1 hour): perform maintenance of the Z axis once every 5 months.
 
 **2、Maintenance Tools**
 
@@ -516,7 +526,11 @@ Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/maintenan
 
 **1、Maintenance Cycle**
 
-After the printer is activated, it is recommended to perform a cleaning, lubrication, and maintenance once every 3 months;
+Depending on the usage frequency, we recommend the following maintenance intervals:
+
+High-frequency usage (average daily printing time ≥ 5 hours): perform deep maintenance of the Z axis once every 3 months.  
+Regular usage (average daily printing time 1–5 hours):perform maintenance of the Z axis once every 4 months.  
+Low-frequency usage (average daily printing time < 1 hour): perform maintenance of the Z axis once every 5 months.
 
 **2、Maintenance Tools**
 
@@ -540,7 +554,11 @@ Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/maintenan
 
 **1、Maintenance Cycle**
 
-After the printer is activated, it is recommended to perform a cleaning, lubrication, and maintenance once every 3 months;
+Depending on the usage frequency, we recommend the following maintenance intervals:
+
+High-frequency usage (average daily printing time ≥ 5 hours): perform deep maintenance of the Z axis once every 3 months.  
+Regular usage (average daily printing time 1–5 hours):perform maintenance of the Z axis once every 4 months.  
+Low-frequency usage (average daily printing time < 1 hour): perform maintenance of the Z axis once every 5 months.
 
 **2、Maintenance Tools**
 

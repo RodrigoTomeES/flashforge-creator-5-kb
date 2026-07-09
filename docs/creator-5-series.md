@@ -5,6 +5,10 @@ source: https://wiki.flashforge.com/en/creator-series/creator-5-series
 
 > Official wiki page: https://wiki.flashforge.com/en/creator-series/creator-5-series
 
+> **NOTICE：**  
+> Now, the firmware of the Creator 5 and Creator 5 pro has undergone comprehensive optimization and upgrade. When users replace the following 3 types of PCB boards, they need to upgrade the firmware via USB drive.  
+> The associated PCB boards are: **Extruder mount PCB**, **Extruder dock board** and **Calibration board**. To update the firmware, please download it from the official website or contact after-sales for assistance.
+
 # Introduction to Creator 5/Creator 5 Pro [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series#introduction-to-creator-5creator-5-pro)
 
 > _**The creator 5 series is a new generation of high-speed multi-head desktop 3D printers, taking your creativity, efficiency, and cost savings to unprecedented heights.**_
@@ -18,7 +22,7 @@ Read more about the products on our official website below:
 | **Creator 5** |  | **Creator 5 Pro** |
 | --- | --- | --- |
 | ![cover\_c5.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/cover/cover_c51.png) |  | ![cover\_c5pro2.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/cover/cover_c5pro2.png) |
-| Read more on our [Official Website](https://www.sz3dp.com/products) |  | Read more on our[Official Website](https://www.sz3dp.com/product) |
+| Read more on our [Official Website](https://www.flashforge.com/products/flashforge-creator-5) |  | Read more on our[Official Website](https://www.flashforge.com/products/flashforge-creator-5-pro) |
 
 # Quick Start [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series#quick-start)
 

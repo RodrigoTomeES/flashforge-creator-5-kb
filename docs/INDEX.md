@@ -1,6 +1,6 @@
 # FlashForge Creator 5 Series — Wiki Mirror Index
 
-Mirrored from the official FlashForge wiki on 2026-06-12.
+Mirrored from the official FlashForge wiki on 2026-07-09.
 Root page: https://wiki.flashforge.com/en/creator-series/creator-5-series
 
 | Page | Local file | Original wiki URL |
@@ -32,7 +32,7 @@ Root page: https://wiki.flashforge.com/en/creator-series/creator-5-series
 | Z-axis Pulley Cleaning & Lubrication | [maintenance/z-axis-pulley-cleaning-and-lubrication.md](maintenance/z-axis-pulley-cleaning-and-lubrication.md) | https://wiki.flashforge.com/en/creator-series/creator-5-series/maintenance/z-axis-pulley-cleaning-and-lubrication |
 | User Manual For Creator 5 Series | [manual.md](manual.md) | https://wiki.flashforge.com/en/creator-series/creator-5-series/manual |
 | Accessories list | [manual/accessories-list.md](manual/accessories-list.md) | https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/accessories-list |
-| Calibration for printer | [manual/cal_printer.md](manual/cal_printer.md) | https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/cal_printer |
+| Printer Calibration | [manual/cal_printer.md](manual/cal_printer.md) | https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/cal_printer |
 | Change filament on Creator 5 series | [manual/change-filament-on-creator-5-series.md](manual/change-filament-on-creator-5-series.md) | https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/change-filament-on-creator-5-series |
 | Connect a USB Drive | [manual/connect-usb-drive.md](manual/connect-usb-drive.md) | https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/connect-usb-drive |
 | Firmware Release Note | [manual/firmware-release-history.md](manual/firmware-release-history.md) | https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/firmware-release-history |
