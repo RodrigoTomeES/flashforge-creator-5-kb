@@ -1,0 +1,26 @@
+name: Weekly wiki update
+
+on:
+  schedule:
+    - cron: '0 6 * * 1' # Mondays 06:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: oven-sh/setup-bun@v2
+      - run: bun install --frozen-lockfile
+      - run: bun scrape.mjs
+      - run: bun check-links.mjs
+      - name: Commit regenerated docs & bundles
+        run: |
+          git config user.name "RodrigoTomeES"
+          git config user.email "hi@rodrigotome.es"
+          git add docs bundles
+          git diff --cached --quiet || git commit -m "chore: weekly wiki refresh ($(date -u +%Y-%m-%d))"
+          git push
