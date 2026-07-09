@@ -1,6 +1,7 @@
 ---
 title: "Printer Calibration"
 source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/cal_printer
+scraped: 2026-07-09
 ---
 
 > Official wiki page: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/cal_printer

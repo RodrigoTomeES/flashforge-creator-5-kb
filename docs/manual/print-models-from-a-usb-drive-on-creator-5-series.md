@@ -1,6 +1,7 @@
 ---
 title: "Print models from a USB drive on Creator 5 Series"
 source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/print-models-from-a-usb-drive-on-creator-5-series
+scraped: 2026-07-09
 ---
 
 > Official wiki page: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/print-models-from-a-usb-drive-on-creator-5-series

@@ -1,6 +1,7 @@
 ---
 title: "User guide for your Creator 5"
 source: https://wiki.flashforge.com/en/creator-series/creator-5-series/c5-user-guide
+scraped: 2026-07-09
 ---
 
 > Official wiki page: https://wiki.flashforge.com/en/creator-series/creator-5-series/c5-user-guide

@@ -1,6 +1,7 @@
 ---
 title: "Z-axis Linear Bearing Cleaning & Lubrication"
 source: https://wiki.flashforge.com/en/creator-series/creator-5-series/maintenance/z-axis-linear-bearing-cleaning-and-lubrication
+scraped: 2026-07-09
 ---
 
 > Official wiki page: https://wiki.flashforge.com/en/creator-series/creator-5-series/maintenance/z-axis-linear-bearing-cleaning-and-lubrication

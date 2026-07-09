@@ -1,6 +1,7 @@
 ---
 title: "Mainboard Cooling Fan Dust Cleaning"
 source: https://wiki.flashforge.com/en/creator-series/creator-5-series/maintenance/mainboard-cooling-fan-dust-cleaning
+scraped: 2026-07-09
 ---
 
 > Official wiki page: https://wiki.flashforge.com/en/creator-series/creator-5-series/maintenance/mainboard-cooling-fan-dust-cleaning

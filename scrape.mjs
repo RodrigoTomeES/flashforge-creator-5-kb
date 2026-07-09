@@ -29,6 +29,7 @@ const EXTRA_SEEDS = [
 const OUT_DOCS = path.resolve('docs');
 const OUT_BUNDLES = path.resolve('bundles');
 const DELAY_MS = 250;
+const SCRAPED = new Date().toISOString().slice(0, 10); // YYYY-MM-DD
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 // ---------------------------------------------------------------- discovery
@@ -290,6 +291,7 @@ for (const page of pages) {
     '---',
     `title: "${page.title.replace(/"/g, '\\"')}"`,
     `source: ${sourceUrl}`,
+    `scraped: ${SCRAPED}`,
     '---',
     '',
     `> Official wiki page: ${sourceUrl}`,
@@ -309,7 +311,7 @@ pages.sort((a, b) => a.path.localeCompare(b.path));
 const indexLines = [
   '# FlashForge Creator 5 Series — Wiki Mirror Index',
   '',
-  `Mirrored from the official FlashForge wiki on ${new Date().toISOString().slice(0, 10)}.`,
+  `Mirrored from the official FlashForge wiki on ${SCRAPED}.`,
   `Root page: ${BASE}/en/${SECTION_PREFIX}`,
   '',
   '| Page | Local file | Original wiki URL |',
@@ -337,6 +339,7 @@ for (const bundle of BUNDLES) {
     `> (${BASE}/en/${SECTION_PREFIX}).`,
     '> When answering from this document, always reference the `Source:` URL of',
     '> the section you used so the user can verify it on the official wiki.',
+    `> Last updated: ${SCRAPED}`,
     '',
     '---',
     '',

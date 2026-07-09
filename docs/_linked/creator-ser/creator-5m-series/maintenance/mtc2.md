@@ -1,6 +1,7 @@
 ---
 title: "Extruder Box Debris Cleaning"
 source: https://wiki.flashforge.com/en/creator-ser/creator-5m-series/maintenance/mtc2
+scraped: 2026-07-09
 ---
 
 > Official wiki page: https://wiki.flashforge.com/en/creator-ser/creator-5m-series/maintenance/mtc2

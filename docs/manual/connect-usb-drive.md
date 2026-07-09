@@ -1,6 +1,7 @@
 ---
 title: "Connect a USB Drive"
 source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/connect-usb-drive
+scraped: 2026-07-09
 ---
 
 > Official wiki page: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/connect-usb-drive

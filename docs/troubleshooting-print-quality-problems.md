@@ -1,6 +1,7 @@
 ---
 title: "Creator Series Troubleshooting: Print Quality Problems"
 source: https://wiki.flashforge.com/en/creator-series/creator-5-series/troubleshooting-print-quality-problems
+scraped: 2026-07-09
 ---
 
 > Official wiki page: https://wiki.flashforge.com/en/creator-series/creator-5-series/troubleshooting-print-quality-problems

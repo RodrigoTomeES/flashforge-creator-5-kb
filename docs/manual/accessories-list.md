@@ -1,6 +1,7 @@
 ---
 title: "Accessories list"
 source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/accessories-list
+scraped: 2026-07-09
 ---
 
 > Official wiki page: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/accessories-list

@@ -1,6 +1,7 @@
 ---
 title: "Unboxing Your Creator 5  Pro"
 source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5-pro
+scraped: 2026-07-09
 ---
 
 > Official wiki page: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5-pro
