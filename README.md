@@ -68,6 +68,14 @@ back to the original wiki URL, so each file works standalone.
    Gem/GPT instructions — it tells the assistant to always cite the official
    wiki URL, share video/image links, and distinguish Creator 5 vs 5 Pro.
 
+## Community
+
+Join the community for help, discussion, and sharing mods:
+
+- [Discord](https://discord.gg/pchjzCwwVS)
+- [Telegram — English](https://t.me/flashforgecreator5series)
+- [Telegram — Español](https://t.me/flashforgecreator5es)
+
 ## Contributing
 
 `docs/` and `bundles/` are generated from the official wiki — don't edit them.

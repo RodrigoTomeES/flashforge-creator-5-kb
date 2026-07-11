@@ -5,6 +5,14 @@
 > with no guarantee of accuracy — verify before relying on them, and prefer
 > the official documents when they conflict.
 
+## Community
+
+Join the community for help and to share mods:
+
+- Discord: https://discord.gg/pchjzCwwVS
+- Telegram (English): https://t.me/flashforgecreator5series
+- Telegram (Español): https://t.me/flashforgecreator5es
+
 ## Contents
 
 - [Adaptive bed meshing](#adaptive-bed-meshing)
