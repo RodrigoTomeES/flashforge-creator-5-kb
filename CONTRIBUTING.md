@@ -10,8 +10,10 @@ folded into a separate, clearly-labeled **unofficial** bundle
 
 ## Add a guide
 
-1. Copy `community/_template.md` to `community/<short-slug>.md`
-   (e.g. `community/bed-leveling-tips.md`).
+1. Create a folder `community/<short-slug>/` and copy `community/_template.md`
+   into it as `README.md` (e.g. `community/bed-leveling-tips/README.md`). Put any
+   files the guide references (configs, scripts, zips) in that **same folder** and
+   link them relatively, e.g. `[macro.cfg](macro.cfg)`.
 2. Fill in the frontmatter. Three fields are **required**:
 
    ```
@@ -21,6 +23,7 @@ folded into a separate, clearly-labeled **unofficial** bundle
    updated: 2026-07-09          # required — date of the last change (YYYY-MM-DD)
    author: "Your name or @github"   # optional
    source: https://...              # optional external reference
+   tags: "root, mainsail"   # optional — comma-separated topical tags
    ---
    ```
 

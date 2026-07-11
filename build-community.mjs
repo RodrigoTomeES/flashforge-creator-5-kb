@@ -40,28 +40,31 @@ export async function buildCommunityBundle() {
     console.log('No community/ directory; skipping community bundle.');
     return;
   }
-  // ponytail: flat community/*.md only; add recursion if it ever grows subfolders.
-  const files = (await readdir(COMMUNITY))
-    .filter(
-      (f) =>
-        f.endsWith('.md') && !f.startsWith('_') && f !== 'README.md' && f !== 'INDEX.md'
-    )
+  // Each article is a folder community/<slug>/ holding README.md plus its own assets.
+  // ponytail: one level deep; nest deeper only if an article ever needs sub-pages.
+  const dirs = (await readdir(COMMUNITY, { withFileTypes: true }))
+    .filter((e) => e.isDirectory() && !e.name.startsWith('_'))
+    .map((e) => e.name)
     .sort();
 
   const sections = [];
   const errors = [];
-  for (const file of files) {
-    const { data, body } = parseFrontmatter(
-      await readFile(path.join(COMMUNITY, file), 'utf8')
-    );
+  for (const dir of dirs) {
+    const rel = `${dir}/README.md`;
+    const full = path.join(COMMUNITY, dir, 'README.md');
+    if (!existsSync(full)) {
+      errors.push(`${dir}/: missing README.md`);
+      continue;
+    }
+    const { data, body } = parseFrontmatter(await readFile(full, 'utf8'));
     for (const req of ['title', 'created', 'updated']) {
-      if (!data[req]) errors.push(`${file}: missing required frontmatter "${req}"`);
+      if (!data[req]) errors.push(`${rel}: missing required frontmatter "${req}"`);
     }
     for (const d of ['created', 'updated']) {
       if (data[d] && !DATE_RX.test(data[d]))
-        errors.push(`${file}: "${d}" must be YYYY-MM-DD, got "${data[d]}"`);
+        errors.push(`${rel}: "${d}" must be YYYY-MM-DD, got "${data[d]}"`);
     }
-    sections.push({ file, data, body });
+    sections.push({ dir, data, body });
   }
 
   if (errors.length) {
@@ -92,10 +95,14 @@ export async function buildCommunityBundle() {
     '',
   ];
   for (const { data, body } of sections) {
+    const tags = data.tags
+      ? data.tags.split(',').map((t) => t.trim()).filter(Boolean)
+      : [];
     parts.push(`# ${data.title}`, '');
     parts.push(`Added: ${data.created} · Updated: ${data.updated}`);
     if (data.author) parts.push(`Contributed by: ${data.author}`);
     if (data.source) parts.push(`Reference: ${data.source}`);
+    if (tags.length) parts.push(`Tags: ${tags.join(', ')}`);
     parts.push(
       '',
       // demote headings one level so section titles stay the top level
@@ -115,11 +122,11 @@ export async function buildCommunityBundle() {
     '',
     'Unofficial, community-contributed guides. See [../CONTRIBUTING.md](../CONTRIBUTING.md) to add one.',
     '',
-    '| Guide | Added | Updated | File | Author |',
-    '|---|---|---|---|---|',
+    '| Guide | Added | Updated | File | Author | Tags |',
+    '|---|---|---|---|---|---|',
     ...sections.map(
-      ({ file, data }) =>
-        `| ${data.title} | ${data.created} | ${data.updated} | [${file}](${file}) | ${data.author ?? ''} |`
+      ({ dir, data }) =>
+        `| ${data.title} | ${data.created} | ${data.updated} | [${dir}/](${dir}/) | ${data.author ?? ''} | ${data.tags ?? ''} |`
     ),
     '',
   ];
