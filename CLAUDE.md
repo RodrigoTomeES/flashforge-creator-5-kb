@@ -11,12 +11,12 @@ A scraper that mirrors the FlashForge Creator 5 / 5 Pro section of the official 
 ## Commands
 
 ```bash
-npm run scrape   # full re-scrape: deletes nothing, but regenerate cleanly with: rm -rf docs bundles && npm run scrape
-npm run check    # validates all relative .md links resolve + samples remote wiki URLs (HEAD requests); exits 1 on failure
-npm run community # rebuild bundles/08-community.md from community/*.md (validates required frontmatter; exits 1 on error)
+bun run scrape   # full re-scrape: deletes nothing, but regenerate cleanly with: rm -rf docs bundles && bun run scrape
+bun run check    # validates all relative .md links resolve + samples remote wiki URLs (HEAD requests); exits 1 on failure
+bun run community # rebuild bundles/08-community.md from community/*.md (validates required frontmatter; exits 1 on error)
 ```
 
-There are no tests or linters; `npm run check` after a scrape is the verification step.
+There are no tests or linters; `bun run check` after a scrape is the verification step.
 
 ## How the wiki works (hard-won facts, don't rediscover)
 

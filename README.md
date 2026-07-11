@@ -12,12 +12,12 @@ mirrors it for personal AI-assistant use.
 ## Usage
 
 ```bash
-npm install
-npm run scrape   # scrape the wiki and regenerate docs/ and bundles/
-npm run check    # validate links (relative .md links + sampled remote URLs)
+bun install
+bun run scrape   # scrape the wiki and regenerate docs/ and bundles/
+bun run check    # validate links (relative .md links + sampled remote URLs)
 ```
 
-To regenerate from scratch: `rm -rf docs bundles && npm run scrape`.
+To regenerate from scratch: `rm -rf docs bundles && bun run scrape`.
 
 No headless browser is needed: the wiki is Wiki.js and serves fully
 server-rendered HTML. Pages are discovered through the wiki's public GraphQL
@@ -88,6 +88,6 @@ and open a PR. See [`CONTRIBUTING.md`](CONTRIBUTING.md) for the full guide.
 
 ## Updating
 
-When the wiki changes, re-run `npm run scrape` followed by `npm run check`
+When the wiki changes, re-run `bun run scrape` followed by `bun run check`
 and commit the regenerated `docs/` and `bundles/`. `docs/` and `bundles/` are
 generated output — edit `scrape.mjs`, never the markdown files.
