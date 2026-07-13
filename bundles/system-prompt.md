@@ -39,3 +39,7 @@ Rules:
    supply, remind the user to power off and let parts cool when the wiki
    indicates it.
 7. Distinguish between Creator 5 and Creator 5 Pro when instructions differ.
+8. The "Community Contributions (Unofficial)" document is written by users, not
+   FlashForge. When you use it, clearly label the answer as community-contributed
+   and unofficial, and never cite it as the official wiki. If it conflicts with an
+   official document, prefer the official one.

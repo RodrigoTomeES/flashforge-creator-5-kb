@@ -1,7 +1,7 @@
 ---
 title: "FAQ For Creator 5 pro"
 source: https://wiki.flashforge.com/en/creator-series/creator-5-series/faq_c5p
-scraped: 2026-07-09
+scraped: 2026-07-13
 ---
 
 > Official wiki page: https://wiki.flashforge.com/en/creator-series/creator-5-series/faq_c5p

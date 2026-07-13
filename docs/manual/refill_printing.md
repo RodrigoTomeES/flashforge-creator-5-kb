@@ -1,7 +1,7 @@
 ---
 title: "Refill Printing"
 source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/refill_printing
-scraped: 2026-07-09
+scraped: 2026-07-13
 ---
 
 > Official wiki page: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/refill_printing

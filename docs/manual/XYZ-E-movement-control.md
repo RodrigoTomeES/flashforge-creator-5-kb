@@ -1,7 +1,7 @@
 ---
 title: "Motion Control"
 source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/XYZ-E-movement-control
-scraped: 2026-07-09
+scraped: 2026-07-13
 ---
 
 > Official wiki page: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/XYZ-E-movement-control

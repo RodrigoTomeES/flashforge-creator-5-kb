@@ -1,7 +1,7 @@
 ---
 title: "Nozzle Cold Pull Cleaning"
 source: https://wiki.flashforge.com/en/creator-series/creator-5-series/maintenance/nozzle-cold-pull-cleaning
-scraped: 2026-07-09
+scraped: 2026-07-13
 ---
 
 > Official wiki page: https://wiki.flashforge.com/en/creator-series/creator-5-series/maintenance/nozzle-cold-pull-cleaning

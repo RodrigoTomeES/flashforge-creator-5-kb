@@ -1,7 +1,7 @@
 ---
 title: "Print built-in models on Creator 5 series"
 source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/print-built-in-models-on-creator-5-series
-scraped: 2026-07-09
+scraped: 2026-07-13
 ---
 
 > Official wiki page: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/print-built-in-models-on-creator-5-series
