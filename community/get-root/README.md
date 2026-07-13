@@ -1,7 +1,7 @@
 ---
 title: "Get Root"
 created: 2026-07-08
-updated: 2026-07-11
+updated: 2026-07-13
 author: "ano"
 source: https://discord.com/channels/1524322283911381093/1524334562573025343/threads/1524337489886842942
 tags: "root, ssh, firmware"
@@ -45,12 +45,21 @@ the printer won't run it.
 
 ## How it works
 
-The script simply appends a pre-hashed root account to `/etc/passwd`:
+The script creates a persistent home directory and appends a pre-hashed root
+account to `/etc/passwd`:
 
 ```sh
 #!/bin/sh
-echo 'pwned:$1$Z8nL7oiO$szyo3IN6J1fuTM1zQ9Nw7.:0:0::/root:/bin/sh' >> /etc/passwd
+mkdir -p /usr/data/home/pwned
+echo 'pwned:$1$Z8nL7oiO$szyo3IN6J1fuTM1zQ9Nw7.:0:0::/usr/data/home/pwned:/bin/sh' >> /etc/passwd
 exit 0
 ```
 
-(`uid 0` / `gid 0` = root; the password hash decodes to `letmein`.)
+(`uid 0` / `gid 0` = root; the password hash decodes to `letmein`.) The home is
+`/usr/data/home/pwned` — on writable persistent storage, **not** the read-only
+`/root` — which later mods like [Update Moonraker](#update-moonraker) need.
+
+> **Already rooted with an older script?** If your `pwned` user still points at
+> `/root`, edit `/etc/passwd` and change its home field from `/root` to
+> `/usr/data/home/pwned` (and `mkdir -p /usr/data/home/pwned`), otherwise
+> updating Moonraker will fail on the read-only home.

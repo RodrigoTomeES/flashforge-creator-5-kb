@@ -1,7 +1,7 @@
 ---
 title: "Using more than 256x256x256"
 created: 2026-07-11
-updated: 2026-07-11
+updated: 2026-07-13
 author: "//Cart"
 source: https://discord.com/channels/1524322283911381093/1524334562573025343/threads/1525302040434315345
 tags: "slicer, bed"
@@ -18,8 +18,8 @@ than you paid for.
 ## Steps
 
 1. In your slicer, open the machine settings → **Basic information → Printable
-   area** and set it to **258×260**.
-   - Using **258×260** (rather than the full 260×260) keeps a small margin so
+   area** and set it to **257×260**.
+   - Using **257×260** (rather than the full 260×260) keeps a small margin so
      the head doesn't crash into parked heads.
    - **Keep Z at ≤ 256.** Don't use more than 256 in Z — it can cause issues
      with objects.

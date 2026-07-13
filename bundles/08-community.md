@@ -17,12 +17,15 @@ Join the community for help and to share mods:
 
 - [Adaptive bed meshing](#adaptive-bed-meshing)
 - [Block update domains](#block-update-domains)
+- [Enable legacy NaN MIPS binaries](#enable-legacy-nan-mips-binaries)
 - [Enable Moonraker & Mainsail](#enable-moonraker-mainsail)
 - [Get Root](#get-root)
+- [Install Entware](#install-entware)
 - [Using more than 256x256x256](#using-more-than-256x256x256)
 - [Removing annoying warnings on Mainsail](#removing-annoying-warnings-on-mainsail)
 - [Unlock camera to 720p@30](#unlock-camera-to-720p30)
 - [Update Mainsail](#update-mainsail)
+- [Update Moonraker](#update-moonraker)
 
 ---
 
@@ -119,6 +122,62 @@ requests resolve to `127.0.0.1` and go nowhere.
 
 ---
 
+# Enable legacy NaN MIPS binaries
+
+Added: 2026-07-11 · Updated: 2026-07-13
+Contributed by: ano
+Reference: https://discord.com/channels/1524322283911381093/1524334562573025343/threads/1525605603945353327
+Tags: root, kernel, entware
+
+The C5-series kernel is compiled to only run MIPS binaries that carry the
+`EF_MIPS_NAN2008` flag, but the hardware can run binaries without it. Very few
+prebuilt packages have that flag (you'd otherwise have to build them yourself),
+so this mod patches a "magic" memory offset on every boot to let the kernel run
+legacy-NaN binaries. It's the foundation for [Install Entware](#install-entware)
+and [Update Moonraker](#update-moonraker).
+
+The patched field is [this one in the Linux MIPS ELF loader](https://github.com/torvalds/linux/blob/59dee6d28756c629f3a0bb56266f80e36ef7c99c/arch/mips/kernel/elf.c#L164).
+
+> ⚠️ **Version-specific.** The offset depends on your kernel package version.
+> Only apply this if your version is in the list below — a wrong offset patches
+> the wrong memory.
+
+### Prerequisites
+
+- [Root](#get-root).
+
+### Steps
+
+1. Check your kernel package version:
+
+   ```sh
+   ls /usr/prog/PROGRAM/kernel/
+   ```
+2. Take the **highest** version number and map it to its offset:
+
+   | Kernel package | Offset |
+   |---|---|
+   | 2.0.1 | `0x00a130d1` |
+3. Verify the offset reads `0x0` first (this only reads, writes nothing).
+   Substitute `<offset>` with the value from the table, e.g. `0x00a130d1`:
+
+   ```sh
+   busybox devmem <offset> 8
+   ```
+4. If it reads `0x0`, add this to the **top** of `/usr/prog/app_startup.sh`, right
+   after the shebang (again substituting `<offset>`):
+
+   ```sh
+   # allow legacy nan binaries to run
+   busybox devmem <offset> 8 1
+   ```
+5. Reboot.
+
+The author notes this is the best approach available; the alternatives are
+recompiling the kernel or changing bootargs via U-Boot over UART.
+
+---
+
 # Enable Moonraker & Mainsail
 
 Added: 2026-07-09 · Updated: 2026-07-11
@@ -163,7 +222,7 @@ Mainsail](#removing-annoying-warnings-on-mainsail) to quiet its config nags.
 
 # Get Root
 
-Added: 2026-07-08 · Updated: 2026-07-11
+Added: 2026-07-08 · Updated: 2026-07-13
 Contributed by: ano
 Reference: https://discord.com/channels/1524322283911381093/1524334562573025343/threads/1524337489886842942
 Tags: root, ssh, firmware
@@ -206,21 +265,76 @@ the printer won't run it.
 
 ### How it works
 
-The script simply appends a pre-hashed root account to `/etc/passwd`:
+The script creates a persistent home directory and appends a pre-hashed root
+account to `/etc/passwd`:
 
 ```sh
 #!/bin/sh
-echo 'pwned:$1$Z8nL7oiO$szyo3IN6J1fuTM1zQ9Nw7.:0:0::/root:/bin/sh' >> /etc/passwd
+mkdir -p /usr/data/home/pwned
+echo 'pwned:$1$Z8nL7oiO$szyo3IN6J1fuTM1zQ9Nw7.:0:0::/usr/data/home/pwned:/bin/sh' >> /etc/passwd
 exit 0
 ```
 
-(`uid 0` / `gid 0` = root; the password hash decodes to `letmein`.)
+(`uid 0` / `gid 0` = root; the password hash decodes to `letmein`.) The home is
+`/usr/data/home/pwned` — on writable persistent storage, **not** the read-only
+`/root` — which later mods like [Update Moonraker](#update-moonraker) need.
+
+> **Already rooted with an older script?** If your `pwned` user still points at
+> `/root`, edit `/etc/passwd` and change its home field from `/root` to
+> `/usr/data/home/pwned` (and `mkdir -p /usr/data/home/pwned`), otherwise
+> updating Moonraker will fail on the read-only home.
+
+---
+
+# Install Entware
+
+Added: 2026-07-11 · Updated: 2026-07-13
+Contributed by: ano
+Reference: https://discord.com/channels/1524322283911381093/1524334562573025343/threads/1525607281842983104
+Tags: root, entware
+
+Install [Entware](https://github.com/Entware/Entware) — the `opkg` package
+manager — to `/opt`, so you can install real packages on the printer (needed for
+[Update Moonraker](#update-moonraker)).
+
+### Prerequisites
+
+- [Root](#get-root).
+- [Enable legacy NaN MIPS binaries](#enable-legacy-nan-mips-binaries) — **required, Entware won't work without it.**
+
+### Steps
+
+1. Install Entware and add it to your `PATH`:
+
+   ```sh
+   mkdir -p /usr/data/bin/opt
+   mount --bind /usr/data/bin/opt /opt
+   wget -O - http://bin.entware.net/mipselsf-k3.4/installer/generic.sh | sh
+   echo 'export PATH=/opt/bin:/opt/sbin:$PATH' >> /etc/profile
+   ```
+2. Make it persist across boots. Add this to the top of
+   `/usr/prog/app_startup.sh`, **under** the `busybox devmem` line from
+   [Enable legacy NaN MIPS binaries](#enable-legacy-nan-mips-binaries):
+
+   ```sh
+   # entware
+   mount --bind /usr/data/bin/opt /opt
+   [ -x /opt/etc/init.d/rc.unslung ] && /opt/etc/init.d/rc.unslung start
+   ```
+3. To use `opkg` in your **current** shell without re-logging in:
+
+   ```sh
+   export PATH=/opt/bin:/opt/sbin:$PATH
+   ```
+
+Entware installs to `/opt` (backed by `/usr/data/bin/opt`). You can now use
+`opkg` to install packages.
 
 ---
 
 # Using more than 256x256x256
 
-Added: 2026-07-11 · Updated: 2026-07-11
+Added: 2026-07-11 · Updated: 2026-07-13
 Contributed by: //Cart
 Reference: https://discord.com/channels/1524322283911381093/1524334562573025343/threads/1525302040434315345
 Tags: slicer, bed
@@ -236,8 +350,8 @@ than you paid for.
 ### Steps
 
 1. In your slicer, open the machine settings → **Basic information → Printable
-   area** and set it to **258×260**.
-   - Using **258×260** (rather than the full 260×260) keeps a small margin so
+   area** and set it to **257×260**.
+   - Using **257×260** (rather than the full 260×260) keeps a small margin so
      the head doesn't crash into parked heads.
    - **Keep Z at ≤ 256.** Don't use more than 256 in Z — it can cause issues
      with objects.
@@ -397,5 +511,139 @@ the latest release.
    unzip mainsail.zip
    ```
 6. Reboot. You're now on the latest Mainsail.
+
+---
+
+# Update Moonraker
+
+Added: 2026-07-11 · Updated: 2026-07-13
+Contributed by: ano
+Reference: https://discord.com/channels/1524322283911381093/1524334562573025343/threads/1525610073328713808
+Tags: root, moonraker, entware
+
+Build and install the latest [Moonraker](https://github.com/Arksine/moonraker)
+from source, replacing the printer's ancient bundled version. This also gets you
+a modern Python (the bundled one lacks `sqlite3`, which newer Moonraker needs)
+and lets you access the webcam through Mainsail. This one takes a while.
+
+> ⚠️ Some `opkg` and `pip` steps look **frozen but are just slow** — let them run.
+
+### Prerequisites
+
+- [Root](#get-root) — and your `pwned` user's home must be on writable
+  persistent storage (`/usr/data/home/pwned`, not `/root`). The current
+  [Get Root](#get-root) script already does this; if you rooted earlier, fix
+  `/etc/passwd` first or the build fails on a read-only home.
+- [Enable legacy NaN MIPS binaries](#enable-legacy-nan-mips-binaries) — **required.**
+- [Install Entware](#install-entware) — **required. Will not work without both of these.**
+
+### Steps
+
+#### 1. Set the clock
+
+These printers have no RTC, so set the time with `rdate` (needed for TLS
+verification later):
+
+```sh
+rdate -s time.nist.gov
+```
+
+Optionally do it on every boot by adding this to `/usr/prog/app_startup.sh`:
+
+```sh
+## set time
+(
+  n=0
+  while [ $n -lt 30 ]; do
+    if ping -c1 -W2 time.nist.gov >/dev/null 2>&1; then
+      rdate -s time.nist.gov
+      break
+    fi
+    n=$((n+1))
+    sleep 2
+  done
+) &
+```
+
+#### 2. Prepare lmdb headers
+
+Pick one:
+
+- **Fast:** copy the attached [`lmdb.h`](lmdb.h) to `/opt/include`. (Simplest, but
+  the header could eventually go out of date.)
+- **Thorough:** download all include headers (slower, always current):
+
+  ```sh
+  cd /tmp
+  wget http://bin.entware.net/mipselsf-k3.4/include/include.tar.gz
+  gunzip -c include.tar.gz | tar x -C /opt/include/
+  ```
+
+#### 3. Back up the old Moonraker and install dependencies
+
+```sh
+mv /usr/prog/moonraker/moonraker /usr/prog/moonraker/moonraker-old
+mv /usr/prog/moonraker/moonraker-env /usr/prog/moonraker/moonraker-env-old
+
+opkg update
+opkg install git git-http
+
+## download new moonraker
+cd /usr/prog/moonraker
+git clone https://github.com/Arksine/moonraker.git
+
+## kill moonraker
+/usr/prog/klipper/moonrakerDaemon stop
+
+opkg install python3 python3-pip
+
+python3 -m pip install virtualenv
+virtualenv --system-site-packages -p python3 ./moonraker-env
+
+## install system site-package deps
+opkg install python3-dev python3-pillow python3-numpy python3-msgpack python3-cryptography python3-cffi python3-yaml python3-requests python3-setuptools libsodium libffi gcc lmdb
+
+## symlink libsodium for pip
+ln -sf $(ls /opt/lib/libsodium.so.*[0-9] | head -1) /opt/lib/libsodium.so
+
+## source the venv
+. ./moonraker-env/bin/activate
+
+## install deps
+pip install -r /usr/prog/moonraker/moonraker/scripts/moonraker-requirements.txt
+LMDB_FORCE_SYSTEM=1 pip install --no-build-isolation lmdb
+```
+
+#### 4. Test it
+
+```sh
+python3 /usr/prog/moonraker/moonraker/moonraker/moonraker.py -d /usr/data
+```
+
+#### 5. Point the daemon at the new environment
+
+Edit `/usr/prog/klipper/moonrakerDaemon` and set the Python path at the top:
+
+```sh
+## change it to the new env path
+PYTHON=/usr/prog/moonraker/moonraker-env/bin/python3
+```
+
+Ensure `moonrakerDaemon` is enabled in `/usr/prog/klipper/start.sh` (see
+[Enable Moonraker & Mainsail](#enable-moonraker-mainsail)) and reboot. You now
+have the latest Moonraker and can access the webcam through Mainsail.
+
+### Notes (from the thread)
+
+- If the **`dbus-fast` build errors**, it's the read-only-home problem — fix your
+  `pwned` home per [Get Root](#get-root), then re-run:
+
+  ```sh
+  cd /usr/prog/moonraker
+  . ./moonraker-env/bin/activate
+  pip install -r /usr/prog/moonraker/moonraker/scripts/moonraker-requirements.txt
+  ```
+- If a command "just isn't saying anything," it's building — it's just very slow.
+- Don't skip `opkg update`.
 
 ---
