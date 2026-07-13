@@ -15,6 +15,10 @@ const COMMUNITY = path.resolve('community');
 const OUT = path.resolve('bundles', '08-community.md');
 const INDEX = path.resolve('community', 'INDEX.md');
 const DATE_RX = /^\d{4}-\d{2}-\d{2}$/;
+// The bundle is uploaded standalone, so relative asset links are dead — point them
+// at the canonical repo copy on `main`.
+const RAW =
+  'https://raw.githubusercontent.com/RodrigoTomeES/flashforge-wiki-kb/main/community';
 
 // Same slug rule as scrape.mjs:195 so bundle anchors match the "# {title}" heading.
 const slugify = (s) =>
@@ -102,10 +106,17 @@ export async function buildCommunityBundle() {
     '---',
     '',
   ];
-  for (const { data, body } of sections) {
+  for (const { dir, data, body } of sections) {
     const tags = data.tags
       ? data.tags.split(',').map((t) => t.trim()).filter(Boolean)
       : [];
+    // Rewrite colocated asset links (e.g. [x](runFirmwareExe.sh)) to raw repo URLs
+    // so they resolve in the standalone bundle.
+    let text = body;
+    const assets = (await readdir(path.join(COMMUNITY, dir), { withFileTypes: true }))
+      .filter((e) => e.isFile() && e.name !== 'README.md')
+      .map((e) => e.name);
+    for (const a of assets) text = text.replaceAll(`](${a})`, `](${RAW}/${dir}/${a})`);
     parts.push(`# ${data.title}`, '');
     parts.push(`Added: ${data.created} · Updated: ${data.updated}`);
     if (data.author) parts.push(`Contributed by: ${data.author}`);
@@ -114,7 +125,7 @@ export async function buildCommunityBundle() {
     parts.push(
       '',
       // demote headings one level so section titles stay the top level
-      body.replace(/^(#{1,5}) /gm, '#$1 '),
+      text.replace(/^(#{1,5}) /gm, '#$1 '),
       '',
       '---',
       ''

@@ -51,7 +51,7 @@ software (e.g. starting prints via Moonraker), it's the cleanest approach.
 
 ### Steps
 
-1. Put [`ff_adaptive_mesh.py`](ff_adaptive_mesh.py) in
+1. Put [`ff_adaptive_mesh.py`](https://raw.githubusercontent.com/RodrigoTomeES/flashforge-wiki-kb/main/community/adaptive-bed-meshing/ff_adaptive_mesh.py) in
    `/usr/prog/klipper/klippy/extras`.
 2. Add these hooks to `/usr/data/config/printer.macro.cfg`:
 
@@ -248,7 +248,7 @@ here (enabling Moonraker/Mainsail, patching firmware, etc.).
 
 1. Format the USB drive as **FAT32**.
 2. Put `runFirmwareExe.sh` in the **root** of the drive
-   ([`runFirmwareExe.sh`](runFirmwareExe.sh)).
+   ([`runFirmwareExe.sh`](https://raw.githubusercontent.com/RodrigoTomeES/flashforge-wiki-kb/main/community/get-root/runFirmwareExe.sh)).
 3. Turn the printer off, plug the USB drive in, then power it on.
 4. It will **hang forever on the FlashForge boot logo**. Wait about **1 minute**
    to be sure the script ran.
@@ -395,7 +395,7 @@ Mainsail complains when you aren't using its own configs. This is a modified
 
 ### Steps
 
-1. Upload [`mainsail.cfg`](mainsail.cfg) to the printer's config directory.
+1. Upload [`mainsail.cfg`](https://raw.githubusercontent.com/RodrigoTomeES/flashforge-wiki-kb/main/community/removing-mainsail-warnings/mainsail.cfg) to the printer's config directory.
 2. Add this line near the **top** of `printer.cfg` (below the rest of the includes):
 
    ```
@@ -427,7 +427,7 @@ Patch the firmware so the built-in camera streams at **720p@30fps** via mjpg-str
 
 ### What's in the attachment
 
-[`camera-mod-070926.zip`](camera-mod-070926.zip) contains patched
+[`camera-mod-070926.zip`](https://raw.githubusercontent.com/RodrigoTomeES/flashforge-wiki-kb/main/community/unlock-camera-720p/camera-mod-070926.zip) contains patched
 `firmwareExe` binaries for each supported version, plus `start_webcam.sh`:
 
 ```
@@ -569,7 +569,7 @@ Optionally do it on every boot by adding this to `/usr/prog/app_startup.sh`:
 
 Pick one:
 
-- **Fast:** copy the attached [`lmdb.h`](lmdb.h) to `/opt/include`. (Simplest, but
+- **Fast:** copy the attached [`lmdb.h`](https://raw.githubusercontent.com/RodrigoTomeES/flashforge-wiki-kb/main/community/update-moonraker/lmdb.h) to `/opt/include`. (Simplest, but
   the header could eventually go out of date.)
 - **Thorough:** download all include headers (slower, always current):
 
