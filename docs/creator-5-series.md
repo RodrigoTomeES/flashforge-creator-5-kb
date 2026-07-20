@@ -1,7 +1,7 @@
 ---
 title: "Creator 5 series"
 source: https://wiki.flashforge.com/en/creator-series/creator-5-series
-scraped: 2026-07-13
+scraped: 2026-07-20
 ---
 
 > Official wiki page: https://wiki.flashforge.com/en/creator-series/creator-5-series
@@ -68,6 +68,10 @@ Detailed step-to-step instructions can be found in [maintenance page](maintenanc
 -   [Firmware release notes](manual/firmware-release-history.md)
 
 # Creator 5 In Action [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series#creator-5-in-action)
+
+| [Poop Bin for Creator 5](waste-filament-box.md) | [Bowden Clip](https://wiki.flashforge.com/en/ad5x/AD5XBowdenClip) |
+| --- | --- |
+| ![pic1.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/other/pic1.png) | ![ad5x\_bowden\_clip.png](https://wiki.flashforge.com/resource/pictures/enclosure/ad5x_bowden_clip.png) |
 
 # Learn More [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series#learn-more)
 

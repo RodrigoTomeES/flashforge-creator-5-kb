@@ -1,7 +1,7 @@
 ---
 title: "Monitoring & Timelapse"
 source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/monitoring-and-timelapse
-scraped: 2026-07-13
+scraped: 2026-07-20
 ---
 
 > Official wiki page: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/monitoring-and-timelapse

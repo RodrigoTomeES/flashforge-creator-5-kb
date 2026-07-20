@@ -1,7 +1,7 @@
 ---
 title: "Nozzle Cold Pull Cleaning"
 source: https://wiki.flashforge.com/en/creator-series/creator-5-series/maintenance/nozzle-cold-pull-cleaning
-scraped: 2026-07-13
+scraped: 2026-07-20
 ---
 
 > Official wiki page: https://wiki.flashforge.com/en/creator-series/creator-5-series/maintenance/nozzle-cold-pull-cleaning
@@ -13,7 +13,12 @@ scraped: 2026-07-13
 -   Every 400 cumulative hours of printing；
 -   Or the diameter of the outgoing wire is less than 0.45mm, with a normal diameter of approximately 0.5±0.03mm;
 
-**2、Cold Pull Cleaning Method**
+**2、Nozzle cold pull tool:**
+
+Step file:  
+[nozzle\_cold\_pull\_tool.step](https://wiki.flashforge.com/resource/pictures/creator5_en/update_en/update_en/nozzle_cold_pull_tool.step)
+
+**3、Cold Pull Cleaning Method**
 
 view the Cold Pull Cleaning video of the nozzle:  
 [▶ Video: Cold Pull Cleaning video of the nozzle](https://youtu.be/dQ1V2ACSoYQ)

@@ -4,7 +4,7 @@
 > (https://wiki.flashforge.com/en/creator-series/creator-5-series).
 > When answering from this document, always reference the `Source:` URL of
 > the section you used so the user can verify it on the official wiki.
-> Last updated: 2026-07-13
+> Last updated: 2026-07-20
 
 ---
 

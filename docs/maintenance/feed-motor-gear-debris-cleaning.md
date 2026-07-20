@@ -1,7 +1,7 @@
 ---
 title: "Feed Motor Gear Debris Cleaning"
 source: https://wiki.flashforge.com/en/creator-series/creator-5-series/maintenance/feed-motor-gear-debris-cleaning
-scraped: 2026-07-13
+scraped: 2026-07-20
 ---
 
 > Official wiki page: https://wiki.flashforge.com/en/creator-series/creator-5-series/maintenance/feed-motor-gear-debris-cleaning

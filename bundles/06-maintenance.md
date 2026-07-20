@@ -4,7 +4,7 @@
 > (https://wiki.flashforge.com/en/creator-series/creator-5-series).
 > When answering from this document, always reference the `Source:` URL of
 > the section you used so the user can verify it on the official wiki.
-> Last updated: 2026-07-13
+> Last updated: 2026-07-20
 
 ---
 
@@ -410,7 +410,12 @@ Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/maintenan
 -   Every 400 cumulative hours of printing；
 -   Or the diameter of the outgoing wire is less than 0.45mm, with a normal diameter of approximately 0.5±0.03mm;
 
-**2、Cold Pull Cleaning Method**
+**2、Nozzle cold pull tool:**
+
+Step file:  
+[nozzle\_cold\_pull\_tool.step](https://wiki.flashforge.com/resource/pictures/creator5_en/update_en/update_en/nozzle_cold_pull_tool.step)
+
+**3、Cold Pull Cleaning Method**
 
 view the Cold Pull Cleaning video of the nozzle:  
 [▶ Video: Cold Pull Cleaning video of the nozzle](https://youtu.be/dQ1V2ACSoYQ)

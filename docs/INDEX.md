@@ -1,6 +1,6 @@
 # FlashForge Creator 5 Series — Wiki Mirror Index
 
-Mirrored from the official FlashForge wiki on 2026-07-13.
+Mirrored from the official FlashForge wiki on 2026-07-20.
 Root page: https://wiki.flashforge.com/en/creator-series/creator-5-series
 
 | Page | Local file | Original wiki URL |
@@ -63,4 +63,5 @@ Root page: https://wiki.flashforge.com/en/creator-series/creator-5-series
 | Troubleshooting: Equipment Usage Issues | [troubleshooting-equipment-usage-issues.md](troubleshooting-equipment-usage-issues.md) | https://wiki.flashforge.com/en/creator-series/creator-5-series/troubleshooting-equipment-usage-issues |
 | Flash Studio issues | [troubleshooting-flash-studio.md](troubleshooting-flash-studio.md) | https://wiki.flashforge.com/en/creator-series/creator-5-series/troubleshooting-flash-studio |
 | Creator Series Troubleshooting: Print Quality Problems | [troubleshooting-print-quality-problems.md](troubleshooting-print-quality-problems.md) | https://wiki.flashforge.com/en/creator-series/creator-5-series/troubleshooting-print-quality-problems |
+| Poop Bin for Creator 5 Series: Printing & Installation Guide | [waste-filament-box.md](waste-filament-box.md) | https://wiki.flashforge.com/en/creator-series/creator-5-series/waste-filament-box |
 | Troubleshooting: Network-related Issues | [_linked/creator-series/creator-5m-series/troubleshooting-network-related-issues.md](_linked/creator-series/creator-5m-series/troubleshooting-network-related-issues.md) | https://wiki.flashforge.com/en/creator-series/creator-5m-series/troubleshooting-network-related-issues |

@@ -1,7 +1,7 @@
 ---
 title: "Filter Cartridge Replacement"
 source: https://wiki.flashforge.com/en/creator-series/creator-5-series/maintenance/filter-cartridge-replacement
-scraped: 2026-07-13
+scraped: 2026-07-20
 ---
 
 > Official wiki page: https://wiki.flashforge.com/en/creator-series/creator-5-series/maintenance/filter-cartridge-replacement

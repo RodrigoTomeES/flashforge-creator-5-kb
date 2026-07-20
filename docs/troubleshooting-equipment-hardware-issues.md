@@ -1,7 +1,7 @@
 ---
 title: "Creator Series Troubleshooting: Equipment Hardware Issues"
 source: https://wiki.flashforge.com/en/creator-series/creator-5-series/troubleshooting-equipment-hardware-issues
-scraped: 2026-07-13
+scraped: 2026-07-20
 ---
 
 > Official wiki page: https://wiki.flashforge.com/en/creator-series/creator-5-series/troubleshooting-equipment-hardware-issues
