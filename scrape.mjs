@@ -292,7 +292,6 @@ for (const page of pages) {
     '---',
     `title: "${page.title.replace(/"/g, '\\"')}"`,
     `source: ${sourceUrl}`,
-    `scraped: ${SCRAPED}`,
     '---',
     '',
     `> Official wiki page: ${sourceUrl}`,

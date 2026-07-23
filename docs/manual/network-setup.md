@@ -1,7 +1,6 @@
 ---
 title: "Network Setup"
 source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/network-setup
-scraped: 2026-07-20
 ---
 
 > Official wiki page: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/network-setup

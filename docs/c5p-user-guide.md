@@ -1,7 +1,6 @@
 ---
 title: "User guide for your Creator 5 Pro"
 source: https://wiki.flashforge.com/en/creator-series/creator-5-series/c5p-user-guide
-scraped: 2026-07-20
 ---
 
 > Official wiki page: https://wiki.flashforge.com/en/creator-series/creator-5-series/c5p-user-guide

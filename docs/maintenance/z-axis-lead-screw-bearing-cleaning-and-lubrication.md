@@ -1,7 +1,6 @@
 ---
 title: "Z-axis Lead Screw Bearing Cleaning & Lubrication"
 source: https://wiki.flashforge.com/en/creator-series/creator-5-series/maintenance/z-axis-lead-screw-bearing-cleaning-and-lubrication
-scraped: 2026-07-20
 ---
 
 > Official wiki page: https://wiki.flashforge.com/en/creator-series/creator-5-series/maintenance/z-axis-lead-screw-bearing-cleaning-and-lubrication

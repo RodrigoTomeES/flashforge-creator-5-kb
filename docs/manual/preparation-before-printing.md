@@ -1,7 +1,6 @@
 ---
 title: "Preparation before printing"
 source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/preparation-before-printing
-scraped: 2026-07-20
 ---
 
 > Official wiki page: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/preparation-before-printing

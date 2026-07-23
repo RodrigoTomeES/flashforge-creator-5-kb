@@ -1,7 +1,6 @@
 ---
 title: "Error code list for Creator 5 series"
 source: https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5
-scraped: 2026-07-20
 ---
 
 > Official wiki page: https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5

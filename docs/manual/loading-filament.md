@@ -1,7 +1,6 @@
 ---
 title: "Loading filament"
 source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/loading-filament
-scraped: 2026-07-20
 ---
 
 > Official wiki page: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/loading-filament

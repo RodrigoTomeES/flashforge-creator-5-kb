@@ -1,7 +1,6 @@
 ---
 title: "Multi-Color Printing"
 source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/Multi-ColorPrinting
-scraped: 2026-07-20
 ---
 
 > Official wiki page: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/Multi-ColorPrinting

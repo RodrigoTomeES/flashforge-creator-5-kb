@@ -1,7 +1,6 @@
 ---
 title: "Clean and Lubricate the X-Axis Linear Shaft "
 source: https://wiki.flashforge.com/en/creator-series/creator-5-series/maintenance/clean-and-lubricate-the-x-axis-linear-shaft
-scraped: 2026-07-20
 ---
 
 > Official wiki page: https://wiki.flashforge.com/en/creator-series/creator-5-series/maintenance/clean-and-lubricate-the-x-axis-linear-shaft

@@ -1,7 +1,6 @@
 ---
 title: "Quick-start guide for your Creator 5"
 source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/quick-start-guide-for-your-creator5
-scraped: 2026-07-20
 ---
 
 > Official wiki page: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/quick-start-guide-for-your-creator5

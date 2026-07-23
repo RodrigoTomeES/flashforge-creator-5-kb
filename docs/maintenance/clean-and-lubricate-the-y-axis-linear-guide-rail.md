@@ -1,7 +1,6 @@
 ---
 title: "Clean and Lubricate the Y-Axis Linear Guide Rail"
 source: https://wiki.flashforge.com/en/creator-series/creator-5-series/maintenance/clean-and-lubricate-the-y-axis-linear-guide-rail
-scraped: 2026-07-20
 ---
 
 > Official wiki page: https://wiki.flashforge.com/en/creator-series/creator-5-series/maintenance/clean-and-lubricate-the-y-axis-linear-guide-rail
