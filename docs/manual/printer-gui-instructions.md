@@ -27,12 +27,14 @@ source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/pr
 6.  **Status Bar**  
     Displays the printer name and the following hardware status indicators:
     
-    -   ![usb\_disk\_icon.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/printer-gui-instructions/usb_disk_icon.png) USB Drive  
+    -   ![icon-status-bar-usb.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/icons/icon-status-bar-usb.png) USB Drive  
         Indicates a USB drive is inserted into the USB port.
-    -   ![wi-fi-icon.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/printer-gui-instructions/wi-fi-icon.png) Wi-Fi  
+    -   ![icon-status-bar-wifi.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/icons/icon-status-bar-wifi.png) Wi-Fi  
         Indicates the printer is connected to a Wi-Fi network.
-    -   ![camera-icon.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/printer-gui-instructions/camera-icon.png) Camera  
+    -   ![icon-status-bar-camera.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/icons/icon-status-bar-camera.png) Camera  
         Indicates the camera is installed and functioning.
+    -   ![icon-vds.png](https://wiki.flashforge.com/resource/vds/icons/icon-vds.png) VDS  
+        Appears when VDS ([Ventilated Drying System](https://wiki.flashforge.com/en/VDS)) is connected.
 7.  **Nozzle Temperature Status**  
     Displays the target and current nozzle temperatures for each extruder. Tap at any time to adjust temperature settings.
     
@@ -177,7 +179,10 @@ Tap the up/down arrows on the right side to view more options.
 ![printer-gui-basic-settings-03.png](https://wiki.flashforge.com/resource/pictures/creator5_en/printer-gui-instructions/printer-gui-basic-settings-03.png)
 
 9.  **Copy Logs**  
-    Exports device logs to a USB flash drive. This helps our support team diagnose issues and identify possible causes of failures.
+    Exports device logs to a USB flash drive.
     
 10.  **Factory Reset**  
      Restores the printer to its factory default settings.
+     
+11.  **Upload Logs to Server**  
+     Uploads device logs to the Flashforge server to assist technical support with troubleshooting and issue diagnosis.

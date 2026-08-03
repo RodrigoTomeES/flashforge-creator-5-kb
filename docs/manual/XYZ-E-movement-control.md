@@ -7,7 +7,7 @@ source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/XY
 
 When the printer is idle, you can manually control the motion of the XY-axis (extruder mount), Z-axis (heatbed), and extruder motor. This is useful for device calibration, maintenance, cleaning, and mechanical inspections, allowing for precise positioning of the extruder and heatbed.
 
-From the Home screen, tap the **Move & Calibrate** icon to open the Move screen.
+From the Home screen, tap ![icon-move-calibrate.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/icons/icon-move-calibrate.png) to open the Move screen.
 
 ![movement-control\_main\_interface.png](https://wiki.flashforge.com/resource/pictures/creator5_en/xyz-e-movement-control/movement-control_main_interface.png)
 
@@ -25,7 +25,7 @@ From the Home screen, tap the **Move & Calibrate** icon to open the Move screen.
 
 ### Operating Steps [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/XYZ-E-movement-control#operating-steps)
 
-1.  Tap the **Home** icon to return the heatbed and extruder mount to their mechanical home positions, ensuring accurate coordinate referencing.  
+1.  Tap ![icon-motion-ctrl-homing.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/icons/icon-motion-ctrl-homing.png) to return the heatbed and extruder mount to their mechanical home positions, ensuring accurate coordinate referencing.  
     ![xyz-movement-01.png](https://wiki.flashforge.com/resource/pictures/creator5_en/xyz-e-movement-control/xyz-movement-01.png)
     
 2.  Tap the arrows to move the heatbed vertically.  
@@ -43,7 +43,7 @@ From the Home screen, tap the **Move & Calibrate** icon to open the Move screen.
 
 To load an extruder:
 
-1.  Tap the **Load Extruder** icon.
+1.  Tap ![icon-motion-ctrl-extruder.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/icons/icon-motion-ctrl-extruder.png) .
 2.  Select an extruder.
 3.  Tap **✕** to execute loading.
 
@@ -51,7 +51,7 @@ To load an extruder:
 
 ### Unlock Motors [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/XYZ-E-movement-control#unlock-motors)
 
-Tap 🔓 to unlock the motors.
+Tap ![icon-motion-ctrl-unlock.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/icons/icon-motion-ctrl-unlock.png) to unlock the motors.
 
 ![xyz-movement-07.png](https://wiki.flashforge.com/resource/pictures/creator5_en/xyz-e-movement-control/xyz-movement-07.png)
 
@@ -72,8 +72,8 @@ You can manually control the extruder motor to extrude or retract filament. Comm
 1.  Select and load the desired extruder.
 2.  Control the extruder motor using the arrows:  
     ![e-movement-01.png](https://wiki.flashforge.com/resource/pictures/creator5_en/xyz-e-movement-control/e-movement-01.png)
-    -   **(A) Up**：Retracts filament.
-    -   **(B) Down**：Extrudes filament.  
+    -   **(A) Up**: Retracts filament.
+    -   **(B) Down**: Extrudes filament.  
         A prompt will appear instructing you to heat the extruder.  
         ![e-movement-02.png](https://wiki.flashforge.com/resource/pictures/creator5_en/xyz-e-movement-control/e-movement-02.png)
 3.  Heat the extruder to the recommended temperature for your filament.  

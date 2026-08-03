@@ -1,6 +1,6 @@
 # FlashForge Creator 5 Series — Wiki Mirror Index
 
-Mirrored from the official FlashForge wiki on 2026-07-27.
+Mirrored from the official FlashForge wiki on 2026-08-03.
 Root page: https://wiki.flashforge.com/en/creator-series/creator-5-series
 
 | Page | Local file | Original wiki URL |
@@ -22,7 +22,7 @@ Root page: https://wiki.flashforge.com/en/creator-series/creator-5-series
 | Filter Cartridge Replacement | [maintenance/filter-cartridge-replacement.md](maintenance/filter-cartridge-replacement.md) | https://wiki.flashforge.com/en/creator-series/creator-5-series/maintenance/filter-cartridge-replacement |
 | Heatsink Fan Dust Cleaning | [maintenance/heatsink-fan-dust-cleaning.md](maintenance/heatsink-fan-dust-cleaning.md) | https://wiki.flashforge.com/en/creator-series/creator-5-series/maintenance/heatsink-fan-dust-cleaning |
 | Mainboard Cooling Fan Dust Cleaning | [maintenance/mainboard-cooling-fan-dust-cleaning.md](maintenance/mainboard-cooling-fan-dust-cleaning.md) | https://wiki.flashforge.com/en/creator-series/creator-5-series/maintenance/mainboard-cooling-fan-dust-cleaning |
-| Nozzle Cold Pull Cleaning | [maintenance/nozzle-cold-pull-cleaning.md](maintenance/nozzle-cold-pull-cleaning.md) | https://wiki.flashforge.com/en/creator-series/creator-5-series/maintenance/nozzle-cold-pull-cleaning |
+| Nozzle cold pull cleaning | [maintenance/nozzle-cold-pull-cleaning.md](maintenance/nozzle-cold-pull-cleaning.md) | https://wiki.flashforge.com/en/creator-series/creator-5-series/maintenance/nozzle-cold-pull-cleaning |
 | XY Axis Belt Tension Adjustment | [maintenance/xy-axis-belt-tension-adjustment.md](maintenance/xy-axis-belt-tension-adjustment.md) | https://wiki.flashforge.com/en/creator-series/creator-5-series/maintenance/xy-axis-belt-tension-adjustment |
 | XY Axis Pulley Cleaning & Lubrication | [maintenance/xy-axis-pulley-cleaning-and-lubrication.md](maintenance/xy-axis-pulley-cleaning-and-lubrication.md) | https://wiki.flashforge.com/en/creator-series/creator-5-series/maintenance/xy-axis-pulley-cleaning-and-lubrication |
 | Z-axis Belt Tension Adjustment | [maintenance/z-axis-belt-tension-adjustment.md](maintenance/z-axis-belt-tension-adjustment.md) | https://wiki.flashforge.com/en/creator-series/creator-5-series/maintenance/z-axis-belt-tension-adjustment |

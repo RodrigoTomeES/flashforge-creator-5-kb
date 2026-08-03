@@ -28,7 +28,7 @@ When starting a print, enable **Timelapse** in the **Print Settings** screen.
 
 Once the print completes, the printer saves the timelapse video to its internal storage. To export the video to a USB drive:
 
-1.  From the Home screen, tap ⚙️ > **Timelapse**.  
+1.  From the Home screen, tap ![icon-settings.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/icons/icon-settings.png) > **Timelapse**.  
     ![export-timelapse-01.png](https://wiki.flashforge.com/resource/pictures/creator5_en/monitoring-and-timelapse/export-timelapse-01.png)
 2.  Tap ✏️.  
     ![export-timelapse-02.png](https://wiki.flashforge.com/resource/pictures/creator5_en/monitoring-and-timelapse/export-timelapse-02.png)

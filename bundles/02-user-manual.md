@@ -4,7 +4,7 @@
 > (https://wiki.flashforge.com/en/creator-series/creator-5-series).
 > When answering from this document, always reference the `Source:` URL of
 > the section you used so the user can verify it on the official wiki.
-> Last updated: 2026-07-27
+> Last updated: 2026-08-03
 
 ---
 
@@ -239,7 +239,7 @@ When starting a print, enable **Timelapse** in the **Print Settings** screen.
 
 Once the print completes, the printer saves the timelapse video to its internal storage. To export the video to a USB drive:
 
-1.  From the Home screen, tap ⚙️ > **Timelapse**.  
+1.  From the Home screen, tap ![icon-settings.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/icons/icon-settings.png) > **Timelapse**.  
     ![export-timelapse-01.png](https://wiki.flashforge.com/resource/pictures/creator5_en/monitoring-and-timelapse/export-timelapse-01.png)
 2.  Tap ✏️.  
     ![export-timelapse-02.png](https://wiki.flashforge.com/resource/pictures/creator5_en/monitoring-and-timelapse/export-timelapse-02.png)
@@ -267,7 +267,7 @@ For 3mf files, you can manually assign extruders on the screen. Selecting two or
 
 Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/network-setup
 
-The printer supports Wi-Fi and LAN connections. From the Home screen, go to ⚙️ > **Network** to open the Network Settings screen.
+The printer supports Wi-Fi and LAN connections. From the Home screen, go to ![icon-settings.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/icons/icon-settings.png) > **Network** to open the Network Settings screen.
 
 ### Connect to a Wi-Fi Network [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/network-setup#connect-to-a-wi-fi-network)
 
@@ -314,14 +314,14 @@ Follow these steps to enable LAN Only Mode and add the printer to Flash Studio D
 
 > If your printer is using its default name, we recommend renaming it under ⚙️ > **Basic Settings** > **Device Name**. Unique names prevent duplicate conflicts and help you locate the correct device quickly when multiple printers of the same model are on the network.
 
-2.  From the Home screen, go to ⚙️ > **Network** > **LAN Only**. Toggle on **LAN Only Mode**.  
+2.  From the Home screen, go to ![icon-settings.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/icons/icon-settings.png) > **Network** > **LAN Only**. Toggle on **LAN Only Mode**.  
     ![network-setup-05.png](https://wiki.flashforge.com/resource/pictures/creator5_en/network-setup/network-setup-05.png)
 3.  Note the **Device ID** displayed on the screen.
 4.  In Flash Studio Desktop, click **Device** > **+**.
 5.  The **Other Devices** section lists all visible printers on your network. Depending on their network settings, one of two icons will appear before the device name:  
     ![cloud-mode-icon.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/network-setup/cloud-mode-icon.png)：Add this device via the internet (cloud).  
     ![lan-mode-icon.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/network-setup/lan-mode-icon.png)：Add this device via LAN. LAN Only Mode is enabled, requiring a device verification code.  
-    Select a device marked with ![lan-mode-icon.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/network-setup/lan-mode-icon.png).  
+    Select a device marked with ![lan-mode-icon.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/network-setup/lan-mode-icon.png) .  
     ![network-setup-06.png](https://wiki.flashforge.com/resource/pictures/creator5_en/network-setup/network-setup-06.png)
 6.  Enter the previously noted device ID (the access code) in the prompt and click ✔️.  
     ![network-setup-07.png](https://wiki.flashforge.com/resource/pictures/creator5_en/network-setup/network-setup-07.png)
@@ -638,12 +638,14 @@ Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/pr
 6.  **Status Bar**  
     Displays the printer name and the following hardware status indicators:
     
-    -   ![usb\_disk\_icon.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/printer-gui-instructions/usb_disk_icon.png) USB Drive  
+    -   ![icon-status-bar-usb.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/icons/icon-status-bar-usb.png) USB Drive  
         Indicates a USB drive is inserted into the USB port.
-    -   ![wi-fi-icon.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/printer-gui-instructions/wi-fi-icon.png) Wi-Fi  
+    -   ![icon-status-bar-wifi.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/icons/icon-status-bar-wifi.png) Wi-Fi  
         Indicates the printer is connected to a Wi-Fi network.
-    -   ![camera-icon.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/printer-gui-instructions/camera-icon.png) Camera  
+    -   ![icon-status-bar-camera.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/icons/icon-status-bar-camera.png) Camera  
         Indicates the camera is installed and functioning.
+    -   ![icon-vds.png](https://wiki.flashforge.com/resource/vds/icons/icon-vds.png) VDS  
+        Appears when VDS ([Ventilated Drying System](https://wiki.flashforge.com/en/VDS)) is connected.
 7.  **Nozzle Temperature Status**  
     Displays the target and current nozzle temperatures for each extruder. Tap at any time to adjust temperature settings.
     
@@ -788,10 +790,13 @@ Tap the up/down arrows on the right side to view more options.
 ![printer-gui-basic-settings-03.png](https://wiki.flashforge.com/resource/pictures/creator5_en/printer-gui-instructions/printer-gui-basic-settings-03.png)
 
 9.  **Copy Logs**  
-    Exports device logs to a USB flash drive. This helps our support team diagnose issues and identify possible causes of failures.
+    Exports device logs to a USB flash drive.
     
 10.  **Factory Reset**  
      Restores the printer to its factory default settings.
+     
+11.  **Upload Logs to Server**  
+     Uploads device logs to the Flashforge server to assist technical support with troubleshooting and issue diagnosis.
 
 ---
 
@@ -907,7 +912,7 @@ Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/XY
 
 When the printer is idle, you can manually control the motion of the XY-axis (extruder mount), Z-axis (heatbed), and extruder motor. This is useful for device calibration, maintenance, cleaning, and mechanical inspections, allowing for precise positioning of the extruder and heatbed.
 
-From the Home screen, tap the **Move & Calibrate** icon to open the Move screen.
+From the Home screen, tap ![icon-move-calibrate.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/icons/icon-move-calibrate.png) to open the Move screen.
 
 ![movement-control\_main\_interface.png](https://wiki.flashforge.com/resource/pictures/creator5_en/xyz-e-movement-control/movement-control_main_interface.png)
 
@@ -925,7 +930,7 @@ From the Home screen, tap the **Move & Calibrate** icon to open the Move screen.
 
 #### Operating Steps [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/XYZ-E-movement-control#operating-steps)
 
-1.  Tap the **Home** icon to return the heatbed and extruder mount to their mechanical home positions, ensuring accurate coordinate referencing.  
+1.  Tap ![icon-motion-ctrl-homing.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/icons/icon-motion-ctrl-homing.png) to return the heatbed and extruder mount to their mechanical home positions, ensuring accurate coordinate referencing.  
     ![xyz-movement-01.png](https://wiki.flashforge.com/resource/pictures/creator5_en/xyz-e-movement-control/xyz-movement-01.png)
     
 2.  Tap the arrows to move the heatbed vertically.  
@@ -943,7 +948,7 @@ From the Home screen, tap the **Move & Calibrate** icon to open the Move screen.
 
 To load an extruder:
 
-1.  Tap the **Load Extruder** icon.
+1.  Tap ![icon-motion-ctrl-extruder.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/icons/icon-motion-ctrl-extruder.png) .
 2.  Select an extruder.
 3.  Tap **✕** to execute loading.
 
@@ -951,7 +956,7 @@ To load an extruder:
 
 #### Unlock Motors [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/XYZ-E-movement-control#unlock-motors)
 
-Tap 🔓 to unlock the motors.
+Tap ![icon-motion-ctrl-unlock.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/icons/icon-motion-ctrl-unlock.png) to unlock the motors.
 
 ![xyz-movement-07.png](https://wiki.flashforge.com/resource/pictures/creator5_en/xyz-e-movement-control/xyz-movement-07.png)
 
@@ -972,8 +977,8 @@ You can manually control the extruder motor to extrude or retract filament. Comm
 1.  Select and load the desired extruder.
 2.  Control the extruder motor using the arrows:  
     ![e-movement-01.png](https://wiki.flashforge.com/resource/pictures/creator5_en/xyz-e-movement-control/e-movement-01.png)
-    -   **(A) Up**：Retracts filament.
-    -   **(B) Down**：Extrudes filament.  
+    -   **(A) Up**: Retracts filament.
+    -   **(B) Down**: Extrudes filament.  
         A prompt will appear instructing you to heat the extruder.  
         ![e-movement-02.png](https://wiki.flashforge.com/resource/pictures/creator5_en/xyz-e-movement-control/e-movement-02.png)
 3.  Heat the extruder to the recommended temperature for your filament.  

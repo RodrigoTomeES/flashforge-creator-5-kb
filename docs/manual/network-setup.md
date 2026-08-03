@@ -5,7 +5,7 @@ source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/ne
 
 > Official wiki page: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/network-setup
 
-The printer supports Wi-Fi and LAN connections. From the Home screen, go to ⚙️ > **Network** to open the Network Settings screen.
+The printer supports Wi-Fi and LAN connections. From the Home screen, go to ![icon-settings.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/icons/icon-settings.png) > **Network** to open the Network Settings screen.
 
 ## Connect to a Wi-Fi Network [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/network-setup#connect-to-a-wi-fi-network)
 
@@ -52,14 +52,14 @@ Follow these steps to enable LAN Only Mode and add the printer to Flash Studio D
 
 > If your printer is using its default name, we recommend renaming it under ⚙️ > **Basic Settings** > **Device Name**. Unique names prevent duplicate conflicts and help you locate the correct device quickly when multiple printers of the same model are on the network.
 
-2.  From the Home screen, go to ⚙️ > **Network** > **LAN Only**. Toggle on **LAN Only Mode**.  
+2.  From the Home screen, go to ![icon-settings.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/icons/icon-settings.png) > **Network** > **LAN Only**. Toggle on **LAN Only Mode**.  
     ![network-setup-05.png](https://wiki.flashforge.com/resource/pictures/creator5_en/network-setup/network-setup-05.png)
 3.  Note the **Device ID** displayed on the screen.
 4.  In Flash Studio Desktop, click **Device** > **+**.
 5.  The **Other Devices** section lists all visible printers on your network. Depending on their network settings, one of two icons will appear before the device name:  
     ![cloud-mode-icon.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/network-setup/cloud-mode-icon.png)：Add this device via the internet (cloud).  
     ![lan-mode-icon.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/network-setup/lan-mode-icon.png)：Add this device via LAN. LAN Only Mode is enabled, requiring a device verification code.  
-    Select a device marked with ![lan-mode-icon.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/network-setup/lan-mode-icon.png).  
+    Select a device marked with ![lan-mode-icon.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/network-setup/lan-mode-icon.png) .  
     ![network-setup-06.png](https://wiki.flashforge.com/resource/pictures/creator5_en/network-setup/network-setup-06.png)
 6.  Enter the previously noted device ID (the access code) in the prompt and click ✔️.  
     ![network-setup-07.png](https://wiki.flashforge.com/resource/pictures/creator5_en/network-setup/network-setup-07.png)
