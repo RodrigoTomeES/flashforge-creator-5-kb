@@ -4,7 +4,7 @@
 > (https://wiki.flashforge.com/en/creator-series/creator-5-series).
 > When answering from this document, always reference the `Source:` URL of
 > the section you used so the user can verify it on the official wiki.
-> Last updated: 2026-08-03
+> Last updated: 2026-08-17
 
 ---
 
@@ -59,6 +59,8 @@ Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual
 
 Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/cal_printer
 
+> Screenshots are for reference only. Actual interface may vary depending on the firmware version.
+
 Creator 5 and Creator 5 Pro share identical calibration procedures. This guide uses the Creator 5 Pro as the reference model.
 
 From the Home screen, tap **Move & Calibrate** and select **Calibrate** to open the calibration menu. Available options include:
@@ -67,8 +69,9 @@ From the Home screen, tap **Move & Calibrate** and select **Calibrate** to open 
 -   Vibration Compensation (②)
 -   Extruder Offset Calibration (③)
 -   Extruder Position Calibration (④)
+-   VFA Vertical Stripe Compensation (⑤)
 
-![cal-printer-01.png](https://wiki.flashforge.com/resource/pictures/creator5_en/cal-printer/cal-printer-01.png)
+![cal-printer-16.png](https://wiki.flashforge.com/resource/pictures/creator5_en/cal-printer/cal-printer-16.png)
 
 Review the following sections for detailed instructions on each calibration option.
 
@@ -97,6 +100,24 @@ The screen will display "Vibration Compensation calibration complete" once the p
 | Calibration Started | Calibration Complete |
 | --- | --- |
 | ![cal-printer-06.png](https://wiki.flashforge.com/resource/pictures/creator5_en/cal-printer/cal-printer-06.png) | ![cal-printer-07.png](https://wiki.flashforge.com/resource/pictures/creator5_en/cal-printer/cal-printer-07.png) |
+
+### VFA Vertical Stripe Compensation [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/cal_printer#vfa-vertical-stripe-compensation)
+
+> Requires firmware v1.9.6 or later.
+
+Vertical Fine Artifacts (VFAs) are fine vertical line patterns that appear on the print surface. They are typically caused by micro-vibrations and motion inconsistencies resulting from factors such as mechanical resonance, belt tension, or stepper motor uneven torque, which can affect the surface finish.
+
+This calibration uses algorithms to compensate for torque unevenness during motor rotation, smoothing motion output and reducing periodic vertical lines on the print surface.
+
+Select **VFA vertical stripe compensation** and tap **Start Calibration** to initiate the process.
+
+![cal-printer-17.png](https://wiki.flashforge.com/resource/pictures/creator5_en/cal-printer/cal-printer-17.png)
+
+The screen will display "VFA vertical stripe compensation calibration complete" once the process is complete.
+
+| Calibration Started | Calibration Complete |
+| --- | --- |
+| ![cal-printer-18.png](https://wiki.flashforge.com/resource/pictures/creator5_en/cal-printer/cal-printer-18.png) | ![cal-printer-19.png](https://wiki.flashforge.com/resource/pictures/creator5_en/cal-printer/cal-printer-19.png) |
 
 ### Extruder Offset Calibration [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/cal_printer#extruder-offset-calibration)
 

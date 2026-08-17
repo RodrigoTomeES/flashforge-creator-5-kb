@@ -9,14 +9,14 @@ source: https://wiki.flashforge.com/en/creator-series/creator-5-series/waste-fil
 
 **1\. File Downloads**  
 **Step files:**  
-[Hanger.step](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/other/%E6%8C%82%E6%9E%B6.step)  
+[Hanger.step](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/other/hanger.step)  
 [Poop Bin (Hanger Version).step](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/other/%E6%94%B6%E6%96%99%E7%9B%92\(%E6%8C%82%E6%9E%B6%E7%89%88\).step)
 
 **G-code file(PLA):**  
-[Hanger + Poop Bin\_PLA\_2h51m.gcode](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/other/%E6%8C%82%E6%9E%B6%E6%94%B6%E6%96%99%E7%9B%92_pla_2h51m.gcode)
+[Hanger\_+\_Poop\_bin\_PLA\_3h19m.gcode](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/other/hanger_+_poop_bin_pla_pla_3h19m.gcode)
 
 **3MF file(PETG+PLA(support)):**  
-[hanger\_+\_poop\_bin\_PETG\_2h48m.gcode.3mf](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/other/%5Bhanger_+_poop_bin_petg_2h48m.gcode.3mf)
+[Hanger\_+\_Poop\_bin\_petg+pla\_3h11m.gcode.3mf](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/other/hanger_+_poop_bin_petg+pla_3h11m.gcode.3mf)
 
 **2.Print the downloaded file(s) using your 3D printer.**
 

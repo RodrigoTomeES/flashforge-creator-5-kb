@@ -4,7 +4,7 @@
 > (https://wiki.flashforge.com/en/creator-series/creator-5-series).
 > When answering from this document, always reference the `Source:` URL of
 > the section you used so the user can verify it on the official wiki.
-> Last updated: 2026-08-03
+> Last updated: 2026-08-17
 
 ---
 
@@ -91,7 +91,7 @@ Learn more about creator 5 series from the exciting release trailer on Youtube:
 Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/c5-user-guide
 
 For User guide for your Creator 5，please load:  
-[260710-c5-user\_guide-standard\_edition-lm-cqy\_.pdf](https://wiki.flashforge.com/resource/pictures/creator5_en/quick_start_guide/260710-c5-user_guide-standard_edition-lm-cqy_.pdf)
+[260810-user\_guide\_for\_c5-standard\_version-fx.pdf](https://wiki.flashforge.com/resource/pictures/creator5_en/quick_start_guide/260810-user_guide_for_c5-standard_version-fx.pdf)
 
 ---
 
@@ -100,7 +100,7 @@ For User guide for your Creator 5，please load:
 Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/c5p-user-guide
 
 For User guide for your Creator 5 Pro，please load:  
-[260710-c5p-user\_guide-standard\_edition-lm-cqy.pdf](https://wiki.flashforge.com/resource/pictures/creator5_en/quick_start_guide/260710-c5p-user_guide-standard_edition-lm-cqy.pdf)
+[260810-user\_guide\_for\_c5p-standard\_version-fx.pdf](https://wiki.flashforge.com/resource/pictures/creator5_en/quick_start_guide/260810-user_guide_for_c5p-standard_version-fx.pdf)
 
 ---
 
@@ -605,7 +605,7 @@ Now that you have unboxed your Creator 5 printer,follow these steps to set up th
 ![c5p\_en13.jpg](https://wiki.flashforge.com/resource/pictures/creator5_en/quick_start_guide/c5p_en13.jpg)
 
 Before unpacking the printer, please download the attached Quick Guide and read it carefully：  
-[creator\_5\_pro\_quick\_start\_guide-pdf](https://wiki.flashforge.com/resource/pictures/creator5_en/quick_start_guide/260617-user_guide_for_c5p-standard_edition-lm-cqy.pdf)
+[creator\_5\_pro\_quick\_start\_guide-pdf](https://wiki.flashforge.com/resource/pictures/creator5_en/quick_start_guide/260810-quick_start_guide_for_c5p-standard_version-fx.pdf)
 
 ---
 
@@ -666,7 +666,7 @@ Now that you have unboxed your Creator 5 printer,follow these steps to set up th
 
 ![c5\_en13.jpg](https://wiki.flashforge.com/resource/pictures/creator5_en/quick_start_guide/c5_en13.jpg)
 
-For more detailed steps, please download and read the [creator\_5\_quick\_start\_guide-pdf](https://wiki.flashforge.com/resource/pictures/creator5_en/quick_start_guide/260617-_quick_start_guide_for_c5-standard_edition-fx.pdf)
+For more detailed steps, please download and read the [creator\_5\_quick\_start\_guide-pdf](https://wiki.flashforge.com/resource/pictures/creator5_en/quick_start_guide/260810-quick_start_guide_for_c5-standard_version-fx.pdf)
 
 ---
 
@@ -878,14 +878,14 @@ Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/waste-fil
 
 **1\. File Downloads**  
 **Step files:**  
-[Hanger.step](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/other/%E6%8C%82%E6%9E%B6.step)  
+[Hanger.step](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/other/hanger.step)  
 [Poop Bin (Hanger Version).step](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/other/%E6%94%B6%E6%96%99%E7%9B%92\(%E6%8C%82%E6%9E%B6%E7%89%88\).step)
 
 **G-code file(PLA):**  
-[Hanger + Poop Bin\_PLA\_2h51m.gcode](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/other/%E6%8C%82%E6%9E%B6%E6%94%B6%E6%96%99%E7%9B%92_pla_2h51m.gcode)
+[Hanger\_+\_Poop\_bin\_PLA\_3h19m.gcode](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/other/hanger_+_poop_bin_pla_pla_3h19m.gcode)
 
 **3MF file(PETG+PLA(support)):**  
-[hanger\_+\_poop\_bin\_PETG\_2h48m.gcode.3mf](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/other/%5Bhanger_+_poop_bin_petg_2h48m.gcode.3mf)
+[Hanger\_+\_Poop\_bin\_petg+pla\_3h11m.gcode.3mf](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/other/hanger_+_poop_bin_petg+pla_3h11m.gcode.3mf)
 
 **2.Print the downloaded file(s) using your 3D printer.**
 

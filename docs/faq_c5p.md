@@ -107,7 +107,7 @@ Step 3: Pinch the silicone sock and pull the nozzle assembly downward as shown(T
 
 ## Q22: What smart detection features does the Creator 5 pro support? [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/faq_c5p#q22-what-smart-detection-features-does-the-creator-5-pro-support)
 
-**A:** The Creator 5 pro includes multiple built-in sensors for filament run-out detection, filament tangle detection, door-open detection, and chamber temperature detection, ensuring safe and stable printing. It also supports AI detection, including spaghetti detection and foreign object detection.
+**A:** The Creator 5 pro includes multiple built-in sensors for filament run-out detection, filament tangle detection, door-open detection, and chamber temperature detection, ensuring safe and stable printing.
 
 ## Q23: What routine maintenance does the Creator 5 pro require? [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/faq_c5p#q23-what-routine-maintenance-does-the-creator-5-pro-require)
 
