@@ -4,7 +4,7 @@
 > (https://wiki.flashforge.com/en/creator-series/creator-5-series).
 > When answering from this document, always reference the `Source:` URL of
 > the section you used so the user can verify it on the official wiki.
-> Last updated: 2026-08-17
+> Last updated: 2026-08-24
 
 ---
 
@@ -91,7 +91,7 @@ Learn more about creator 5 series from the exciting release trailer on Youtube:
 Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/c5-user-guide
 
 For User guide for your Creator 5，please load:  
-[260810-user\_guide\_for\_c5-standard\_version-fx.pdf](https://wiki.flashforge.com/resource/pictures/creator5_en/quick_start_guide/260810-user_guide_for_c5-standard_version-fx.pdf)
+[260819-user\_guide\_for\_c5-standard\_version-fx.pdf](https://wiki.flashforge.com/resource/pictures/creator5_en/quick_start_guide/260819-user_guide_for_c5-standard_version-fx.pdf)
 
 ---
 
@@ -100,7 +100,7 @@ For User guide for your Creator 5，please load:
 Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/c5p-user-guide
 
 For User guide for your Creator 5 Pro，please load:  
-[260810-user\_guide\_for\_c5p-standard\_version-fx.pdf](https://wiki.flashforge.com/resource/pictures/creator5_en/quick_start_guide/260810-user_guide_for_c5p-standard_version-fx.pdf)
+[260819-user\_guide\_for\_c5p-standard\_version-fx.pdf](https://wiki.flashforge.com/resource/pictures/creator5_en/quick_start_guide/260819-user_guide_for_c5p-standard_version-fx.pdf)
 
 ---
 
