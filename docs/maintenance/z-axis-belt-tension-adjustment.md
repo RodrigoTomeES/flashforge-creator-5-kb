@@ -15,8 +15,6 @@ It is recommended to perform maintenance once every 3000 hours of printing;
 
 2.0mm and 2.5mm hex wrenches;
 
-Timing belt tension testing tool (can be self-made by downloading the document);
-
 **3、Tensioning Method**
 
 Click to view video on Z-axis belt tensioning：

@@ -4,7 +4,7 @@
 > (https://wiki.flashforge.com/en/creator-series/creator-5-series).
 > When answering from this document, always reference the `Source:` URL of
 > the section you used so the user can verify it on the official wiki.
-> Last updated: 2026-08-24
+> Last updated: 2026-08-31
 
 ---
 
@@ -413,7 +413,7 @@ Source: https://wiki.flashforge.com/en/creator-series/creator-5-series/maintenan
 **2、Nozzle cold pull tool:**
 
 Step file:  
-[nozzle\_cold\_pull\_tool.step](https://wiki.flashforge.com/resource/pictures/creator5_en/update_en/update_en/nozzle_cold_pull_tool.step)
+[nozzle\_cold\_pull\_tool.step](https://wiki.flashforge.com/resource/pictures/creator5_en/update_en/nozzle_cold_pull_tool.step)
 
 **3、Cold Pull Cleaning Method**  
 Below we take PLA material as an example for cold pull cleaning. Please read carefully and follow the instructions.：  
@@ -483,8 +483,6 @@ it is recommended to perform maintenance once **every 3000 hours of printing**;
 
 2.5mm hex key;
 
-Timing belt tension testing tool (can be self-made by downloading the document);
-
 **3、Tensioning Method**
 
 Click to view XY-axis belt tensioning video：
@@ -530,8 +528,6 @@ It is recommended to perform maintenance once every 3000 hours of printing;
 **2、Maintenance Tools**
 
 2.0mm and 2.5mm hex wrenches;
-
-Timing belt tension testing tool (can be self-made by downloading the document);
 
 **3、Tensioning Method**
 

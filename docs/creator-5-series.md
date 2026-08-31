@@ -55,7 +55,7 @@ We organize the troubleshooting methods based on the symptoms of the failure. Be
 
 You may also browse by the error code for creator 5M series to locate the issue quickly:
 
--   [Error code list for creator 5 series](error_code_creator_5.md)
+-   [Error code list for creator 5 series](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5)
 
 # Maintenance [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series#maintenance)
 

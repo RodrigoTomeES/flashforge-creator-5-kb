@@ -7,9 +7,9 @@ source: https://wiki.flashforge.com/en/creator-series/creator-5-series/faq_c5
 
 ## Q1: What filaments can the Creator 5 print? Which ones are recommended for high-quality results? [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/faq_c5#q1-what-filaments-can-the-creator-5-print-which-ones-are-recommended-for-high-quality-results)
 
-**A:** The Creator 5 supports a wide range of filaments: PLA, PETG, TPU 90A-95A, TPU 64D, SILK; PLA-CF, PETG-CF, PVA, BVOH; ABS, ASA, PA-CF, PET-CF, PAHT-CF, ASA-CF(GF), ABS-CF(GF), PPA-CF(GF), PPS-CF, S-Multi, S-PATH  
+**A:** The Creator 5 supports a wide range of filaments: PLA, PETG, TPU 90A-95A,TPU 90A (top-mounted)， TPU 64D, SILK; PLA-CF, PETG-CF, PVA, BVOH; ABS, ASA, PA-CF, PET-CF, PAHT-CF, ASA-CF(GF), ABS-CF(GF), PPA-CF(GF), PPS-CF, S-Multi, S-PATH  
 Recommended: PLA, PETG, TPU 90A-95A, PLA-CF, PETG-CF, SILK, PVA, BVOH, S-Multi, S-PATH  
-Capable: ABS, ASA, PA-CF, PET-CF, PAHT-CF, ASA-CF(GF), ABS-CF(GF), PPA-CF(GF), PPS-CF  
+Capable: ABS, ASA, PA-CF, PET-CF, PAHT-CF, ASA-CF(GF), ABS-CF(GF), PPA-CF(GF), PPS-CF，TPU 90A (top-mounted).  
 As this is an open-frame printer, filaments listed as "Capable" can be printed but may not deliver full performance. For optimal results, we recommend using the Creator 5 Pro.
 
 ## Q2: Does the Creator 5 support automatic filament loading into the extruder? [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/faq_c5#q2-does-the-creator-5-support-automatic-filament-loading-into-the-extruder)

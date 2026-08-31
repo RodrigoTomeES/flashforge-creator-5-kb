@@ -15,7 +15,7 @@ source: https://wiki.flashforge.com/en/creator-series/creator-5-series/maintenan
 **2、Nozzle cold pull tool:**
 
 Step file:  
-[nozzle\_cold\_pull\_tool.step](https://wiki.flashforge.com/resource/pictures/creator5_en/update_en/update_en/nozzle_cold_pull_tool.step)
+[nozzle\_cold\_pull\_tool.step](https://wiki.flashforge.com/resource/pictures/creator5_en/update_en/nozzle_cold_pull_tool.step)
 
 **3、Cold Pull Cleaning Method**  
 Below we take PLA material as an example for cold pull cleaning. Please read carefully and follow the instructions.：  
