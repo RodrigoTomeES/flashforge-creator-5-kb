@@ -1,6 +1,6 @@
 # FlashForge Creator 5 Series — Wiki Mirror Index
 
-Mirrored from the official FlashForge wiki on 2026-08-31.
+Mirrored from the official FlashForge wiki on 2026-09-07.
 Root page: https://wiki.flashforge.com/en/creator-series/creator-5-series
 
 | Page | Local file | Original wiki URL |
@@ -17,6 +17,7 @@ Root page: https://wiki.flashforge.com/en/creator-series/creator-5-series
 | Clean and Lubricate the Y-Axis Linear Guide Rail | [maintenance/clean-and-lubricate-the-y-axis-linear-guide-rail.md](maintenance/clean-and-lubricate-the-y-axis-linear-guide-rail.md) | https://wiki.flashforge.com/en/creator-series/creator-5-series/maintenance/clean-and-lubricate-the-y-axis-linear-guide-rail |
 | Cooling Fan Dust Cleaning | [maintenance/cooling-fan-dust-cleaning.md](maintenance/cooling-fan-dust-cleaning.md) | https://wiki.flashforge.com/en/creator-series/creator-5-series/maintenance/cooling-fan-dust-cleaning |
 | Exhaust Fan Dust Cleaning | [maintenance/exhaust-fan-dust-cleaning.md](maintenance/exhaust-fan-dust-cleaning.md) | https://wiki.flashforge.com/en/creator-series/creator-5-series/maintenance/exhaust-fan-dust-cleaning |
+| How to Maintain the Creator 5 Extruder Positioning Plate Needle Rollers and Extruder Mount Positioning Balls | [maintenance/extruder-mount-positioning-balls.md](maintenance/extruder-mount-positioning-balls.md) | https://wiki.flashforge.com/en/creator-series/creator-5-series/maintenance/extruder-mount-positioning-balls |
 | Feed Motor Gear Debris Cleaning | [maintenance/feed-motor-gear-debris-cleaning.md](maintenance/feed-motor-gear-debris-cleaning.md) | https://wiki.flashforge.com/en/creator-series/creator-5-series/maintenance/feed-motor-gear-debris-cleaning |
 | Filter Cartridge Replacement | [maintenance/filter-cartridge-replacement.md](maintenance/filter-cartridge-replacement.md) | https://wiki.flashforge.com/en/creator-series/creator-5-series/maintenance/filter-cartridge-replacement |
 | Heatsink Fan Dust Cleaning | [maintenance/heatsink-fan-dust-cleaning.md](maintenance/heatsink-fan-dust-cleaning.md) | https://wiki.flashforge.com/en/creator-series/creator-5-series/maintenance/heatsink-fan-dust-cleaning |
