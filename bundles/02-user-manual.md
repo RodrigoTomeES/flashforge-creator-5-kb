@@ -4,7 +4,7 @@
 > (https://wiki.flashforge.com/en/creator-series/creator-5-series).
 > When answering from this document, always reference the `Source:` URL of
 > the section you used so the user can verify it on the official wiki.
-> Last updated: 2026-09-07
+> Last updated: 2026-09-28
 
 ---
 
@@ -181,7 +181,7 @@ You can also export timelapse videos or device logs to the USB drive.
 
 ### Requirements [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/connect-usb-drive#requirements)
 
--   **File System**: FAT32 only. exFAT, NTFS, and encrypted partitions are not supported.
+-   **File System**: Supports FAT32, exFAT, and NTFS (requires firmware v1.9.9 or later). Encrypted partitions are not supported.
 -   **Storage Protocol**: USB 2.0 or higher (minimum 10 MB/s write speed).
 -   **Capacity**: Max capacity depends on formatting OS. Windows: up to 32 GB; Linux/macOS: up to 2 TB.
 
@@ -902,6 +902,9 @@ Requirements: A backup extruder can only be used if its filament Type and Color 
 Example: If the filament in Slot 1 is insufficient, you can load the same type and color into Slots 2, 3, or 4. The printer will automatically switch to the next available slot to continue printing once the current filament runs out.
 
 ![en1.jpg](https://wiki.flashforge.com/resource/pictures/creator5_en/refill_printing/en1.jpg)
+
+> NOTE：  
+> When installing new filament before printing, perform a loading operation to discharge the remaining filament in the original nozzle; otherwise, the remaining filament in the original extruder may contaminate the printed model during refill printing.
 
 ---
 

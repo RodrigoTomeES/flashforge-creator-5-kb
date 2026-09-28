@@ -53,9 +53,9 @@ We organize the troubleshooting methods based on the symptoms of the failure. Be
 -   [Flash Studio issues](troubleshooting-flash-studio.md)
 -   [Filament usage guide for creator 5 series](filament_usage_guide.md)
 
-You may also browse by the error code for creator 5M series to locate the issue quickly:
+You may also browse by the error code for creator 5 series to locate the issue quickly:
 
--   [Error code list for creator 5 series](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5)
+-   [Error code list for creator 5 series](error_code_creator_5.md)
 
 # Maintenance [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series#maintenance)
 

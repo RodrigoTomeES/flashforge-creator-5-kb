@@ -39,6 +39,7 @@ source: https://wiki.flashforge.com/en/creator-series/creator-5-series/maintenan
 -   [Exhaust Fan Dust Cleaning](maintenance/exhaust-fan-dust-cleaning.md)
 -   [Filter Cartridge Replacement](maintenance/filter-cartridge-replacement.md)
 -   [How to Maintain the Creator 5 Extruder Positioning Plate Needle Rollers and Extruder Mount Positioning Balls](maintenance/extruder-mount-positioning-balls.md)
+-   [Nozzle Residue Cleaning](maintenance/clean-remain-filament-on-nozzle.md)
 
 # Maintenance video for Creator 5 Series [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/maintenance#maintenance-video-for-creator-5-series)
 

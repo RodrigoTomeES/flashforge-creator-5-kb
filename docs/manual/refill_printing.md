@@ -10,3 +10,6 @@ Requirements: A backup extruder can only be used if its filament Type and Color 
 Example: If the filament in Slot 1 is insufficient, you can load the same type and color into Slots 2, 3, or 4. The printer will automatically switch to the next available slot to continue printing once the current filament runs out.
 
 ![en1.jpg](https://wiki.flashforge.com/resource/pictures/creator5_en/refill_printing/en1.jpg)
+
+> NOTE：  
+> When installing new filament before printing, perform a loading operation to discharge the remaining filament in the original nozzle; otherwise, the remaining filament in the original extruder may contaminate the printed model during refill printing.

@@ -4,7 +4,7 @@
 > (https://wiki.flashforge.com/en/creator-series/creator-5-series).
 > When answering from this document, always reference the `Source:` URL of
 > the section you used so the user can verify it on the official wiki.
-> Last updated: 2026-09-07
+> Last updated: 2026-09-28
 
 ---
 
@@ -60,7 +60,7 @@ We organize the troubleshooting methods based on the symptoms of the failure. Be
 -   [Flash Studio issues](https://wiki.flashforge.com/en/creator-series/creator-5-series/troubleshooting-flash-studio)
 -   [Filament usage guide for creator 5 series](#filament-usage-guide-for-creator-5-series)
 
-You may also browse by the error code for creator 5M series to locate the issue quickly:
+You may also browse by the error code for creator 5 series to locate the issue quickly:
 
 -   [Error code list for creator 5 series](https://wiki.flashforge.com/en/creator-series/creator-5-series/error_code_creator_5)
 

@@ -13,7 +13,7 @@ You can also export timelapse videos or device logs to the USB drive.
 
 ## Requirements [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/connect-usb-drive#requirements)
 
--   **File System**: FAT32 only. exFAT, NTFS, and encrypted partitions are not supported.
+-   **File System**: Supports FAT32, exFAT, and NTFS (requires firmware v1.9.9 or later). Encrypted partitions are not supported.
 -   **Storage Protocol**: USB 2.0 or higher (minimum 10 MB/s write speed).
 -   **Capacity**: Max capacity depends on formatting OS. Windows: up to 32 GB; Linux/macOS: up to 2 TB.
 
