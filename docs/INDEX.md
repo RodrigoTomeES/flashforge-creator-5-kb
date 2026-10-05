@@ -1,6 +1,6 @@
 # FlashForge Creator 5 Series — Wiki Mirror Index
 
-Mirrored from the official FlashForge wiki on 2026-09-28.
+Mirrored from the official FlashForge wiki on 2026-10-05.
 Root page: https://wiki.flashforge.com/en/creator-series/creator-5-series
 
 | Page | Local file | Original wiki URL |
@@ -61,6 +61,7 @@ Root page: https://wiki.flashforge.com/en/creator-series/creator-5-series
 | Unboxing Your  Creator 5 | [manual/unboxing-your-creator-5.md](manual/unboxing-your-creator-5.md) | https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5 |
 | Unboxing Your Creator 5  Pro | [manual/unboxing-your-creator-5-pro.md](manual/unboxing-your-creator-5-pro.md) | https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/unboxing-your-creator-5-pro |
 | Motion Control | [manual/XYZ-E-movement-control.md](manual/XYZ-E-movement-control.md) | https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/XYZ-E-movement-control |
+| Z Offset Settings | [manual/z-offset-set.md](manual/z-offset-set.md) | https://wiki.flashforge.com/en/creator-series/creator-5-series/manual/z-offset-set |
 | Creator Series Troubleshooting: Equipment Hardware Issues | [troubleshooting-equipment-hardware-issues.md](troubleshooting-equipment-hardware-issues.md) | https://wiki.flashforge.com/en/creator-series/creator-5-series/troubleshooting-equipment-hardware-issues |
 | Troubleshooting: Equipment Usage Issues | [troubleshooting-equipment-usage-issues.md](troubleshooting-equipment-usage-issues.md) | https://wiki.flashforge.com/en/creator-series/creator-5-series/troubleshooting-equipment-usage-issues |
 | Flash Studio issues | [troubleshooting-flash-studio.md](troubleshooting-flash-studio.md) | https://wiki.flashforge.com/en/creator-series/creator-5-series/troubleshooting-flash-studio |

@@ -4,7 +4,7 @@
 > (https://wiki.flashforge.com/en/creator-series/creator-5-series).
 > When answering from this document, always reference the `Source:` URL of
 > the section you used so the user can verify it on the official wiki.
-> Last updated: 2026-09-28
+> Last updated: 2026-10-05
 
 ---
 
@@ -296,6 +296,14 @@ Before Cleaning：
 
 After cleaning：  
 ![喷嘴清理7.png](https://wiki.flashforge.com/resource/pictures/%E4%B8%AD%E6%96%87/creator5/other/%E5%96%B7%E5%98%B4%E6%B8%857.png)
+
+Reference for Cleaning Temperatures for Different Filaments：
+
+| Filaments Type | Silicone Sock Cleaning Temperatures | Nozzle Cleaning Temperatures | Filaments Of Cleaning Tools |
+| --- | --- | --- | --- |
+| PLA | 150℃ | 140℃ | PLA |
+| PETG | NA | 140℃ | PETG |
+| TPU | NA | 140℃ | PLA |
 
 ---
 

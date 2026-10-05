@@ -40,6 +40,7 @@ source: https://wiki.flashforge.com/en/creator-series/creator-5-series/manual
 -   [Network Setup](manual/network-setup.md)
 -   [Monitoring & Timelapse](manual/monitoring-and-timelapse.md)
 -   [Connect a USB Drive](manual/connect-usb-drive.md)
+-   [Z Offset Settings](manual/z-offset-set.md)
 
 # Firmware Update [\[wiki §\]](https://wiki.flashforge.com/en/creator-series/creator-5-series/manual#firmware-update)
 
